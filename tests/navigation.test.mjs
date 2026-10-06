@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { currentBook } from '../site/assets/js/lib/scope.js';
+import { currentBook, firstRefIn } from '../site/assets/js/lib/scope.js';
 import { prefs } from '../site/assets/js/lib/store.js';
 
 test('reading shortcuts follow the displayed book before a remembered study scope', () => {
@@ -23,4 +23,12 @@ test('reading shortcuts follow the displayed book before a remembered study scop
     prefs.lastRead = null;
     assert.deepEqual(currentBook(cat), { work: work.id, book: 13 });
   } finally { Object.assign(prefs, before); }
+});
+
+test('scoped notes without a matching line show a book label, never line 99999', () => {
+  const scope = 'homer.iliad.13';
+  const cat = { by: { scopes: new Map([[scope, { work: 'homer.iliad', book: 13 }]]) } };
+  assert.equal(firstRefIn({ in: { [scope]: [0, 0] } }, scope, cat), 'Book 13');
+  assert.equal(firstRefIn({ in: { [scope]: [2, 45] } }, scope, cat), '13.45');
+  assert.equal(firstRefIn({ in: {} }, scope, cat), '');
 });
