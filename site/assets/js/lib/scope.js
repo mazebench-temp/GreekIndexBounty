@@ -52,7 +52,12 @@ export function chooseScope(requested, available) {
 export function remember(S) { store.setPref('scope', S); }
 
 /** The book in hand: the book being studied, else the last one read, else the newest available. */
-export function currentBook(cat) {
+export function currentBook(cat, route) {
+  if (route && ['read', 'book', 'vocab'].includes(route.name)) {
+    const [work, number] = route.parts;
+    const book = Number(number);
+    if (cat.by.works.get(work)?.available.includes(book)) return { work, book };
+  }
   const d = cat.by.scopes.get(store.prefs.scope);
   if (d?.kind === 'book') return { work: d.work, book: d.book };
   const last = store.prefs.lastRead;

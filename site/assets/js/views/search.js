@@ -33,7 +33,7 @@ export async function render(route, { setQuery }) {
   const view = el(`<div class="view">
     <header class="page-head" style="padding-bottom:10px">
       <h1 class="large-title" data-title-anchor>${lemma ? esc(lemma) : 'Search'}</h1>
-      ${lemma ? '<p class="page-sub">Every line in which this word appears, in any form.</p>' : '<p class="page-sub">Names, Greek words (with or without accents, or transliterated: <i>menin</i>), and phrases in either language.</p>'}
+      ${lemma ? '<p class="page-sub">Every line in which this word appears, in any form.</p>' : ''}
     </header>
     ${lemma ? '' : `<div style="display:flex;flex-direction:column;gap:10px">
       <label class="search-field" for="search-q">${icon('search')}<input id="search-q" type="search" placeholder="μῆνις, Achilles, hecatomb…" value="${esc(q)}" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search"><button class="clear" type="button" aria-label="Clear" ${q ? '' : 'hidden'}>${icon('x')}</button></label>
@@ -67,8 +67,7 @@ export async function render(route, { setQuery }) {
       const recent = store.prefs.recent ?? [];
       results.innerHTML = `${recent.length ? `<div class="section-head" style="margin-top:18px"><h2 class="section-title small">Recent</h2></div>
         <div class="chips wrap">${recent.map(r => `<button class="chip" type="button" data-q="${esc(r)}">${esc(r)}</button>`).join('')}</div>` : ''}
-        <div class="section-head" style="margin-top:22px"><h2 class="section-title small">Try</h2></div>
-        <div class="chips wrap">${['μῆνις', 'menin', 'Thetis', 'hecatomb', 'ἄποινα', 'scepter', 'Olympus', 'honor', 'κύνεσσιν', 'rosy-fingered'].map(r => `<button class="chip" type="button" data-q="${esc(r)}">${esc(r)}</button>`).join('')}</div>`;
+`;
       return;
     }
     const greek = hasGreek(query);

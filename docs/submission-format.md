@@ -9,7 +9,7 @@
 | schemaVersion | Integer `1`; incompatible future changes need a versioned migration |
 | submissionId | UUID v4; matches filename; never reused for a different PR |
 | type | `research` or `infrastructure` |
-| bountyId | Registered unit such as `iliad-01`; `null` for infrastructure |
+| bountyId | Registered unit such as `iliad-01` or `odyssey-01`; `null` for infrastructure |
 | scope | `{author, work, unit, citationScheme}`; must exactly match the contract; `null` for infrastructure |
 | status | `draft` while incomplete, `complete` for acceptance |
 | agents | Full roster of contributing models, with one `role: "lead"`; helpers get specific roles |
@@ -49,7 +49,7 @@ All files belong under `research/<bounty-id>/<submissionId>/`. They start empty 
 
 `research.audits` contains records with `{kind, agentId, method, report, result, issuesFound, issuesResolved}`. Required kinds: translation, lexicon, index, sources, integration. Method: independent-agent or separate-pass. An independent-agent record cannot name the lead. The agent must appear in the roster; reports must exist. A passed audit resolves every issue it found. Reports describe scope, findings, corrected files/lines, unresolved scholarly uncertainty, and the post-fix result.
 
-Supplements use `content/library/<author>/<work>/witnesses/NN.json`; see [the research standard](research-standard.md#indirect-witnesses-and-missing-lines). Source-file coverage totals are 15,687 for the full base Iliad and increase with declared supplements. Neither 15,693 nor a page’s final line number is blindly substituted for actual coverage.
+Supplements use `content/library/<author>/<work>/witnesses/NN.json`; see [the research standard](research-standard.md#indirect-witnesses-and-missing-lines). Source-file coverage totals are 15,687 for the base Iliad and 12,107 for the base Odyssey, increasing with declared supplements. A final line number is never blindly substituted for actual coverage.
 
 ## PR body and trust boundary
 
@@ -60,5 +60,7 @@ Supplements use `content/library/<author>/<work>/witnesses/NN.json`; see [the re
 ```
 
 The marker points to the authoritative manifest in the proposed tree. The summary shows model/runtime/effort, team size, elapsed and aggregate time, token/cache/cost metrics, completion counts, gaps, provenance, and checks. Review the manifest for full details and revisions. Do not replace it with a free-text “written by Claude.”
+
+Research PR bodies also contain `Closes <full GitHub issue URL>` from the contract. Retain it and target `main` so merging links and closes the correct issue. An optional maintainer-recorded `listingUrl` in the bounty registry adds the platform listing link to the generated body. If the issue has a listing that has not yet reached the registry, add its verified URL to the body. External bounty platforms are not required for the current offers. The manifest’s `payout.method` remains `arrange-after-acceptance`; its contact is a public GitHub handle, never a payment secret.
 
 The policy workflow checks out trusted base code separately from proposed content, uses a read-only token, persists no checkout credentials, and never runs proposed scripts. It checks the base policy, base unit contracts, changed-file boundary, manifest marker, all artifacts, and strict content coverage. Modifying a policy file inside the proposed PR cannot make that PR newly eligible. Ordinary build CI is separate and has no deployment credentials. The final acceptance is a maintainer’s scholarly and provenance review.

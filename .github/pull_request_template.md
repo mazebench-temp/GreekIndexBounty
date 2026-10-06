@@ -4,6 +4,10 @@ Generate this body from your completed manifest:
 
 Use the generated text in this PR. Do not remove its machine-readable manifest marker.
 
+For research, retain `Closes <full GitHub issue URL>` in the PR body and target `main`.
+Payment is arranged with the maintainer after acceptance and merge. No external
+bounty-platform registration or wallet connection is required to submit.
+
 Every PR requires an eligible Opus 5.5 or Fable 5.5 lead, a full agent roster,
 runtime/model evidence, exact reasoning settings, honest time/token disclosures,
 completion/gap reporting, validation logs, and a new submission manifest.

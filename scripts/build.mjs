@@ -566,8 +566,7 @@ export function build({ write = true, log = console.log } = {}) {
   for (const e of entries) if (e.kind === 'story') periodCounts.set(e.period, (periodCounts.get(e.period) ?? 0) + 1);
 
   const catalog = {
-    bounties: readJson(path.join(ROOT, 'bounties/registry.json')),
-    site: { title: 'GreekIndexBounty', greek: 'Πίνακες', built: new Date().toISOString() },
+    site: { title: 'Pinakes', greek: 'Πίνακες', repository: 'https://github.com/mazebench-temp/GreekIndexBounty', built: new Date().toISOString() },
     authors: authors.map(a => ({ ...a, works: works.filter(w => w.author === a.id).map(w => w.id) })),
     works: works.map(w => ({
       id: w.id, author: w.author, title: w.title, greek: w.greek, genre: w.genre, meter: w.meter, date: w.date,

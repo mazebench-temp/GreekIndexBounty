@@ -1,0 +1,17 @@
+{
+  "543": {
+    "kind": "indirect-witness",
+    "greek": "[Ζεὺς γάρ οἱ νεμέσασχʼ, ὅτʼ ἀμείνονι φωτὶ μάχοιτο.]",
+    "source": {
+      "author": "Aristotle",
+      "work": "Rhetoric",
+      "locator": "2.9.11, 1387a–b",
+      "url": "https://kairos.technorhetoric.net/stasis/2017/honeycutt/aristotle/rhet2-9.html",
+      "accessedAt": "2026-10-06",
+      "rights": "Ancient text; Greek wording and brackets preserved from the owner-authorized Pinakes import, credited there to Monro–Allen/Perseus (CC BY-SA). The linked translation was consulted to verify the witness identification; its prose is not reproduced."
+    },
+    "basis": "Pinakes preserves Iliad 11.543 in brackets and attributes it to Aristotle, Rhetoric, 2.9.11, 1387a–b, in TRANSLATION.md and the linked reception article. The cited primary passage corroborates this quotation; the pinned Perseus Iliad file has no record at this number.",
+    "certainty": "Attested indirect quotation; presence in the Homeric manuscript tradition and original textual status are not asserted.",
+    "editorialNote": "Imported unchanged from Pinakes, including its square brackets. Preserved through Aristotle; supplementary to this project’s pinned base-file inventory."
+  }
+}

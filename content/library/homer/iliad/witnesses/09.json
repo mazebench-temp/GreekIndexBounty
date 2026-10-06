@@ -1,0 +1,62 @@
+{
+  "458": {
+    "kind": "indirect-witness",
+    "greek": "[τὸν μὲν ἐγὼ βούλευσα κατακτάμεν ὀξέϊ χαλκῷ·]",
+    "source": {
+      "author": "Plutarch",
+      "work": "How to Study Poetry",
+      "locator": "Moralia 26F–27A",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Quomodo_adolescens%2A.html",
+      "accessedAt": "2026-10-06",
+      "rights": "Ancient text; Greek wording and brackets preserved from the owner-authorized Pinakes import, credited there to Monro–Allen/Perseus (CC BY-SA). The linked translation was consulted to verify the witness identification; its prose is not reproduced."
+    },
+    "basis": "Pinakes preserves Iliad 9.458 in brackets and attributes it to Plutarch, How to Study Poetry, Moralia 26F–27A, in TRANSLATION.md and the linked reception article. The cited primary passage corroborates this quotation; the pinned Perseus Iliad file has no record at this number.",
+    "certainty": "Attested indirect quotation; presence in the Homeric manuscript tradition and original textual status are not asserted.",
+    "editorialNote": "Imported unchanged from Pinakes, including its square brackets. Preserved through Plutarch; supplementary to this project’s pinned base-file inventory."
+  },
+  "459": {
+    "kind": "indirect-witness",
+    "greek": "[ἀλλά τις ἀθανάτων παῦσεν χόλον, ὅς ῥʼ ἐνὶ θυμῷ]",
+    "source": {
+      "author": "Plutarch",
+      "work": "How to Study Poetry",
+      "locator": "Moralia 26F–27A",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Quomodo_adolescens%2A.html",
+      "accessedAt": "2026-10-06",
+      "rights": "Ancient text; Greek wording and brackets preserved from the owner-authorized Pinakes import, credited there to Monro–Allen/Perseus (CC BY-SA). The linked translation was consulted to verify the witness identification; its prose is not reproduced."
+    },
+    "basis": "Pinakes preserves Iliad 9.459 in brackets and attributes it to Plutarch, How to Study Poetry, Moralia 26F–27A, in TRANSLATION.md and the linked reception article. The cited primary passage corroborates this quotation; the pinned Perseus Iliad file has no record at this number.",
+    "certainty": "Attested indirect quotation; presence in the Homeric manuscript tradition and original textual status are not asserted.",
+    "editorialNote": "Imported unchanged from Pinakes, including its square brackets. Preserved through Plutarch; supplementary to this project’s pinned base-file inventory."
+  },
+  "460": {
+    "kind": "indirect-witness",
+    "greek": "[δήμου θῆκε φάτιν καὶ ὀνείδεα πόλλʼ ἀνθρώπων,]",
+    "source": {
+      "author": "Plutarch",
+      "work": "How to Study Poetry",
+      "locator": "Moralia 26F–27A",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Quomodo_adolescens%2A.html",
+      "accessedAt": "2026-10-06",
+      "rights": "Ancient text; Greek wording and brackets preserved from the owner-authorized Pinakes import, credited there to Monro–Allen/Perseus (CC BY-SA). The linked translation was consulted to verify the witness identification; its prose is not reproduced."
+    },
+    "basis": "Pinakes preserves Iliad 9.460 in brackets and attributes it to Plutarch, How to Study Poetry, Moralia 26F–27A, in TRANSLATION.md and the linked reception article. The cited primary passage corroborates this quotation; the pinned Perseus Iliad file has no record at this number.",
+    "certainty": "Attested indirect quotation; presence in the Homeric manuscript tradition and original textual status are not asserted.",
+    "editorialNote": "Imported unchanged from Pinakes, including its square brackets. Preserved through Plutarch; supplementary to this project’s pinned base-file inventory."
+  },
+  "461": {
+    "kind": "indirect-witness",
+    "greek": "[ὡς μὴ πατροφόνος μετʼ Ἀχαιοῖσιν καλεοίμην.]",
+    "source": {
+      "author": "Plutarch",
+      "work": "How to Study Poetry",
+      "locator": "Moralia 26F–27A",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Quomodo_adolescens%2A.html",
+      "accessedAt": "2026-10-06",
+      "rights": "Ancient text; Greek wording and brackets preserved from the owner-authorized Pinakes import, credited there to Monro–Allen/Perseus (CC BY-SA). The linked translation was consulted to verify the witness identification; its prose is not reproduced."
+    },
+    "basis": "Pinakes preserves Iliad 9.461 in brackets and attributes it to Plutarch, How to Study Poetry, Moralia 26F–27A, in TRANSLATION.md and the linked reception article. The cited primary passage corroborates this quotation; the pinned Perseus Iliad file has no record at this number.",
+    "certainty": "Attested indirect quotation; presence in the Homeric manuscript tradition and original textual status are not asserted.",
+    "editorialNote": "Imported unchanged from Pinakes, including its square brackets. Preserved through Plutarch; supplementary to this project’s pinned base-file inventory."
+  }
+}

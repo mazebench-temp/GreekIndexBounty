@@ -17,7 +17,6 @@ function browser(cat) {
   const view = el(`<div class="view">
     <header class="page-head">
       <h1 class="large-title" data-title-anchor>Tags</h1>
-      <p class="page-sub">${used.length} seed tags in ${cat.facets.length} facets. Tags nest, so a parent includes its children: <a href="#/tags/sea-deity">#sea deity</a> takes in <a href="#/tags/nereid">#nereid</a>. Combine tags on any tag page.</p>
     </header>
     ${cat.facets.map(f => {
       const roots = used.filter(t => t.facet === f.id && !(t.parent && cat.by.tags.has(t.parent)));
