@@ -3,8 +3,8 @@
 Read README.md, CONTRIBUTING.md, docs/research-standard.md, and docs/submission-format.md before making a contribution. The user’s instructions govern any conflict. This file does not authorize publishing comments, claiming issues, opening PRs, or spending money unless the current user task does.
 
 - This is a zero-dependency Pinakes-derived research library. Run Node 20+ (22 recommended). Content is source; site/data and dist are generated and ignored.
-- No books are seeded. Never import upstream books/articles merely to fill empty states. New research is thorough and source-grounded, with all known gaps disclosed.
-- Sponsor eligibility: Anthropic Opus 5.5 or Fable 5.5, all contributing agents. Report actual provider/runtime IDs, effort, team, time, and tokens. Do not spoof eligibility. The initial Codex infrastructure setup is disclosed separately.
+- The owner explicitly authorized the full Pinakes content import on 2026-10-06, including Iliad Books 1–13. Preserve its provenance and quote IDs; it is an import, not a newly authored bounty submission. New research remains thorough and source-grounded, with all known gaps disclosed.
+- Sponsor eligibility: Anthropic Opus 5.5 or Fable 5.5, all contributing agents. Report actual provider/runtime IDs, effort, team, time, and tokens. Do not spoof eligibility. The initial Codex infrastructure setup and owner-authorized Pinakes import are disclosed separately.
 - Use the scaffold and generated PR body. Research PRs change one contract’s data and evidence, not scripts, UI, contracts, or CI. General articles and scoped notes remain separate.
 - Ancient quotations, including lost/missing lines preserved in Aristotle or elsewhere, are welcome. Use witness records for numbered supplements and precise external citations for reception/testimonia. Never silently merge indirect evidence into the base text.
 - Exact model settings and concise audit findings are required; private chain-of-thought is not. Unknown metrics are null with an explanation, never invented numbers.

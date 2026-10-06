@@ -2,7 +2,7 @@ import { el, esc, icon, on, debounce, kindIcon } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { segmented } from '../ui/components.js';
 import { normalize, transliterate, hasGreek, foldLatin } from '../lib/greek.js';
-import { ALL, presentIn, linesIn, firstKeyIn, remember, label as scopeLabel, scopeTree, treeScopes, pickerHtml } from '../lib/scope.js';
+import { ALL, presentIn, linesIn, firstKeyIn, firstRefIn, remember, label as scopeLabel, scopeTree, treeScopes, pickerHtml } from '../lib/scope.js';
 
 /** Catalog order: ignore leading punctuation and articles ("The sea" files under S). */
 export const sortKey = t => t.normalize('NFD').replace(/[\u0300-\u036F]/g, '').replace(/^[^A-Za-z0-9]+/, '').replace(/^(the|a|an)\s+/i, '');
@@ -69,6 +69,8 @@ export async function render(route, { setQuery }) {
     <nav class="alpha" aria-hidden="true"></nav>
   </div>`);
 
+  view.querySelector('.index-tools').hidden = !cat.entries.length;
+  view.querySelector('.page-sub').hidden = !cat.entries.length;
   const results = view.querySelector('.results');
   const alpha = view.querySelector('.alpha');
   const input = view.querySelector('#index-q');
@@ -77,21 +79,21 @@ export async function render(route, { setQuery }) {
   const counts = () => {
     const pool = inScope();
     view.querySelector('.page-sub').textContent = S === ALL
-      ? `${cat.stats.entries.toLocaleString()} entries: every name, place, people, god and creature in the text, and the words, customs, stories and ideas around them.`
-      : `${pool.length.toLocaleString()} entries present in ${scopeLabel(S, cat)}, of ${cat.stats.entries.toLocaleString()} in the index.`;
+      ? `${cat.stats.entries.toLocaleString()} entries`
+      : `${pool.length.toLocaleString()} entries · ${scopeLabel(S, cat)}`;
     view.querySelectorAll('[data-n]').forEach(n => { n.textContent = (n.dataset.n === 'all' ? pool : pool.filter(e => e.kind === n.dataset.n)).length; });
     view.querySelectorAll('.chip[data-k]').forEach(c => { c.hidden = c.dataset.k !== 'all' && c.dataset.k !== kind && !pool.some(e => e.kind === c.dataset.k); });
   };
   const draw = () => {
     const lines = e => linesIn(e, S, cat);
-    const row = (e, opts) => entryRow(e, cat, { ...opts, count: lines(e), first: S === ALL ? e.first : (() => { const k = firstKeyIn(e, S, cat); const m = k.match(/(\d+)\.(\d+)$/); return m ? `${+m[1]}.${+m[2]}` : ''; })() });
+    const row = (e, opts) => entryRow(e, cat, { ...opts, count: lines(e), first: S === ALL ? e.first : firstRefIn(e, S, cat) });
     let list = inScope().filter(e => kind === 'all' || e.kind === kind);
     if (q) list = list.map(e => [e, matchEntry(e, q)]).filter(([, s]) => s > 0).sort((a, b) => b[1] - a[1] || a[0].title.localeCompare(b[0].title)).map(([e]) => e);
     else if (sort === 'freq') list.sort((a, b) => lines(b) - lines(a) || a.title.localeCompare(b.title));
     else if (sort === 'text') list.sort((a, b) => firstKeyIn(a, S, cat).localeCompare(firstKeyIn(b, S, cat)) || a.title.localeCompare(b.title));
     else list.sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title), 'en', { sensitivity: 'base' }));
 
-    if (!cat.entries.length) { results.innerHTML = `<div class="notice-card"><h2>The index starts here.</h2><p>No researched articles have been submitted yet. Each accepted book will add new articles and connect them to the Greek text.</p><p><a href="#/bounties">Explore the research bounties →</a></p></div>`; alpha.innerHTML = ''; return; }
+    if (!cat.entries.length) { results.innerHTML = `<div class="list"><div class="list-empty">No entries.</div></div>`; alpha.innerHTML = ''; return; }
     if (!list.length) { results.innerHTML = `<div class="list"><div class="list-empty">Nothing in the index matches “${esc(q)}”. Try Greek (μῆνις), a transliteration (menis), or <a href="#/search?q=${encodeURIComponent(q)}">search the text</a>.</div></div>`; alpha.innerHTML = ''; return; }
 
     if (!q && sort === 'az') {

@@ -2,3 +2,10 @@ node_modules/
 site/data/
 .DS_Store
 dist/
+
+# Accident prevention only; store payment credentials in a password manager.
+.env
+.env.*
+!.env.example
+.secrets/
+.private/

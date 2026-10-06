@@ -20,22 +20,101 @@
   },
   "display": "verse",
   "bookCount": 24,
-  "books": {},
+  "books": {
+    "1": {
+      "letter": "Α",
+      "title": "The Wrath",
+      "greek": "Λοιμός, Μῆνις",
+      "summary": "Apollo’s plague, the quarrel of Agamemnon and Achilles, Achilles’ withdrawal, Thetis’ appeal to Zeus, and a quarrel among the gods ended by laughter."
+    },
+    "2": {
+      "letter": "Β",
+      "title": "The Dream and the Catalogue",
+      "greek": "Ὄνειρος, Βοιωτία",
+      "summary": "Zeus sends a lying dream to Agamemnon. Agamemnon tests the army, and it runs for the ships; Odysseus turns it back and beats Thersites. The army is marshaled, and the poet calls on the Muses to name the leaders and ships of the Achaeans and the allies of Troy."
+    },
+    "3": {
+      "letter": "Γ",
+      "title": "The Duel",
+      "greek": "Ὅρκοι, Τειχοσκοπία, Ἀλεξάνδρου καὶ Μενελάου μονομαχία",
+      "summary": "The armies meet, and Paris offers to fight Menelaus for Helen. Helen, called to the wall, names the Achaean leaders for Priam. Oaths are sworn; Menelaus is winning when Aphrodite snatches Paris away and sends Helen to his bed."
+    },
+    "4": {
+      "letter": "Δ",
+      "title": "The Breaking of the Oaths",
+      "greek": "Ὁρκίων σύγχυσις, Ἀγαμέμνονος ἐπιπώλησις",
+      "summary": "The gods agree that Troy shall fall, and Athena sends Pandarus to break the truce with an arrow at Menelaus. Machaon heals the wound. Agamemnon reviews his army, praising and rebuking its leaders, and the first battle of the poem begins."
+    },
+    "5": {
+      "letter": "Ε",
+      "title": "The Aristeia of Diomedes",
+      "greek": "Διομήδους ἀριστεία",
+      "summary": "Athena fills Diomedes with might. He kills Pandarus, wounds Aeneas, and wounds Aphrodite as she carries her son away; Apollo saves Aeneas. Ares and Hector drive the Achaeans back until Hera and Athena come down from Olympus, and Diomedes, with Athena in his chariot, wounds Ares himself."
+    },
+    "6": {
+      "letter": "Ζ",
+      "title": "Hector and Andromache",
+      "greek": "Ἕκτορος καὶ Ἀνδρομάχης ὁμιλία",
+      "summary": "The battle goes on without the gods. Helenus sends Hector into Troy to have the women offer Athena a robe. On the field Glaucus and Diomedes discover that their grandfathers were guest-friends and exchange armor. In the city Hector finds his mother, then Paris and Helen, and last his wife Andromache and their son at the Scaean gates, before he goes back to the war with Paris."
+    },
+    "7": {
+      "letter": "Η",
+      "title": "Hector and Ajax",
+      "greek": "Ἕκτορος καὶ Αἴαντος μονομαχία, νεκρῶν ἀναίρεσις",
+      "summary": "Athena and Apollo stop the battle for a single combat. Hector challenges the Achaeans; shamed by Nestor, nine volunteer, and the lot falls to Ajax. They fight until nightfall, when heralds part them and they exchange gifts. The Trojans offer back Helen’s possessions but not Helen, and the Achaeans refuse; both sides burn their dead under a truce, and the Achaeans build a wall and a ditch around their ships, while Poseidon complains to Zeus and Zeus thunders through the night."
+    },
+    "8": {
+      "letter": "Θ",
+      "title": "The Interrupted Battle",
+      "greek": "Κόλος μάχη",
+      "summary": "Zeus forbids the gods to take part in the war and watches from Ida. At midday his scales tip against the Achaeans, and his thunder puts them to flight. Diomedes rescues Nestor but is turned back by a thunderbolt, and Teucer shoots from behind Ajax's shield until Hector fells him with a stone. Hera and Athena set out to help the Achaeans and are turned back by Iris. Zeus foretells the fight over the dead Patroclus, and at nightfall the Trojans camp on the plain, their thousand fires shining like the stars around the moon."
+    },
+    "9": {
+      "letter": "Ι",
+      "title": "The Embassy",
+      "greek": "Πρεσβεία πρὸς Ἀχιλλέα. Λιταί",
+      "summary": "That night the Achaeans despair, and Agamemnon proposes in earnest to sail home. Diomedes refuses to go, and Nestor advises a guard and a council of the elders, where Agamemnon admits his blind folly and offers Achilles Briseis, boundless gifts and a daughter in marriage. Phoenix, Ajax and Odysseus carry the offer to Achilles. He refuses it in a long speech on honor, mortality and his two fates; Phoenix tells of the Prayers and of Meleager, who saved his city too late for the gifts; and Ajax's blunt appeal moves him only so far: he will not fight until Hector reaches his own ships. Diomedes bids the army sleep and fight at dawn."
+    },
+    "10": {
+      "letter": "Κ",
+      "title": "The Doloneia",
+      "greek": "Δολώνεια",
+      "summary": "The same night Agamemnon cannot sleep. He and Menelaus rouse Nestor and the other chiefs, and they go out among the sentries beyond the ditch, where Nestor asks for a man to spy on the Trojans. Diomedes volunteers and chooses Odysseus. Hector also wants a spy, and promises Achilles' horses to Dolon, who sets out in a wolf's skin. Odysseus and Diomedes catch him, question him about the Trojan camp, and kill him; then, on his information, they fall on the newly arrived Thracians, and Diomedes kills King Rhesus and twelve of his men while Odysseus drives off his white horses. They are back at the ships before dawn, and bathe, and pour wine to Athena."
+    },
+    "11": {
+      "letter": "Λ",
+      "title": "The Aristeia of Agamemnon",
+      "greek": "Ἀγαμέμνονος ἀριστεία",
+      "summary": "At dawn Zeus sends Strife to the ships, and Agamemnon arms in splendor. At midday the Achaeans break through, and Agamemnon drives the Trojans back to the Scaean gates, killing two sons of Priam, two of Antimachus and two of Antenor, until Coon wounds him in the arm and the pain drives him from the field. Zeus has told Hector, through Iris, to wait for that moment; now he charges. Paris shoots Diomedes through the foot; Odysseus, left alone, is wounded and rescued by Menelaus and Ajax; Paris wounds the healer Machaon, whom Nestor carries off, and Eurypylus, who has come to help Ajax as he gives ground. Achilles, watching from his ship, sends Patroclus to ask who the wounded man is. Nestor tells him at length of his youthful war with the Epeians and urges him to move Achilles, or else to go out himself in Achilles' armor. On his way back Patroclus stops to tend the wounded Eurypylus."
+    },
+    "12": {
+      "letter": "Μ",
+      "title": "The Fight at the Wall",
+      "greek": "Τειχομαχία",
+      "summary": "While Patroclus tends Eurypylus, the battle reaches the Achaean wall, which, the poet says, Poseidon and Apollo will wash away with the rivers of Ida once Troy has fallen. The horses balk at the ditch, and on Polydamas' advice the Trojans leave their chariots and attack on foot in five columns; only Asius drives on to the left gate, where the Lapiths Polypoetes and Leonteus stand like oaks and kill his men. An eagle drops a wounded serpent among the Trojans as they hesitate at the ditch. Polydamas reads it as a warning, and Hector answers that one omen is best, to fight for one's country. Zeus raises a dust storm against the ships, the Trojans tear at the battlements, and the two Ajaxes rally the defense. Sarpedon tells Glaucus why kings must fight in front and attacks the tower of Menestheus, who sends for Ajax and Teucer; Teucer wounds Glaucus, and Sarpedon tears away a battlement. The battle hangs level like a working woman's scales until Hector lifts a huge stone, smashes the gate and leaps in, and the Trojans pour over the wall while the Danaans flee among the ships."
+    },
+    "13": {
+      "letter": "Ν",
+      "title": "The Battle at the Ships",
+      "greek": "Μάχη ἐπὶ ταῖς ναυσίν",
+      "summary": "With Hector inside the wall, Zeus turns his eyes away, and Poseidon, watching from Thracian Samos, drives over the sea to help the Achaeans. In the likeness of Calchas he fills the two Ajaxes with might and shames the weary men in the rear, and the Achaeans close ranks so tightly that shield presses on shield, helmet on helmet and man on man; Hector's charge stops against them like a boulder on level ground. Teucer kills Imbrius and Hector kills Amphimachus, Poseidon's grandson. In his anger Poseidon, disguised as Thoas, rouses Idomeneus, who arms and goes out with Meriones after a talk about how the brave man shows himself in an ambush. The poet says that Zeus and Poseidon have stretched the rope of war over both armies. Idomeneus kills Othryoneus, Cassandra's suitor, then Asius and Alcathous, whom Poseidon binds fast, and fights Aeneas over the body; Ascalaphus, son of Ares, and Adamas are killed, Deiphobus and Helenus wounded, and Menelaus kills Peisander and denounces the Trojans' appetite for war. Where Hector first broke in, the two Ajaxes stand together like oxen at the plow, while the Locrian archers and slingers break the Trojan ranks. Polydamas persuades Hector to gather the leaders; finding them dead or wounded, Hector rebukes Paris and leads the Trojans on again, and as an eagle flies on the right he answers Ajax's challenge."
+    }
+  },
   "editions": [
     {
       "id": "grc",
       "lang": "grc",
       "label": "Greek",
       "name": "Monro & Allen",
-      "credit": "Planned base: D. B. Monro and T. W. Allen, Homeri Opera, via the Perseus Digital Library. No Greek text imported yet. Edition-specific attribution, rights, and any indirect witnesses must be recorded on import.",
+      "credit": "D. B. Monro & T. W. Allen, Homeri Opera, Oxford Classical Texts (3rd ed., 1920), via the Perseus Digital Library (CC BY-SA).",
       "path": "grc/{book}.txt"
     },
     {
       "id": "en",
       "lang": "en",
       "label": "English",
-      "name": "Contributor translation",
-      "credit": "No translation submitted. Authorship and sources will be recorded with each accepted book.",
+      "name": "Claude",
+      "credit": "New line-for-line translation by Claude (Anthropic), 2026. See TRANSLATION.md.",
       "path": "en/{book}.txt"
     }
   ],

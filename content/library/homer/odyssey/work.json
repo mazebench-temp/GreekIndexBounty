@@ -1,0 +1,43 @@
+{
+  "id": "homer.odyssey",
+  "author": "homer",
+  "title": "Odyssey",
+  "greek": "Ὀδύσσεια",
+  "aliases": [
+    "odyssey",
+    "od",
+    "od."
+  ],
+  "genre": "Epic",
+  "meter": "Dactylic hexameter",
+  "summary": "Odysseus’s return to Ithaca after the Trojan War.",
+  "citation": {
+    "scheme": "book.line",
+    "book": "Book",
+    "unit": "line",
+    "abbr": "Od."
+  },
+  "display": "verse",
+  "bookCount": 24,
+  "books": {},
+  "editions": [
+    {
+      "id": "grc",
+      "lang": "grc",
+      "label": "Greek",
+      "name": "A. T. Murray",
+      "credit": "Planned base: A. T. Murray, The Odyssey, 1919, Greek text via the Perseus Digital Library. No Greek text imported yet. Verify edition-specific attribution, rights, numbering anomalies, and indirect witnesses on import.",
+      "path": "grc/{book}.txt"
+    },
+    {
+      "id": "en",
+      "lang": "en",
+      "label": "English",
+      "name": "Contributor translation",
+      "credit": "No translation submitted. Authorship and sources will be recorded with each accepted book.",
+      "path": "en/{book}.txt"
+    }
+  ],
+  "structure": "structure/{book}.json",
+  "lexicon": "lexicon/{book}.json"
+}

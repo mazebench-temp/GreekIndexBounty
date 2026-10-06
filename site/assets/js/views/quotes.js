@@ -1,5 +1,5 @@
 // Every quoted passage, in text order: the articles that quote it, its card, and its {{quote:…}} tags.
-import { el, esc, icon, on, debounce, copyText, plural } from '../lib/dom.js';
+import { el, esc, icon, on, debounce, copyText } from '../lib/dom.js';
 import * as store from '../lib/store.js';
 import { quoteCard, toast, openSheet } from '../ui/components.js';
 import { normalize, hasGreek } from '../lib/greek.js';
@@ -37,16 +37,15 @@ export async function render(route, { setQuery }) {
     const [a, b = a] = range.split('-').map(Number);
     return texts.get(`${v.work}/${book}`).lines.filter(l => l.n >= a && l.n <= b).map(l => ({ n: `${book}.${l.n}`, grc: l.grc, en: l.en }));
   };
-  const tagCount = Object.keys(quotes).length;
 
   const view = el(`<div class="view">
     <header class="page-head" style="padding-bottom:8px">
       <h1 class="large-title" data-title-anchor>Quotes</h1>
-      <p class="page-sub">${plural(list.length, 'passage')} quoted in the articles, in the order of the text.${tagCount > list.length ? ' Some are quoted under more than one title.' : ''} Tap one to see it, copy its <code>{{quote:…}}</code> tag, or open it in the reader.</p>
     </header>
     <div class="index-tools"><label class="search-field" for="quote-q">${icon('search')}<input id="quote-q" type="search" placeholder="Filter by words, title, or line" value="${esc(q)}" autocomplete="off"></label></div>
     <div class="list quote-list"></div>
   </div>`);
+  view.querySelector('.index-tools').hidden = !list.length;
   const host = view.querySelector('.quote-list');
   const title = id => cat.by.entries.get(id)?.title ?? id;
   const shown = [];
@@ -69,7 +68,7 @@ export async function render(route, { setQuery }) {
         <span class="row-title"><span>${esc(p.title || first?.en || p.short)}</span></span>
         ${p.title && first ? `<span class="row-sub one serif">${esc(first.en)}</span>` : ''}</span>
         ${titled > 1 ? `<span class="row-meta" style="font-size:13px" title="${titled} titles">${titled} titles</span>` : ''}${icon('chevron', 'chev')}</button>`;
-    }).join('') || '<div class="list-empty">No quotes match.</div>';
+    }).join('') || `<div class="list-empty">${q ? 'No quotes match.' : 'No quotes.'}</div>`;
   };
 
   on(view, 'click', '[data-p]', (e, b) => {

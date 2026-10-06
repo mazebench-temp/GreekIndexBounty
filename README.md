@@ -1,118 +1,98 @@
-# GreekIndexBounty
+# Pinakes · Πίνακες
 
-**An exhaustive, source-grounded reader and index of Greek literature, built one research bounty at a time.**
+A reader and exhaustive index of Greek literature, named after the *Pinakes* of Callimachus, the
+catalogue of the Library of Alexandria. It begins with Homer's Iliad, Books 1 to 13: the Greek text, a
+new line-for-line translation, a word-by-word lexicon, and an index of every name, place, god, creature,
+custom, word, epithet, formula, story and idea in them.
 
-[Read the library](https://mazebench-temp.github.io/GreekIndexBounty/) · [Bounties](BOUNTIES.md) · [Contribution guide](CONTRIBUTING.md) · [Research contract](docs/research-standard.md)
+[Read the library](https://mazebench-temp.github.io/GreekIndexBounty/) · [Upstream Pinakes](https://github.com/mazebench-temp/Pinakes) · [Import provenance](PROVENANCE.md)
 
-GreekIndexBounty adapts [Pinakes](https://github.com/mazebench-temp/Pinakes): its line-aligned reader, word-by-word lexicon, concordance, shared articles, author/work/book notes, myth timeline, nested tags, search, and deterministic quote registry. The interface has been redesigned with quiet surfaces, native system typography, generous spacing, mobile navigation, and light/dark themes. See [the architecture comparison](docs/architecture.md) and [provenance](PROVENANCE.md).
-
-**The launch contains zero books, zero translated lines, zero lexicon records, zero researched articles, and zero quotes.** It retains 18 article kinds, 128 seed tags, mythic periods, and the metadata needed to schedule Homer’s Iliad. A planned work or bounty is not a populated book. No Pinakes book content or completed articles have been imported.
-
-## Exactly how large is this project?
-
-The first offered bounty scope is **the whole Iliad, Books 1–24**, with one independently reviewable book per PR. The long-term scope is a growing, interconnected research library of Greek literature: Odyssey next, then potentially Plato, Aristotle, and other authors. Later phases do not yet have a fixed corpus, budget, or deadline.
-
-| Dimension | Initial Iliad scope |
-| --- | --- |
-| Research units | 24 complete books; one bounty and one primary delivery PR per book |
-| Traditional line-number span | 15,693 numbered positions across all books |
-| Pinned digital source | 15,687 base-file verse records, plus any evidenced supplements; each needs aligned Greek and new English |
-| Lexicon | One contextual lemma, gloss, and morphological analysis for **every token occurrence**, including repeated words and function words |
-| Structure | Every extant line covered by a scene; every speech, speaker, addressee, and defensible narrative-day division |
-| Index | Every identifiable person, deity, people, place, creature, animal, object, practice, meaningful word, epithet, formula, simile, saying, story, theme, reception item, author, and textual/scholarly problem |
-| Articles | A shared general article per distinct subject, plus book notes wherever the subject has something substantive to explain |
-| Evidence | Precise Greek references, verified sources, article-candidate decisions, category reviews, line-coverage ledger, and five audit areas per book |
-| Expected effort | Sponsor’s planning estimate: approximately **3 hours per book**, about **72 agent-hours** for 24 books, plus integration, review, and revisions |
-| Offered rewards | **24 × 100 sats = 2,400 sats = 0.000024 BTC**; funding pending |
-
-The verse inventory comes from the [pinned Perseus Monro–Allen digital text](https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/ceeb60d9e9e0ebefd0f22b536e03a67084d2452a/data/tlg0012/tlg001/tlg0012.tlg001.perseus-grc2.xml). It lacks records for 9.458–461, 11.543, and 14.269. These are **gaps in this digital file**, not our adjudication of disputed verses. Recovery from ancient quotation is actively encouraged: Aristotle, scholia, other authors, and additional editions can preserve material absent from the base file. Include documented supplements at these numbers with a `witnesses/NN.json` record; the reader and quote cards label the source and uncertainty. Do not silently supply or renumber lines. Other changes to the source inventory need a reviewed registry change. See [indirect witnesses](docs/research-standard.md#indirect-witnesses-and-missing-lines). The repository stores the inventory, not that source text.
-
-The final number of tokens, distinct lemmas, articles, notes, references, and research hours is **not known in advance**. Counts emerge from the edition and the work. There is no article quota that makes a book “finished,” and no credible promise that an index is permanently exhaustive. Completion means every contracted pass was performed, every line and category was reviewed, every identified candidate received a documented disposition, and no known required work remains. Later discoveries can still improve an accepted book.
-
-Three hours is an estimate, **not a minimum, maximum, deadline, or reason to stop early**. The 100-sat bounty is a fixed reward for the accepted deliverable, not reimbursement for compute or an hourly rate. Report actual time and token usage; never pad a run or invent telemetry.
-
-## What a complete book actually delivers
-
-1. **Read and establish the Greek.** Identify the exact edition, stable location, access date, rights, numbering, and editorial choices. Verify the entire book. Separate what the text says from reconstructions, editorial conjectures, and later traditions.
-2. **Translate every extant line anew.** Preserve line correspondence, names, syntax, agency, negation, particles, tense/aspect, modality, imagery, register, and relevant ambiguity. Explain difficult decisions. Maintain formula consistency without forcing unlike contexts into identical English. A summary, paraphrase, or lightly rewritten existing translation does not satisfy this task.
-3. **Analyze every Greek token in context.** Provide exact surface form, normalized dictionary lemma, contextual gloss, full applicable morphology, and a note where ambiguity matters. Investigate homographs, elision, dialect, compounds, participles, enclitics, rare forms, and changes of sense. A dictionary gloss copied blindly across contexts is insufficient.
-4. **Index everything with a defensible article subject.** Read slowly, not just for capitalized names. Inventory minor characters, patronymics, unnamed referents, genealogies, places, peoples, divine titles, artifacts, plants/animals, techniques, social institutions, ritual sequences, material culture, values, emotions, concepts, semantic fields, formulas, type-scenes, figures of speech, similes, maxims, embedded myths, narrative devices, textual problems, and documented reception. Trace relations and distinguish namesakes.
-5. **Research beyond the obvious.** Follow promising leads through primary passages, lexica, commentaries, ancient scholarship when available, and relevant modern research. Verify etymologies and contested interpretations. Compare real parallels; record differences as well as similarities. Explain why a detail matters in this passage. Search results or remembered citations are starting points, not evidence that a source was read.
-6. **Integrate rather than duplicate.** Add new article files only for new subjects. Expand existing shared articles where justified, and put this book’s analysis in its own scope. The Achilles article, for example, has a general account and a separate `notes/01/achilles.md` for Iliad 1; Iliad 9 and Odyssey 11 receive their own notes later. A passing mention may need only a verified occurrence, with that decision logged.
-7. **Audit the finished whole.** Re-read Greek against English, recheck lexical decisions, investigate concordance collisions, compare the inventory against all lines and all 18 article kinds, and verify external claims. Record translation, lexicon, index, source, and integration audits. An independent eligible agent is preferred; a clearly disclosed separate review pass is permitted. Neither one’s existence nor its verdict should be fabricated.
-
-“Absolutely everything” means **systematic discovery and an accountable disposition for every candidate**, not indiscriminate article splitting, unsupported speculation, repeated filler, or manufactured research. There is no word-count target. A short precise entry can be complete; a central figure or difficult passage may require substantial treatment. The [research standard](docs/research-standard.md) is the acceptance contract.
-
-## BTC bounty rules
-
-- **Iliad Books 1–24 each offer 100 sats.** [The bounty board](BOUNTIES.md) and [registry](bounties/registry.json) identify the individual units. The initial 2,400 sats are **offered, not yet funded or escrowed**. No payment is made automatically by CI or this site.
-- **Only PRs authored by Anthropic Opus 5.5 or Fable 5.5 are eligible for acceptance.** This applies to the lead and every agent that writes or substantively revises contributed work. Infrastructure PRs also require an eligible lead and provenance. Ordinary deterministic tools are not agent authors. The initial Codex repository bootstrap is disclosed in [PROVENANCE.md](PROVENANCE.md), earns no bounty, and is not represented as Claude-authored research.
-- The allowed names are the sponsor’s stated policy, **not a claim about which models are currently available**. Record the exact provider/runtime model identifier as well as the display name. If your runtime cannot actually supply an eligible model, do not relabel another model. Ask the maintainer to revise the policy in a separate change if necessary.
-- Every PR must carry a **new machine-readable submission manifest**, a generated PR-body marker, a complete agent roster, model/runtime evidence, reasoning and thinking settings, timestamps, wall time, summed agent time, input/output/cache token counts, reported compute cost where available, subagent count, completion counts, gaps, research evidence, and validation logs. Use `null` with an explicit explanation when telemetry is unavailable; zero means measured zero.
-- Model declarations, transcripts, and logs are **evidence, not cryptographic proof**. CI checks the allowed names and required disclosures; the maintainer must inspect the evidence. Never misrepresent another model’s work as eligible. Redact secrets and personal data from logs without hiding material attribution or usage limitations. Private chain-of-thought is neither required nor requested.
-- Comment on the relevant bounty issue to request a claim. The maintainer’s confirmation establishes a reservation; the ledger is updated manually. Claims do not guarantee acceptance or payment. Coordinate overlaps before starting; there is one reward per book, not one per duplicate PR or participating agent.
-- One complete book per research PR. Draft or partial PRs can receive feedback but intentionally fail acceptance checks and earn no partial payout unless the maintainer expressly agrees beforehand. Disclose gaps rather than declaring completion early.
-- Acceptance requires passing checks **and** maintainer approval of translation, scholarship, completeness, provenance, and reuse rights. Passing CI alone does not establish quality or trigger a reward. The maintainer can request corrections.
-- Payment is manual after acceptance and merge. Arrange a Lightning invoice/address with the maintainer at that time, and record payment status and a receipt/reference in the ledger. Do not commit seed phrases, private keys, account secrets, or reusable credentials. A fresh payment invoice should not be baked into a research PR.
-- No additional bounty pool, future-author reward, compute reimbursement, or code bounty is implicitly promised. Additional offers require a separately approved amount and ledger entry.
-
-## Contribute with data, not UI code
+This repository hosts the Pinakes library with a minimal interface. It imports all 6,950 source-content files from Pinakes commit `c942770aed023b9c73139f7fcae1a46bff6b0404`: **13 Iliad books, 8,426 Greek/English lines, 2,590 articles, 5,273 distinct lemmas, 106 stories, and 2,032 quote records**. Shared articles, book notes, tags, figure, translation conventions, and deterministic quote IDs are preserved. The import is recorded file-by-file in [imports/pinakes.json](imports/pinakes.json). Five supplemental verses carry additional witness metadata.
 
 ```sh
-# Node 22 recommended; Node 20+ supported. No npm dependencies.
-npm run submission -- init iliad-01
-# Complete the generated book files, evidence ledgers, and submissions/<UUID>.json.
-npm run quotes
-npm run check
-npm test
-npm run submission -- measure submissions/<UUID>.json
-npm run validate -- --submission submissions/<UUID>.json
-npm run export
-npm run --silent pr:body -- submissions/<UUID>.json > /tmp/greek-index-pr.md
-# Open a PR using that file as its body; see CONTRIBUTING.md.
+npm run dev      # build, serve at http://localhost:5180, rebuild and reload on every change
+npm run build    # write site/data/ from content/
+npm run check    # validate everything without writing
+npm run quotes   # turn {{quote:Iliad 1.1-7 | Title}} tags into permanent {{quote:uuid}} ids
+npm test         # library and content integrity tests
 ```
 
-Contributors edit Greek/English rows, lexical analyses, structure, optional witness records, Markdown articles and scoped notes, quote records, and research evidence. The build automatically produces reader data, concordances, article links, backlinks, counts, vocabulary, search data, and scoped navigation. No hand-edited generated JSON, route wiring, or page components are required for another Iliad book. Initializing a draft deliberately creates incomplete placeholders, which cannot pass the acceptance gate.
+Requires Node 20 or later. There are no dependencies to install.
 
-```text
+## What is in it
+
+- **Reader**: Greek over English, line by line, or side by side on wide screens. Tap a Greek word
+  for its dictionary form, gloss and parse. Tap a name for its index entry. Tap a line number to quote
+  a line or a passage. Scene headings, speaker labels and the days of the action come from the
+  book's structure file.
+- **Index**: entries in 18 kinds, from gods and heroes to Greek words, epithets, rituals and textual
+  notes. Every entry lists every line it occurs in, found automatically from its Greek forms.
+- **Scopes**: every article can be read whole, or at an author, a work or a book, chosen as a path
+  (Homer › Iliad › 3, with "About" for Homer or the Iliad as a whole). The general article (etymology,
+  family, myth, later tradition) is shared; what the entry does in each book is a note of its own. The
+  chosen scope is remembered, so studying a book keeps every article on it.
+- **Myths**: every story told, remembered or foretold, placed in mythic time from the Primordial age
+  and the Titanomachy through the heroic generations and the Epic Cycle to the Telegony.
+- **Tags**: faceted and nested. A tag includes its children, and tags can be combined.
+- **Search**: across the index, the text (Greek with or without accents, English, or transliterated
+  Greek) and the lexicon.
+- **Quotes**: `{{quote:<uuid>}}` tags, as in the Margin wiki. Ids are deterministic version-5 UUIDs of
+  the passage and title, so the same quote always has the same id. The Quotes page lists every quoted
+  passage with the articles that quote it and the tag for each title it is quoted under.
+
+## Layout
+
+```
 content/
   library/<author>/author.json
-  library/<author>/<work>/work.json
-  library/<author>/<work>/grc/NN.txt          numbered source rows
-  library/<author>/<work>/en/NN.txt           aligned new English
-  library/<author>/<work>/lexicon/NN.json     {w,l,g,p,n?} per token
-  library/<author>/<work>/structure/NN.json   scenes, speeches, days
-  library/<author>/<work>/witnesses/NN.json   optional sourced restorations
-  library/<author>/<work>/notes/NN/<id>.md    this article in this book
-  library/<author>/<work>/TRANSLATION.md      decisions and conventions
-  index/<kind-folder>/<id>.md                shared general articles
-  quotes/<work>.json                         stable quote registry
-  kinds.json  tags.json  periods.json        shared taxonomies
-bounties/                                    contracts and eligibility policy
-submissions/<UUID>.json                      per-PR provenance and accounting
-research/<bounty-id>/<UUID>/                 coverage, sources, decisions, audits, logs
-scripts/                                    build, validate, scaffold, export
-site/                                       browser app; data/ is generated
+  library/<author>/<work>/work.json        editions, citation scheme, book titles
+  library/<author>/<work>/grc/01.txt       Greek, one numbered verse per row
+  library/<author>/<work>/en/01.txt        English, aligned to the Greek numbering
+  library/<author>/<work>/structure/01.json   scenes, speeches, days
+  library/<author>/<work>/lexicon/01.json     lemma, gloss and parse for every word
+  library/<author>/<work>/TRANSLATION.md      translation conventions
+  library/<author>/<work>/notes/02/<id>.md    what an index entry is and does in Book 2
+  index/<folder>/<id>.md                   index entries (see docs/index-guide.md)
+  quotes/<work>.json                       the quote registry
+  kinds.json  tags.json  periods.json      taxonomies
+scripts/                                   build, dev server, quote tool (no dependencies)
+site/                                      the app: index.html, assets/, and the generated data/
+docs/index-guide.md                        how to write index entries
 ```
 
-See [CONTRIBUTING.md](CONTRIBUTING.md), [the submission format](docs/submission-format.md), and [the Pinakes article syntax](docs/index-guide.md).
+## Adding more
 
-## After the Iliad
+**Another book of the Iliad.** Add `grc/14.txt`, `en/14.txt`, `structure/14.json` and
+`lexicon/14.json` (built in parts with `scripts/lexicon.mjs`), a `books.14` title in `work.json`, and
+notes under `notes/14/`. The concordance runs over every available
+book, so existing entries pick up their new occurrences at once, and the build report lists every
+capitalized Greek word that no entry covers yet (`site/data/report.json`, and the About page).
 
-The same article IDs can accumulate evidence across works and authors, with separate book, work, and author notes. Submission identities use explicit `author`, `work`, `unit`, and `citationScheme` fields rather than baking “Iliad book” into every record. The Odyssey can use the existing verse reader after a maintainer registers its source inventory and contracts. It has **no funded bounties yet**.
+**Another work** (the Odyssey, the Homeric Hymns, Plato). Create `content/library/<author>/<work>/`
+with a `work.json` like the Iliad's. Give it its own `citation` scheme and `aliases` (so that
+`{{quote:Od. 1.1-10}}` resolves) and add its texts. Entries default to the Iliad; set `work:` in an
+entry's front matter, or name the work in a reference, to cite another. The periods of the Myths
+already run to the Telegony, ready for the Odyssey's stories.
 
-Plato and Aristotle require native Stephanus and Bekker references. **The current reader/parser implements integer `book.line` only.** Arbitrarily calling a Stephanus page a verse would lose scholarly references. Citation adapters, ordered section IDs, prose display, and migration tests must be implemented in a reviewed infrastructure change before those research bounties open. This is an explicit extension point, not a claim that those editions work already. See [extending the corpus](docs/extending.md).
+## Sources and credits
 
-Large corpora will also need measured work on text-search loading, concordance build cost, and export chunk sizes. Today the site lazily loads books and article chunks, but the build scans the corpus and text searches can fetch all available books. The architecture is extensible; it is not an untested claim of unlimited scale.
+- Greek text: D. B. Monro and T. W. Allen, *Homeri Opera*, Oxford Classical Texts (3rd ed., 1920), as
+  digitized by the Perseus Digital Library (CC BY-SA).
+- Translation, lexicon, index and articles: written for this project by Claude (Anthropic), 2026.
+  See `content/library/homer/iliad/TRANSLATION.md` for the conventions.
 
-## Run and publish
+## Remaining research scope
 
-```sh
-npm run dev       # http://localhost:5180; watch and reload
-npm run check     # build diagnostics without writing
-npm test          # reader/build libraries and submission-policy regression tests
-npm run validate  # strict current-content checks (no authorship verdict)
-npm run export    # build a static site into dist/
-```
+Iliad Books 1–13 were imported at the owner’s request and no longer have active research bounties. The remaining offers cover **Iliad 14–24 and Odyssey 1–24**: 35 books at **100,000 sats each**, totaling **3,500,000 sats (0.035 BTC)**. Bounties and contributor administration stay in GitHub and repository documentation; the public site is the reading library.
 
-Pushes to `main` publish the verified static export to GitHub Pages. Research PRs never deploy themselves. A separate submission-policy workflow executes the **base branch’s validator and policy**, treating the proposed tree as data, so a submission cannot relax its own eligibility checks. Branch protection requires both that check and the build/test check. Acceptance and payment remain explicit maintainer decisions.
+Each remaining book requires a complete new translation, per-occurrence lexicon, structure, all relevant articles and scoped notes, source research, complete discovery/coverage ledgers, and separate audits. The sponsor’s approximate three-hour Iliad estimate is not a stopping rule. Article and token totals emerge from the research; there is no article quota. Ancient quotations and lost lines are encouraged with precise witness attribution.
+
+Only Anthropic **Opus 5.5 or Fable 5.5** research is eligible for the outstanding offers. Actual model/runtime IDs, effort settings, full agent roster, time, tokens, completeness, evidence, and any unavailable telemetry must be disclosed; no model identity is invented. The Pinakes import preserves upstream credits and is not represented as a newly verified eligible-model submission or a bounty payment.
+
+See [BOUNTIES.md](BOUNTIES.md), [CONTRIBUTING.md](CONTRIBUTING.md), [the research standard](docs/research-standard.md), and [the submission format](docs/submission-format.md). Payment is arranged with the maintainer after acceptance and merge. No card, wallet, payment automation, or external bounty platform is part of this site.
+
+The registered source inventories contain 15,687 base Iliad records and 12,107 base Odyssey records; supplements are tracked separately. Odyssey is registered for later work but has no imported books. Plato and Aristotle need native Stephanus/Bekker citation adapters before their research contracts open; the current reader supports integer book/line references. See [extending the corpus](docs/extending.md).
+
+## Validation and publishing
+
+`npm run check`, `npm test`, `npm run validate`, and `npm run export` validate and export the library. `npm run validate -- --submission <manifest>` also checks the provenance and research contract of a new submission. GitHub Pages serves the static `dist/` export under `/GreekIndexBounty/`; all local asset/data URLs are relative to that path. New research PRs remain subject to the trusted base-branch submission policy and maintainer review.

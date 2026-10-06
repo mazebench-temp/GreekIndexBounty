@@ -16,12 +16,11 @@ const VIEWS = {
   search: () => import('./views/search.js'),
   vocab: () => import('./views/vocab.js'),
   about: () => import('./views/about.js'),
-  bounties: () => import('./views/bounties.js'),
   quotes: () => import('./views/quotes.js'),
 };
 
 const TABS = [
-  { id: 'library', label: 'Library', icon: 'library', href: '#/', roots: ['', 'read', 'work', 'book', 'vocab', 'about', 'quotes', 'bounties'] },
+  { id: 'library', label: 'Library', icon: 'library', href: '#/', roots: ['', 'read', 'work', 'book', 'vocab', 'about', 'quotes'] },
   { id: 'index', label: 'Index', icon: 'index', href: '#/index', roots: ['index'] },
   { id: 'myths', label: 'Myths', icon: 'amphora', href: '#/myths', roots: ['myths'] },
   { id: 'tags', label: 'Tags', icon: 'tag', href: '#/tags', roots: ['tags'] },
@@ -82,13 +81,12 @@ async function renderSidebar() {
   const cat = await store.catalog().catch(() => null);
   const count = { index: cat?.stats.entries, myths: cat?.stats.stories, tags: cat?.tags.filter(t => t.count).length };
   $('#sidebar').innerHTML = `
-    <a class="brand" href="#/"><span class="brand-mark">γι<span class="brand-dot">.</span></span><span class="brand-sub">Greek Index<span>Bounty</span></span></a>
+    <a class="brand" href="#/"><span class="brand-mark">Πίνακες</span><span class="brand-sub">Pinakes</span></a>
     <nav class="side-nav">${TABS.map(t => `<a class="side-link" href="${t.href}" data-tab="${t.id}">${icon(t.icon)}<span>${t.label}</span>${count[t.id] ? `<span class="count">${count[t.id]}</span>` : ''}</a>`).join('')}</nav>
-    ${cat ? `<div><div class="side-heading">The project</div><nav class="side-nav"><div data-reading style="display:contents">${readingLinks(cat)}</div>
-      <a class="side-link" href="#/bounties">${icon('sparkles')}<span>Bounties</span></a>
+    ${cat ? `<div><nav class="side-nav"><div data-reading style="display:contents">${readingLinks(cat)}</div>
       <a class="side-link" href="#/quotes">${icon('quote')}<span>Quotes</span><span class="count">${cat.stats.passages ?? cat.stats.quotes}</span></a>
-      <a class="side-link" href="#/about">${icon('info')}<span>About the project</span></a></nav></div>` : ''}
-    <div class="side-foot">${cat ? `${cat.stats.lines.toLocaleString()} lines · ${cat.stats.entries.toLocaleString()} index entries · ${(cat.stats.passages ?? cat.stats.quotes).toLocaleString()} passages quoted` : ''}</div>`;
+      <a class="side-link" href="#/about">${icon('info')}<span>About</span></a></nav></div>` : ''}
+    <div class="side-foot">${cat?.stats.lines ? `${cat.stats.lines.toLocaleString()} lines · ${cat.stats.entries.toLocaleString()} index entries · ${(cat.stats.passages ?? cat.stats.quotes).toLocaleString()} passages quoted` : ''}</div>`;
 }
 
 /**
@@ -97,7 +95,7 @@ async function renderSidebar() {
  */
 function readingLinks(cat) {
   const last = store.prefs.lastRead;
-  const cur = currentBook(cat);
+  const cur = currentBook(cat, parseRoute());
   return `${last && cat.by.works.get(last.work) ? `<a class="side-link" href="#/read/${esc(last.work)}/${last.book}?l=${last.n}">${icon('scroll')}<span>Continue: ${esc(cat.by.works.get(last.work).title)} ${last.book}.${last.n}</span></a>` : ''}
     ${cat.works.filter(w => w.available.length).map(w => `<a class="side-link" href="#/work/${w.id}">${icon('book')}<span>${esc(w.title)}</span><span class="count">${w.available.length} of ${w.bookCount}</span></a>`).join('')}
     ${cur ? `<a class="side-link" href="#/book/${esc(cur.work)}/${cur.book}">${icon('compass')}<span>Book ${cur.book} at a glance</span></a>
@@ -122,7 +120,10 @@ document.addEventListener('click', e => {
   e.preventDefault();
   const tab = a.dataset.tab, t = TABS.find(x => x.id === tab);
   // Tapping the active tab pops to its root; tapping another tab restores where you were there.
-  go(state.tab === tab ? t.href : (state.lastInTab[tab] ?? t.href));
+  const target = state.tab === tab ? t.href : (state.lastInTab[tab] ?? t.href);
+  // Entries can belong to any tab. Preserve the selected tab when restoring one.
+  state.tab = tab;
+  go(target);
 });
 
 let titleObserver = null;
@@ -156,12 +157,13 @@ function setChrome(view, route, backHash) {
     b.addEventListener('click', e => action.run(e.currentTarget));
     navRight.append(b);
   }
-  document.title = view.title && route.name ? `${view.title} · GreekIndexBounty` : 'GreekIndexBounty';
+  document.title = view.title && route.name ? `${view.title} · Pinakes` : 'Pinakes';
 }
 
 // ── Routing ─────────────────────────────────────────────────────────────────
 async function route() {
   const r = parseRoute();
+  if (r.name === 'bounties') return go('#/', { replace: true });
   const id = ++state.renderId;
   closeSheet();
   document.querySelectorAll('.popover, .selection-bar').forEach(p => p.remove());

@@ -106,7 +106,7 @@ export function renderPR(m, bounty) {
 
 ${m.changes || 'Describe the completed work.'}
 
-${bounty?.issue ? `Bounty: ${bounty.issue}\n` : ''}
+${bounty?.issue ? `Closes ${bounty.issue}\n` : ''}${bounty?.listingUrl ? `\nBounty listing: ${bounty.listingUrl}\n` : ''}
 | Disclosure | Reported value |
 | --- | --- |
 | Status | ${m.status}; ${m.completeness.overallPercent}% of contracted scope |

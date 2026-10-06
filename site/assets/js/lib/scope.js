@@ -42,6 +42,14 @@ export function firstKeyIn(e, S, cat) {
   return '~';
 }
 
+/** The first appearance within scope S as a reference ("13.45"), or the book alone ("Book 13") when the
+ *  entry is there only through a note, without a line of its own. */
+export function firstRefIn(e, S, cat) {
+  const m = firstKeyIn(e, S, cat).match(/(\d+)\.(\d+)$/);
+  if (!m) return '';
+  return +m[2] === 99999 ? `Book ${+m[1]}` : `${+m[1]}.${+m[2]}`;
+}
+
 /** The scope to show: an explicit ?in=, else the remembered study scope, else everything. */
 export function chooseScope(requested, available) {
   if (requested && (requested === ALL || available.includes(requested))) return requested;
@@ -52,7 +60,12 @@ export function chooseScope(requested, available) {
 export function remember(S) { store.setPref('scope', S); }
 
 /** The book in hand: the book being studied, else the last one read, else the newest available. */
-export function currentBook(cat) {
+export function currentBook(cat, route) {
+  if (route && ['read', 'book', 'vocab'].includes(route.name)) {
+    const [work, number] = route.parts;
+    const book = Number(number);
+    if (cat.by.works.get(work)?.available.includes(book)) return { work, book };
+  }
   const d = cat.by.scopes.get(store.prefs.scope);
   if (d?.kind === 'book') return { work: d.work, book: d.book };
   const last = store.prefs.lastRead;

@@ -11,9 +11,19 @@ import { tokenize } from '../scripts/lib/greek.mjs';
 import { renderMarkdown } from '../scripts/lib/markdown.mjs';
 
 const policy = json(path.join(ROOT, 'bounties/policy.json'));
-const bounty = json(path.join(ROOT, 'bounties/registry.json')).units[0];
+const bounty = { ...json(path.join(ROOT, 'bounties/registry.json')).units[0], status: 'open', issue: 'https://example.org/synthetic/issues/1' };
 function temp(t) { const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'greek-index-test-')); t.after(() => fs.rmSync(dir, { recursive: true, force: true })); return dir; }
 function put(root, file, data) { const f = path.join(root, file); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, typeof data === 'string' ? data : JSON.stringify(data, null, 2)); }
+// Validator fixtures must be independent of the real library's books, quotes, and imported status.
+function seedFixture(root) {
+  for (const d of ['scripts', 'bounties']) fs.cpSync(path.join(ROOT, d), path.join(root, d), { recursive: true });
+  for (const file of ['kinds.json', 'tags.json', 'periods.json', 'library/homer/author.json', 'library/homer/iliad/work.json']) {
+    put(root, `content/${file}`, json(path.join(ROOT, 'content', file)));
+  }
+  const reg = json(path.join(root, 'bounties/registry.json'));
+  reg.units = [structuredClone(bounty)];
+  put(root, 'bounties/registry.json', reg);
+}
 function completed(root, b = null) {
   const m = makeSubmission(b);
   const prefix = b ? `research/${b.id}/${m.submissionId}` : `research/infrastructure/${m.submissionId}`;
@@ -108,7 +118,19 @@ test('research cannot edit its eligibility checks, other books, or prior manifes
 test('generated PR body carries one exact manifest marker and key disclosures', t => {
   const root = temp(t), m = completed(root, bounty), body = renderPR(m, bounty);
   assert.ok(body.includes(`<!-- greek-index-bounty: submissions/${m.submissionId}.json -->`));
+  assert.equal((body.match(/<!-- greek-index-bounty:/g) ?? []).length, 1);
+  assert.ok(body.includes(`Closes ${bounty.issue}`));
+  assert.ok(!body.includes('Bounty listing:'));
   for (const word of ['Opus 5.5', 'Subagents', 'wall seconds', 'inputTokens', 'cacheReadTokens', 'Remaining gaps', '100%']) assert.ok(body.includes(word), word);
+});
+
+test('PR body links a recorded platform listing without attaching a bounty to infrastructure', t => {
+  const root = temp(t), m = completed(root, bounty);
+  const listingUrl = 'https://example.org/synthetic-bounty';
+  assert.ok(renderPR(m, { ...bounty, listingUrl }).includes(`Bounty listing: ${listingUrl}`));
+  const body = renderPR(completed(root), null);
+  assert.ok(!body.includes('Closes '));
+  assert.ok(!body.includes('Bounty listing:'));
 });
 
 test('unsafe Markdown protocols are rejected without rendering an executable link', () => {
@@ -120,7 +142,7 @@ test('unsafe Markdown protocols are rejected without rendering an executable lin
 
 test('scaffolding refuses overwrites and its placeholders cannot pass acceptance', t => {
   const root = temp(t);
-  for (const d of ['scripts', 'content', 'bounties']) fs.cpSync(path.join(ROOT, d), path.join(root, d), { recursive: true });
+  seedFixture(root);
   execFileSync(process.execPath, [path.join(root, 'scripts/submission.mjs'), 'init', 'iliad-01']);
   const manifest = fs.readdirSync(path.join(root, 'submissions')).find(f => f.endsWith('.json'));
   assert.ok(manifest);
@@ -132,7 +154,7 @@ test('scaffolding refuses overwrites and its placeholders cannot pass acceptance
 
 test('complete synthetic research passes the full CLI; missing coverage then fails', t => {
   const root = temp(t);
-  for (const d of ['scripts', 'content', 'bounties']) fs.cpSync(path.join(ROOT, d), path.join(root, d), { recursive: true });
+  seedFixture(root);
   const reg = json(path.join(root, 'bounties/registry.json'));
   reg.units[0].expected = { from: 1, to: 2, omitted: [] }; put(root, 'bounties/registry.json', reg);
   const b = reg.units[0], m = completed(root, b), prefix = 'content/library/homer/iliad';
@@ -155,7 +177,7 @@ test('complete synthetic research passes the full CLI; missing coverage then fai
 
 test('trusted validator rejects proposed policy/script changes that try to permit another model', t => {
   const sandbox = temp(t), trusted = path.join(sandbox, 'trusted'), proposed = path.join(sandbox, 'proposed');
-  for (const root of [trusted, proposed]) for (const d of ['scripts', 'content', 'bounties']) fs.cpSync(path.join(ROOT, d), path.join(root, d), { recursive: true });
+  for (const root of [trusted, proposed]) seedFixture(root);
   const git = args => execFileSync('git', args, { cwd: proposed, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] }).trim();
   git(['init', '-b', 'main']); git(['config', 'user.name', 'Synthetic test']); git(['config', 'user.email', 'test@example.org']); git(['add', '.']); git(['commit', '-m', 'Synthetic base']);
   const base = git(['rev-parse', 'HEAD']);

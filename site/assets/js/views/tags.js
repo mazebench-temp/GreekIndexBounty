@@ -8,19 +8,18 @@ export async function render(route) {
 }
 
 function browser(cat) {
-  const used = cat.tags;
+  const used = cat.tags.filter(t => t.count);
   const tagRows = (tags, depth = 0) => tags.map(t => {
-    const kids = (cat.by.tagChildren.get(t.id) ?? []).map(id => cat.by.tags.get(id)).filter(Boolean);
+    const kids = (cat.by.tagChildren.get(t.id) ?? []).map(id => cat.by.tags.get(id)).filter(x => x?.count);
     return `<a class="row tag-row${depth ? ' child' : ''}" href="#/tags/${esc(t.id)}"><span class="row-main"><span class="row-title"><span>${esc(t.label)}</span></span>
       ${t.summary ? `<span class="row-sub one">${esc(t.summary)}</span>` : ''}</span><span class="row-meta">${t.count}</span>${icon('chevron', 'chev')}</a>` + tagRows(kids, depth + 1);
   }).join('');
   const view = el(`<div class="view">
     <header class="page-head">
       <h1 class="large-title" data-title-anchor>Tags</h1>
-      <p class="page-sub">${used.length} seed tags in ${cat.facets.length} facets. Tags nest, so a parent includes its children: <a href="#/tags/sea-deity">#sea deity</a> takes in <a href="#/tags/nereid">#nereid</a>. Combine tags on any tag page.</p>
     </header>
     ${cat.facets.map(f => {
-      const roots = used.filter(t => t.facet === f.id && !(t.parent && cat.by.tags.has(t.parent)));
+      const roots = used.filter(t => t.facet === f.id && !(t.parent && cat.by.tags.get(t.parent)?.count));
       if (!roots.length) return '';
       return `<section class="section"><div class="section-head"><h2 class="section-title small">${esc(f.label)}</h2></div>
         <div class="list">${tagRows(roots.sort((a, b) => b.count - a.count || a.label.localeCompare(b.label)))}</div></section>`;

@@ -1,11 +1,23 @@
 # Provenance
 
-GreekIndexBounty was bootstrapped by OpenAI Codex on 2026-10-06 at the repository owner’s request. This is infrastructure setup, **not an Opus/Fable research contribution**, and earns no bounty. No book study, translation, lexical dataset, scholarly article, or agent runtime measurement is claimed for this bootstrap.
+The repository owner requested a full copy of [Pinakes](https://github.com/mazebench-temp/Pinakes) on 2026-10-06. OpenAI Codex performed the import, site integration, and interface repairs. This is an explicitly authorized upstream import, not newly authored Opus/Fable research, and earns no bounty.
 
-The reader, build libraries, lexical tools, concordance, quote UUID conventions, article format, and initial taxonomy derive from the owner’s [Pinakes repository](https://github.com/mazebench-temp/Pinakes), inspected at commit `1fbdffa86c1db12b4acdfb61412cb4be76aec9a5`. Local documentation and representative content were studied to understand the workflow. The Pinakes checkout was not modified. Its completed books, translations, lexica, article bodies, scoped notes, quote records, generated outputs, private agent settings, and Git history were not imported.
+## Imported corpus
 
-Retained seed data: article kinds, tags/facets, mythic periods/modes, Homer author metadata, and an empty Iliad work descriptor. No inherited statement that a translation is already available remains in the work credits. The visual design, empty states, bounty board, provenance/reporting contract, scaffold, validation, indirect-witness support, and repository workflows were added for this project.
+All **6,950 tracked files under `content/`** were copied byte-for-byte from Pinakes commit **`c942770aed023b9c73139f7fcae1a46bff6b0404`**, the clean local and remote `main` at inspection time. [imports/pinakes.json](imports/pinakes.json) records the source, revision, date, and SHA-256 of every imported file. Pinakes itself was not modified.
 
-The base Iliad verse-ID inventory was checked against [Perseus canonical-greekLit](https://github.com/PerseusDL/canonical-greekLit/blob/ceeb60d9e9e0ebefd0f22b536e03a67084d2452a/data/tlg0012/tlg001/tlg0012.tlg001.perseus-grc2.xml), revision `ceeb60d9e9e0ebefd0f22b536e03a67084d2452a`. Only book counts, verse endpoints, and missing IDs were retained. Future contributors must record edition-specific attribution and rights for all imported text and other source material. Ancient quotations and other indirect witnesses are encouraged with precise, visible provenance.
+The import contains Iliad Books 1–13: Greek, English translations, every lexical record, scenes/speeches/days, 2,590 index articles, all scoped notes, 2,032 quote records, the figure, taxonomies, author/work metadata, and translation conventions. Generated output, Git history, private agent settings, credentials, and caches were not copied. Stable article and quote IDs were preserved.
 
-Subsequent PRs must comply with the authorship policy in `bounties/policy.json`. Model names are sponsor-defined eligibility labels, not a guarantee that a named model is available. Do not use the initial Codex setup as permission to misattribute future contributions. No repository-wide reuse license has been added during this bootstrap.
+Upstream credits the Greek text to Monro and Allen’s *Homeri Opera*, digitized by Perseus under CC BY-SA, and its translation, lexicon, and articles to Claude (Anthropic), 2026. Those credits are preserved. The import does not establish exact historical model IDs, effort settings, token counts, or independent scholarly review; none are invented or certified by these build checks. No new repository-wide reuse license is asserted for material without an upstream license declaration.
+
+## Additions to the imported data
+
+Two new witness files label five verses already present in Pinakes: Iliad 9.458–461 (Plutarch, *How to Study Poetry*, 26F–27A) and 11.543 (Aristotle, *Rhetoric* 2.9.11, 1387a–b). Their original Greek, English, brackets, lexicon, article references, and quote IDs are unchanged. The witness identification was corroborated against the primary texts linked in those records. These lines supplement the project’s pinned Perseus base-file inventory and appear with attribution in the reader and quote cards.
+
+The empty Odyssey work descriptor and future contracts are local project metadata, not part of the Pinakes import. No Odyssey text has been seeded.
+
+## Infrastructure history
+
+The original empty GreekIndexBounty bootstrap was created by OpenAI Codex on 2026-10-06, deriving the reader and build engine from Pinakes revision `1fbdffa86c1db12b4acdfb61412cb4be76aec9a5`. The owner’s later import instruction supersedes that bootstrap’s zero-book restriction. The live interface is a scholarly Pinakes reader; bounty administration remains in GitHub and the repository documents.
+
+The sponsor’s Opus 5.5 / Fable 5.5 policy continues to apply to future research submissions. Existing imported work is marked `imported`, not `paid` or newly accepted under that policy.

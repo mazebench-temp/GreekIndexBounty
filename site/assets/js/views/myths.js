@@ -25,7 +25,7 @@ export async function render(route, { setQuery }) {
   const view = el(`<div class="view">
     <header class="page-head" style="padding-bottom:10px">
       <h1 class="large-title" data-title-anchor>Myths</h1>
-      <p class="page-sub">The stories Homer’s characters tell, remember, and foresee, placed in mythic time from the first gods to the last voyage of Odysseus. ${plural(stories.length, 'story', 'stories')} so far; the empty periods wait for later books.</p>
+      <p class="page-sub">${plural(stories.length, 'story', 'stories')}</p>
     </header>
     <div style="display:flex;flex-direction:column;gap:10px">
       <div data-seg></div>
