@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "submissionId": "37d6a152-2178-41e6-8304-6f0cd3b20a7c",
+  "type": "research",
+  "bountyId": "odyssey-06",
+  "scope": {
+    "author": "homer",
+    "work": "homer.odyssey",
+    "unit": "6",
+    "citationScheme": "book.line"
+  },
+  "status": "draft",
+  "agents": [
+    {
+      "id": "lead",
+      "role": "lead",
+      "provider": "Anthropic",
+      "modelName": "",
+      "modelId": "",
+      "runtime": "",
+      "runtimeVersion": "",
+      "sessionId": "",
+      "reasoningEffort": "",
+      "thinkingMode": "",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": null,
+        "outputTokens": null,
+        "cacheReadTokens": null,
+        "cacheWriteTokens": null,
+        "agentSeconds": null,
+        "costUsd": null
+      },
+      "unavailableReason": ""
+    }
+  ],
+  "subagentCount": 0,
+  "usage": {
+    "startedAt": "2026-10-06T14:05:27.943Z",
+    "finishedAt": null,
+    "wallSeconds": null,
+    "inputTokens": null,
+    "outputTokens": null,
+    "cacheReadTokens": null,
+    "cacheWriteTokens": null,
+    "agentSeconds": null,
+    "costUsd": null,
+    "measurementSource": "",
+    "unavailableReason": ""
+  },
+  "provenance": {
+    "statement": "",
+    "evidenceFiles": [],
+    "limitations": ""
+  },
+  "completeness": {
+    "overallPercent": 0,
+    "translatedLines": 0,
+    "analyzedTokens": 0,
+    "reviewedLines": 0,
+    "remainingGaps": []
+  },
+  "research": {
+    "coverageFile": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/coverage.json",
+    "sourcesFile": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/sources.json",
+    "candidatesFile": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/candidates.json",
+    "categoriesFile": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/categories.json",
+    "audits": []
+  },
+  "changes": "",
+  "validation": [],
+  "payout": {
+    "method": "arrange-after-acceptance",
+    "contact": ""
+  }
+}

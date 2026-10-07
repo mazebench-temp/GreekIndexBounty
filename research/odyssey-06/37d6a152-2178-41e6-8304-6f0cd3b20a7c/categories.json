@@ -1,0 +1,110 @@
+[
+  {
+    "kind": "god",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "person",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "people",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "creature",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "place",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "animal",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "object",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "ritual",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "term",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "theme",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "epithet",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "formula",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "simile",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "saying",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "story",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "anecdote",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "author",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  },
+  {
+    "kind": "note",
+    "status": "pending",
+    "explanation": "",
+    "entryIds": []
+  }
+]
