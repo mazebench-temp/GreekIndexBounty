@@ -6,7 +6,7 @@ passages:
 
 The narrator tells how Nausithous led the Phaeacians away from the Cyclopes:
 
-{{quote:Od. 6.7-8 | Far from grain-eating men}}
+{{quote:11ca5a3c-83f5-5cc8-bb57-e835a04ae5c1}}
 
 The phrase ἑκὰς ἀνδρῶν ἀλφηστάων defines Scheria by distance. The Phaeacians left one bad neighbor, the Cyclopes, who “kept doing them harm” (6.5–6), and settled where there are no neighbors at all. Nausicaa says the same thing later in her own words: “we live far apart in the much-surging sea, the farthest away, and no other mortal mingles with us” (6.204–205; see [[phaeacians]]).
 

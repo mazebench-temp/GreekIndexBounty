@@ -6,7 +6,7 @@ passages:
 
 Nausicaa tells Odysseus how to find her father's house once he is in the city:
 
-{{quote:Od. 6.300-303 | Even a child could lead you}}
+{{quote:5f814f8d-209d-5f54-bd62-c749286974cd}}
 
 Here νήπιος is a small child, the first sense of the word (see the article above). It stands at the start of the verse, the place where the narrator puts νήπιος as a judgment, “the fool!”. Here there is no judgment. The word is in apposition to πάϊς, “a child”, and narrows it: not any child, but a little one. The point is the ease of the task. The house of Alcinous is “easily known” (ἀρίγνωτα, 6.300), because no house of the Phaeacians is built like it (6.301–303; see [[house-of-alcinous]]).
 

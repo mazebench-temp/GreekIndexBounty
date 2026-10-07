@@ -13,13 +13,13 @@ passages:
 
 **Awake.** The girls' shout over the lost ball wakes him (6.117). He sits up and talks to himself:
 
-{{quote:Od. 6.119-121 | To the land of what mortals?}}
+{{quote:7bc065fe-0821-5429-9832-0017f65ab725}}
 
 The question is the test of a land in the Odyssey: are its people savage, or kind to strangers and god-fearing? The same three lines come back when he wakes on Ithaca and does not know it (13.200–202), and two of them before he enters the Cyclops' cave (9.175–176; see [[to-the-land-of-what-mortals]] and [[xenia]]). The female cry might be that of nymphs of the mountains, springs and meadows, or of human beings “who have speech” (6.122–126; see [[nymphs]] and [[the-nymphs-cry-122-124]]). He resolves to go and see for himself.
 
 **The lion.** He breaks off a leafy branch to cover himself (6.127–129) and goes out:
 
-{{quote:Od. 6.130-136 | Like a mountain-bred lion}}
+{{quote:2ac03d54-1715-5acf-a800-bb1aa9afc461}}
 
 The simile is the one that sent Sarpedon against the Achaean wall: the same opening verse and the same hungry lion going “even into the close-built fold” (6.130–134 ≈ Il. 12.299–301; see [[the-lion-and-the-girls]] and [[the-mountain-lion-and-the-fold]]). A raiding warrior's simile is set on a naked castaway among girls, and the point of comparison is his need: “his belly bids him”, and “need had come upon him” (χρειώ, 6.133, 6.136; see [[gaster]]). To the girls he is σμερδαλέος, “terrible”, “marred by the brine” (6.137). They scatter; Nausicaa alone stays (6.138–141; see [[nausicaa]]).
 
@@ -27,7 +27,7 @@ The simile is the one that sent Sarpedon against the Achaean wall: the same open
 
 **The speech.** He begins with the suppliant's verb and the highest flattery:
 
-{{quote:Od. 6.149-152 | Goddess or mortal?}}
+{{quote:c768eb1b-e367-5df9-b908-8fe0f7424281}}
 
 The speech runs thirty-seven lines (6.149–185), the longest he makes in the book. It moves in steps. Goddess or mortal? If mortal, her parents and brothers are “thrice blessed”, and most blessed the man who wins her with bride-gifts (6.153–159; see [[god-or-mortal]], [[thrice-blessed]] and [[bride-price]]). He has never seen her like, except once, a young palm shoot by the altar of Apollo on Delos, which he saw when “a great army followed me, on that journey on which evil sorrows were to come upon me” (6.160–169; see [[the-palm-shoot-on-delos]] and [[odysseus-at-delos]]). Only then does he speak of himself: yesterday, on the twentieth day, he escaped the sea from the island of Ogygia, and a god has cast him here to suffer more (6.170–174; see [[ogygia]]). Zeus had foretold that he would reach Scheria “on the twentieth day” (5.34). He asks for little, the way to the town and a rag to wear, “if perhaps you had some wrapper for the cloths” (6.178–179). He ends with a wish fitted to a girl of marriageable age: a husband, a home, and like-mindedness, “for there is nothing stronger and better than this, / than when two who are like-minded in their thoughts keep a house, / a man and a woman” (6.180–185; see [[homophrosyne]] and [[nothing-better-than-like-mindedness]]).
 
@@ -41,7 +41,7 @@ He gives no name, no father and no country, only Delos, an army and Ogygia. He w
 
 **The prayer.** In the grove he prays to Athena:
 
-{{quote:Od. 6.324-327 | Odysseus' prayer in the grove}}
+{{quote:40175aea-db4c-5ca3-9ef0-017b024bedb9}}
 
 The opening verse is the one with which he prayed to Athena before the night raid at Troy, and Diomedes before him (6.324 = Il. 10.278 = Il. 5.115; see [[hear-me]] and [[prayer]]). Then comes a reproach: she did not listen when the earth-shaker “shattered” him (ῥαιομένου … ἔρραιε, 6.326; see [[the-wrath-of-poseidon]]). His last verse asks for the two things he needs from the Phaeacians, to be φίλος, “dear”, and ἐλεεινός, “pitied” (see [[dear-and-pitied]] and [[pity]]). Aristotle quotes this verse in the *Rhetoric*: since it is well said, “grant that I come to the Phaeacians as one dear to them and pitied”, the speaker in an introduction must aim at these two things (3.14.11, 1415b25–27; see [[aristotle]]). Athena hears, “but she did not yet appear to him face to face”, out of respect for her father's brother Poseidon, who “raged furiously / against godlike Odysseus until he reached his own land” (6.328–331; see [[seeing-the-gods]] and [[poseidon]]). The last verse repeats the poem's first statement of Poseidon's anger (6.331 = 1.21).
 

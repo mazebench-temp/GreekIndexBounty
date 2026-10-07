@@ -6,7 +6,7 @@ passages:
 
 Odysseus comes out of the thicket holding a leafy branch before him:
 
-{{quote:Od. 6.130-131 | Trusting in his courage}}
+{{quote:459846f4-cdcc-58be-99ca-660a3d21a3ae}}
 
 ἀλκὶ πεποιθώς, “trusting in his courage”, is a formula for the end of the verse. The dative ἀλκί is an old form beside the usual ἀλκῇ (see the article above). The phrase occurs six times in Homer, five of them in the Iliad, always of a creature or a man in the fury of battle:
 

@@ -15,7 +15,7 @@ passages:
 
 ## The simile
 
-{{quote:Od. 6.160-169 | The palm on Delos}}
+{{quote:cce21978-9643-551a-977c-0935538adf0c}}
 
 **The vehicle.** A memory, not a scene of nature. “Once on Delos, beside the altar of Apollo, I saw such a thing, / a young sapling of a palm tree springing up” (φοίνικος νέον ἔρνος ἀνερχόμενον, 6.162–163; see [[delos]], [[apollo]], [[altar]] and [[palm-tree]]). He adds why he was there: “for I went there too, and a great army followed me, / on that journey on which evil sorrows were to come upon me” (6.164–165; see [[odysseus-at-delos]]). Then the effect of the sight: “I stood amazed in my heart / for a long time, since never yet had such a stem come up out of the earth” (6.166–167). δόρυ is the trunk of the palm here, not a spear (see the translation notes).
 

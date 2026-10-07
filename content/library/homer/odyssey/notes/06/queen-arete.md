@@ -16,11 +16,11 @@ passages:
 
 **The person to supplicate.** At the end of her directions Nausicaa returns to the picture of the opening, now seen by a stranger entering the hall:
 
-{{quote:Od. 6.303-307 | My mother at the hearth}}
+{{quote:a93eac8d-f957-5b85-9721-ed4fd0bf6178}}
 
 The mother sits “in the light of the fire”, spinning the same sea-purple wool, “a wonder to see”, leaning against a pillar, with her slave women behind her (see [[handmaids]] and [[thambos]]). The king's throne leans against the same pillar, but the stranger is to pass it by (6.308–310; see [[alcinous]]):
 
-{{quote:Od. 6.310-315 | Clasp my mother's knees}}
+{{quote:b0b53206-9310-5fbc-bc6a-54b215362582}}
 
 The scholia ask why he should go to the mother. One note, citing Callistratus, gives three answers: as a woman, Nausicaa puts a woman first; Arete is handed down as the wisest, and women are more ready to pity (schol. E.H.Q.V. on 6.310, Dindorf p. 319). Another note takes ἐπʼ ἐσχάρῃ, “at the hearth”, as a sign of the season: she sits by the fire because it is winter (schol. B on 6.305, Dindorf p. 319). Homer gives no reason in Book 6. In Book 7 Athena repeats the last three verses (6.313–315 ≈ 7.75–77) and adds the explanation of her standing: Alcinous honors her as no other wife is honored, the people greet her like a goddess, and she settles quarrels even among men (7.66–74).
 

@@ -7,7 +7,7 @@ passages:
 
 The narrator ends the short history of the Phaeacians with the death of their founder:
 
-{{quote:Od. 6.11-12 | Nausithous dead, Alcinous king}}
+{{quote:a702dc5b-ed7e-55ec-b9ae-afb558795b03}}
 
 κηρὶ δαμείς is “overcome by doom”: κήρ is the doom of death (see the article above), and δαμείς is the passive participle of δάμνημι, “tame, overcome”. The translation renders it “by fate”. The dative κηρί has the acute accent, and so it is distinct from κῆρι “heart” at 6.158 (see [[ker-heart]]).
 

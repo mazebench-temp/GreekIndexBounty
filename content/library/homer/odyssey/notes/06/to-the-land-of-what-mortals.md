@@ -9,7 +9,7 @@ passages:
 
 **The second doubt.** In Book 6 the question goes on, and the continuation is found only here (6.122–126):
 
-{{quote:Od. 6.122-126 | Nymphs or human beings?}}
+{{quote:1f266cfc-7549-55ec-ba73-ae010ac4ddc9}}
 
 The cry is θῆλυς ἀυτή, “a female cry” (see [[aute]]). A scholion remarks that the poet says θῆλυς, not the feminine form θήλεια (schol. P on 6.122, Dindorf p. 304). The cry sounds “as of girls” (ὥς τε … κουράων), and the girls might be nymphs of the mountains, springs and meadows (see [[nymphs]]). Merry and Riddell suggest that the voice of nymphs might itself point to men nearby, since nymphs receive altars and sacrifices from mortals (13.350, 17.210; note on 6.122, p. 263). They also report that some modern editors suspected or rejected 6.123–124: Nitzsch observed that 6.124 is identical with *Iliad* 20.9 and the *Hymn to Aphrodite* 99, and that a cry of nymphs tells Odysseus little about mortals. The scholia accept the lines (the same note).
 

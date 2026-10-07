@@ -12,7 +12,7 @@ passages:
   - 6.239-246 | Nausicaa to her handmaids
 ---
 
-{{quote:Od. 6.244-245 | The wish}}
+{{quote:d03ea567-4660-5a9d-8bfd-396314cdfd1c}}
 
 Nausicaa's wish, spoken to her handmaids once Odysseus has bathed and Athena has made him beautiful, troubled ancient readers. The textual side of the problem, Aristarchus' athetesis and the line of Alcman, is in [[nausicaas-wish-244-245]]. This entry gives the moral judgments.
 

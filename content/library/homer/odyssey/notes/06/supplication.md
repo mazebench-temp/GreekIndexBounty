@@ -20,7 +20,7 @@ Book 6 is the first supplication that Odysseus makes in the Odyssey, and the poe
 
 **The gesture held back.** Odysseus can take the girl's knees, or he can stand apart and entreat her “with soothing words” (ἐπέεσσιν … μειλιχίοισι, 6.143). He chooses the words, for fear that she will be angry if he takes her knees (6.145–147). The narrator then calls his speech “soothing and shrewd” (μειλίχιον καὶ κερδαλέον, 6.148).
 
-{{quote:Od. 6.141-149 | Words instead of the knees}}
+{{quote:cdbcfdd1-54e0-5493-9373-43690713efc8}}
 
 The full rite needs contact: the suppliant holds the knees and does not let go until he is answered. Odysseus is a naked man coming out of the bushes (6.127–137; see [[nakedness]]), and the person he must supplicate is an unmarried girl. So he says the verb of the gesture, γουνοῦμαι, and he does not make the gesture. Later in the speech he names his reason: “I am terribly afraid / to touch your knees” (6.168–169).
 

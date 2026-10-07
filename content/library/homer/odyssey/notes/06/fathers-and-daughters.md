@@ -13,7 +13,7 @@ The Iliad's fathers and daughters are mostly captives, priests and gods. Book 6 
 
 **The parents.** Nausicaa wakes from the dream and goes to tell her parents (6.50–51). The two are placed in their spheres. Her mother sits at the hearth with her women and spins sea-purple wool. Her father is going out to the council of the kings (6.52–55; see [[queen-arete]] and [[alcinous]]). Nausicaa goes to her father.
 
-{{quote:Od. 6.56-70 | Papa dear}}
+{{quote:5c6e6536-c7fc-5bd7-939b-eed90a625946}}
 
 **“Papa dear”.** She stands very close and begins πάππα φίλʼ, “Papa dear” (6.57). LSJ calls πάππας “papa, child's word for father; mostly in voc.” and cites this line first (s.v. πάππας). The word occurs nowhere else in Homer. A scholion calls it a lisping sound, an affectionate address of a younger person to an older. Another scholion lists the words of this kind, which are used in speaking to a person and never in speaking about him: τέττα to a friend, ἄττα to a foster-father, θεῖε to an uncle, and πάππα to a father (Dindorf pp. 298–299, on 6.57).
 

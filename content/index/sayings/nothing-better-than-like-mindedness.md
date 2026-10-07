@@ -12,7 +12,7 @@ passages:
   - 6.180-185 | Odysseus' blessing
 ---
 
-{{quote:Od. 6.180-185 | Odysseus' blessing}}
+{{quote:97219079-02f3-5369-abbf-74a2ce172ac9}}
 
 Odysseus ends his supplication of Nausicaa with a prayer for her, since he has nothing else to give: may the gods grant her what she longs for, a husband, a home, and good ὁμοφροσύνη, “like-mindedness” (6.180–182; see [[homophrosyne]] and [[supplication]]). The maxim gives the reason. The comparative pair κρεῖσσον καὶ ἄρειον, “stronger and better”, puts the like-minded couple above every other good. The verb is in the dual, ὁμοφρονέοντε … ἔχητον: the two are one pair, and they “keep a house” together (6.183). The pair is then named, ἀνὴρ ἠδὲ γυνή, “a man and a woman”, at the start of the next verse (6.184).
 

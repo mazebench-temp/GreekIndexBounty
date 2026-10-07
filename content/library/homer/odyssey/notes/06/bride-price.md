@@ -8,7 +8,7 @@ passages:
 
 **The verse.** In his praise of Nausicaa Odysseus calls her parents and brothers thrice blessed, and then:
 
-{{quote:Od. 6.158-159 | The most blessed man}}
+{{quote:50ee1022-2bd5-5137-8846-c68793189974}}
 
 ἐέδνοισι βρίσας is literally “weighing heavy with bride-gifts”. Merry and Riddell translate “having prevailed by his gifts”. They note that βρίθω in Homer is always intransitive, so that σε, “you”, is the object of ἀγάγηται, “leads home”, and not of βρίσας (note on 6.159, p. 266). The scholia explain the image in the same way: he leads her home “having outweighed the other suitors with bride-gifts”, and the poet, “very flatteringly”, shows her as a prize much fought over (schol. P.Q. on 6.159). Another scholion glosses βρίσας as “having weighed down much”, and a third glosses ἔεδνα as “gifts before marriage, wooing gifts” (schol. B and V on 6.159; all Dindorf p. 307). Eustathius glosses βρίσας as “having beaten the other suitors by the number of his bride-gifts”, as quoted by Merry and Riddell.
 

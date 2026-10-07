@@ -4,7 +4,7 @@ summary: In the gossip that Nausicaa imagines, the townspeople wonder whether th
 
 Nausicaa explains to Odysseus why he must not walk into the city behind her wagon. Some baser man of the town would see them and say: “And who is this following Nausicaa, a handsome and tall / stranger? … Perhaps she has taken in someone who was driven off course, from his own ship, … or some much-prayed-for god has come to her at her prayer, / down from the sky, and she will have him all her days” (6.276–281). See [[tis-speech]], [[phemis]] and [[nausicaa]].
 
-{{quote:Od. 6.280-281 | A much-prayed-for god}}
+{{quote:46039e68-eb42-5cad-930b-d72ce334d79e}}
 
 The verse puts the epithet beside the participle εὐξαμένῃ, “to her, having prayed”. Here the god is the one she prayed for, as the townsman imagines it. The scholion on the line gives two senses for the word: a god who hears many prayers, or one thought worthy of many (Dindorf about p. 317).
 

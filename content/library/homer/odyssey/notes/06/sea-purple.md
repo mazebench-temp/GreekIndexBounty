@@ -6,6 +6,6 @@ summary: The queen spins sea-purple wool by the hearth twice in Book 6, once in 
 
 **In Nausicaa's directions (6.305–307).** Nausicaa tells Odysseus how he will find her mother in the palace: “she sits at the hearth in the light of the fire, / turning the sea-purple wool on her distaff, a wonder to see, / leaning against a pillar; and her slave women sit behind her”. The first line of the scene repeats the narrative of the morning almost word for word. The added phrase θαῦμα ἰδέσθαι, “a wonder to see”, belongs to the wool in its color and to the queen at her work ([[thambos]]). Odysseus is to pass by the king and clasp the knees of this woman (6.310–311; [[supplication]]).
 
-{{quote:Od. 6.303-311 | The queen at the hearth}}
+{{quote:89987225-66b6-588c-bd7f-345690308983}}
 
 The epithet occurs once more in the Odyssey, of the webs that the nymphs weave in their cave on Ithaca (13.108). Both passages end the verse with θαῦμα ἰδέσθαι.

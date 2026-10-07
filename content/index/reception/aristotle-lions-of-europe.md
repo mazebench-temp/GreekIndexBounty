@@ -12,7 +12,7 @@ passages:
   - 6.102-109 | Artemis among her nymphs
 ---
 
-{{quote:Od. 6.102-104 | Artemis on the mountains}}
+{{quote:5e0bf317-7a55-5595-8595-4ce8c7caa748}}
 
 The narrator compares Nausicaa among her handmaids to Artemis among her nymphs. The goddess goes down the mountains, “along lofty Taygetus or Erymanthus, delighting in boars and swift deer” (6.102–104; see [[artemis-among-her-nymphs]]). Taygetus is the mountain range of Laconia, and Erymanthus a mountain of Arcadia.
 

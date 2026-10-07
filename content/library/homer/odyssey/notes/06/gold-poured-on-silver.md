@@ -3,7 +3,7 @@ summary: The first use of the simile. After Odysseus bathes in the river and dre
 refs: [6.229-237]
 ---
 
-{{quote:Od. 6.229-237 | Athena pours grace on Odysseus}}
+{{quote:45dbc0d6-7cdb-5501-a61f-4c115beb80bf}}
 
 **The sequence.** The simile stands at the end of a bath. Odysseus has asked the handmaids to stand apart, since he is ashamed to be naked among girls (6.218–222). He washes the brine from his back and shoulders and the scurf of the sea from his head, anoints himself, and puts on the clothes that “the unwed maiden” gave him (6.224–228; see [[bathing]] and [[olive-oil]]). Then the goddess finishes what the water began. She makes him “taller to look upon and sturdier” (6.229–230), lets curling hair fall from his head (6.231; see [[like-the-hyacinth-flower]]), and the simile describes the last touch, the grace on his head and shoulders (6.232–235). The head and shoulders are the parts he has just washed (6.225–226). The craftsman adds his gold after the silver is clean.
 

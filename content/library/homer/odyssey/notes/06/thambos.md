@@ -9,7 +9,7 @@ passages:
 
 **The palm and the girl.** Odysseus' speech to Nausicaa reaches its height in a comparison (6.160–169). He has never seen such a mortal, man or woman, and “awe holds me as I look on you” (σέβας μʼ ἔχει εἰσορόωντα, 6.161; see [[sebas]]). Once on Delos he saw a young palm shoot springing up beside Apollo's altar (see [[the-palm-shoot-on-delos]]):
 
-{{quote:Od. 6.166-169 | Amazed at the palm, amazed at her}}
+{{quote:3216b509-4ea4-5eb5-8b57-f7504b56e7b0}}
 
 The comparison runs across the three lines with a pair of tenses. ἐτεθήπεα, “I stood amazed” (pluperfect, used as a past), is said of the palm; τέθηπα, “I stand amazed” (perfect with present sense), is said of her. Both are forms of τέθηπα, which LSJ glosses “to be astonished, astounded, amazed” and takes as probably cognate with θάμβος (see the article above). The translation keeps the pair: “in just the same way … I stood amazed … as I … stand amazed” (see the translation notes on 6.166–168). The amazement at the plant is the measure of the amazement at the girl.
 

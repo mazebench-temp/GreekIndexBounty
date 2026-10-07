@@ -5,7 +5,7 @@ grc: [ἐΰθρονος]
 
 **The line.** Athena returns to Olympus after the dream (6.41–47), and the next verse brings the day: αὐτίκα δʼ Ἠὼς ἦλθεν ἐύθρονος, ἥ μιν ἔγειρε, “at once came Dawn of the fair throne, who woke her” (6.48). The verse has the shape of the Odyssey's short dawn verse αὐτίκα δὲ χρυσόθρονος ἤλυθεν Ἠώς, “at once golden-throned Dawn came” (10.541, 12.142, 15.56, 20.91; [[golden-throned]]), but it names Dawn before the epithet and adds a relative clause. A close parallel is 15.495, αἶψα γὰρ Ἠὼς ἦλθεν ἐΰθρονος, when Telemachus reaches Ithaca. Here Dawn does more than mark the time: she wakes the girl to whom the goddess has just spoken, and the day of the washing begins. See [[eos]], [[dawn-line]] and [[nausicaa]].
 
-{{quote:Od. 6.48-50 | Dawn wakes Nausicaa}}
+{{quote:317cb6d2-c2b8-535b-b227-010058027ed8}}
 
 **What the throne is.** LSJ gives the standard sense, “with beautiful seat or throne” (s.v. εὔθρονος), and cites this line. Two other readings exist.
 

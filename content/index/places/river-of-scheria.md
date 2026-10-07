@@ -20,7 +20,7 @@ The poet never names the river. He describes it with common epithets:
 
 At its mouth the place is smooth, free of rocks, and sheltered from the wind (5.442–443). The girls find the same shelter there in Book 6 (6.210–212).
 
-{{quote:Od. 6.85-87 | The washing pools}}
+{{quote:4e4d74e8-ee8a-5586-87ec-309d520047c9}}
 
 ## In the Odyssey
 

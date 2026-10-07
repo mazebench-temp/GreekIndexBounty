@@ -8,7 +8,7 @@ passages:
 
 Nausicaa throws the ball at a handmaid and misses, and the ball falls into a deep eddy. The girls shout, and Odysseus wakes (6.115–117). The verb is ἄυσαν, “they shouted”, from the same root as ἀϋτή. Merry and Riddell join ἐπὶ … ἄυσαν, “they cried aloud thereat” (note on 6.117, p. 263). He then names the sound:
 
-{{quote:Od. 6.122-124 | A female cry}}
+{{quote:29dc485b-8ea5-5219-89fb-454ec48066ec}}
 
 ἀϋτή is the shout of battle, and in the Iliad it often means the fighting itself (see the article above). Here the noun is qualified by θῆλυς, “female”, and the shout is the noise of girls at a game. The text writes the word ἀυτή, without the diaeresis. Odysseus cannot tell whether the cry belongs to “girls”, to “nymphs, who hold the steep peaks of the mountains / and the springs of rivers and the grassy meadows”, or to “human beings who have speech” (6.122–125; see [[to-the-land-of-what-mortals]] and [[nymphs]]).
 

@@ -20,7 +20,7 @@ passages:
 
 In Homer Delos appears only in Odysseus' speech to Nausicaa. He saw there, “beside the altar of Apollo, a young sapling of a palm tree springing up” (6.162–163; see [[palm-tree]] and [[altar]]).
 
-{{quote:Od. 6.162-167 | The palm on Delos}}
+{{quote:71f816d8-07ec-5099-929e-19dc77109d7a}}
 
 He went there “and a great army followed me, on that journey on which evil sorrows were to come upon me” (6.164–165). Homer does not say when this was. Merry and Riddell place it on the voyage from Aulis to Troy, through the Cyclades. A scholion connects it with a visit of Menelaus and Odysseus to Delos to fetch the daughters of Anius, and says that Simonides told the story (see [[odysseus-at-delos]]).
 

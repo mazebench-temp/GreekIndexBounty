@@ -10,6 +10,6 @@ passages:
 
 **In the directions.** Nausicaa uses the same picture when she tells Odysseus how to find help. Once inside the courtyard he is to go quickly through the hall “until you come to my mother; she sits at the hearth in the light of the fire, turning the sea-purple wool on her distaff, a wonder to see, leaning against a pillar; and her slave women sit behind her” (6.304–307). Her father's throne leans against the same pillar, and he sits on it drinking his wine like an immortal (6.308–309; see [[throne]]). Odysseus is to pass the king by and throw his hands around the mother's knees (6.310–315; see [[supplication]]). The hearth is therefore the goal of his approach. In Book 7 he does what she says, clasps Arete's knees, and then sits down at the hearth in the ashes (7.139–154).
 
-{{quote:Od. 6.303-310 | At the hearth in the light of the fire}}
+{{quote:07f4bfcb-c95d-5c10-b245-ad7518331a4c}}
 
 **ἐπʼ ἐσχάρῃ.** The scholia explain the preposition in two ways. On 6.52 one glosses it “beside the hearth” (V, Dindorf p. 298). On 6.305 another denies that sense and takes ἐπί to describe the queen's raised seat, comparing Iliad 6.15, where a man lives “by the road” (Dindorf p. 318). The same group adds that the fire shows the season: “from this he shows the time, that it was winter” (B; H, Dindorf p. 319). The fire's light, πυρὸς αὐγή (6.305), is the light by which the queen spins and by which the stranger first sees her.

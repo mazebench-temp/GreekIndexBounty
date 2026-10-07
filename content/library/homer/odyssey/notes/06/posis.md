@@ -9,7 +9,7 @@ passages:
 
 **The wish.** After Athena has made Odysseus taller and poured grace on him, Nausicaa speaks to her handmaids, with Odysseus sitting apart on the shore (6.236–245; see [[charis]]):
 
-{{quote:Od. 6.242-245 | Nausicaa's wish}}
+{{quote:b8bb3b1a-d931-5a56-bc12-a5fe7b158fa9}}
 
 τοιόσδε πόσις κεκλημένος εἴη, “such a man might be called my husband”: Merry and Riddell compare Odysseus' oath “may I no longer be called the father of Telemachus” (*Iliad* 2.260) and Hera's “I am called your wife” (σὴ παράκοιτις κέκλημαι, *Iliad* 4.60), and note that οἱ in the next line turns the general wish toward Odysseus himself (note on 6.244, p. 274). She wishes for a husband “of this kind”, not yet for this man, and for one who would stay in Scheria. The poem has already told why marriage is on her mind. Athena, in a dream, told her that her marriage is near and that the best of the Phaeacians are courting her (6.27–35; see [[marriage]]). With her father she “felt shame to name the marriage” (6.66; see [[aidos]]). With her handmaids, and out of Odysseus' hearing, she names it.
 

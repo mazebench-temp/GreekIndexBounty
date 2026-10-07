@@ -15,7 +15,7 @@ passages:
 
 ## The simile
 
-{{quote:Od. 6.232-235 | As when a man pours gold around silver}}
+{{quote:fe3b2497-f81f-5580-8973-fdd324b734e3}}
 
 **The vehicle.** ὡς δʼ ὅτε τις χρυσὸν περιχεύεται ἀργύρῳ ἀνήρ, “as when a man pours gold around silver”. περιχεύεται is an aorist subjunctive of περιχέω, “pour around”, with a short vowel; ἀργύρῳ is a locative, “on the silver”, the ground on which the gold is laid (Merry and Riddell on 6.232). The work is gilding: a film of gold over a silver object. The man is ἴδρις, “skilled, knowing”, and his knowledge has a divine source: “whom Hephaestus and Pallas Athena have taught (δέδαεν) craft of every kind” (6.233–234; see [[hephaestus]] and [[athena]]). δέδαεν is a reduplicated aorist of the root δα-, “learn, teach”. The last clause gives the result: χαρίεντα δὲ ἔργα τελείει, “and he completes graceful works”.
 

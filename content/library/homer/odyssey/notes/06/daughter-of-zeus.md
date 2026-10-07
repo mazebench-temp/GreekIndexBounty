@@ -7,7 +7,7 @@ The phrase Διὸς κούρῃ μεγάλοιο, “the daughter of great Zeus
 - **Artemis (6.151).** Odysseus begins his supplication by asking whether the girl is a goddess or a mortal. If she is a goddess, he says, “it is to Artemis, the daughter of great Zeus, that I for my part / liken you most closely, in looks and stature and build” (6.151–152). See [[artemis]], [[god-or-mortal]] and [[artemis-among-her-nymphs]].
 - **Athena (6.323).** In the grove at sunset “at once he prayed to the daughter of great Zeus” (6.323). The prayer itself names her as “child of aegis-bearing Zeus” (6.324; [[child-of-aegis-bearing-zeus]], [[atrytone]]).
 
-{{quote:Od. 6.149-152 | The daughter of great Zeus}}
+{{quote:836e45ef-5d1f-584a-a095-6ec9fdf953c1}}
 
 The phrase links the two goddesses who frame Nausicaa's story. Odysseus compares her to one of them at the start of his supplication, and he prays to the other, whose grove the girl has shown him, at the end of the book.
 

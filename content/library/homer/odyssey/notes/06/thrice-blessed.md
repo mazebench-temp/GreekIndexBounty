@@ -3,7 +3,7 @@ summary: Odysseus' second “thrice blessed” in two books. On the raft he call
 refs: [6.154-159]
 ---
 
-{{quote:Od. 6.153-159 | Thrice blessed}}
+{{quote:a8e7a03b-dc5c-565e-9e69-de7aa61e4a78}}
 
 **The order.** The blessing follows the second half of Odysseus' question: “but if you are one of the mortals who dwell on the earth” (6.153; see [[god-or-mortal]]). The three groups are named in rising order. Her father and lady mother are “thrice blessed” (6.154), her brothers “thrice blessed” (6.155), and the man who will take her home is μακάρτατος ἔξοχον ἄλλων, “most blessed … far above all others” (6.158). δέ stands third in τρὶς μάκαρες δὲ κασίγνητοι (6.155), after the two words that are repeated from the verse before.
 

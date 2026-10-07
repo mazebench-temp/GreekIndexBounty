@@ -16,6 +16,6 @@ passages:
 
 **The bath refused.** Odysseus tells the girls to stand away, so that he can wash the brine from his shoulders himself and anoint himself, “for truly ointment has long been away from my skin” (6.218–220). Then he gives his reason:
 
-{{quote:Od. 6.221-222 | I will not bathe in front of you}}
+{{quote:a6b4e309-307d-5df6-b788-6f0d44aed753}}
 
 His shame at being naked in front of unmarried girls overrides the custom (see [[nakedness]] and [[aidos]]). He washes himself in three movements: the brine from his back and broad shoulders, the scurf of the sea from his head, and then oil all over (6.224–227). The verb ἔσμηχεν, “he scrubbed”, occurs only here in Homer. The bath ends as baths do in the Odyssey, with clean clothes (6.228). Then Athena adds what no bath can, and makes him taller and more beautiful (6.229–237; see [[divine-beautification]]).

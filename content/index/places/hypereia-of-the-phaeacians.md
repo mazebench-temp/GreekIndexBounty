@@ -18,7 +18,7 @@ passages:
 
 ## Descriptions
 
-{{quote:Od. 6.4-8 | The Phaeacians leave Hypereia}}
+{{quote:eb0e85e3-fde4-5f9a-8a62-d2d5528e5fb5}}
 
 - ἐν εὐρυχόρῳ Ὑπερείῃ, “in Hypereia with its wide dancing floors” (6.4; see [[with-wide-dancing-floors]]).
 - ἀγχοῦ Κυκλώπων ἀνδρῶν ὑπερηνορεόντων, “near the Cyclopes, overweening men” (6.5; see [[overweening]] and [[cyclopes]]). The Cyclopes harmed the Phaeacians again and again, and they were stronger (6.6).

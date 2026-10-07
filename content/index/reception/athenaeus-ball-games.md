@@ -12,7 +12,7 @@ passages:
   - 6.115-117 | The missed throw
 ---
 
-{{quote:Od. 6.115-117 | The missed throw}}
+{{quote:3e8d7271-973b-5b1c-b718-f412519e94e9}}
 
 ## Athenaeus
 

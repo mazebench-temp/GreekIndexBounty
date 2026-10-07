@@ -14,7 +14,7 @@ passages:
 
 ## Descriptions
 
-{{quote:Od. 6.291-294 | The grove of Athena}}
+{{quote:1e500a02-6d6f-52e1-b2e5-687293e1de63}}
 
 - ἀγλαὸν ἄλσος, “a splendid grove” (6.291), and κλυτὸν ἄλσος ἱρὸν Ἀθηναίης, “the famous grove, holy to Athena” (6.321–322).
 - ἄλσος is a grove, and in particular a sacred grove. LSJ cites this passage for the sacred sense. The word can also mean a sacred precinct without trees (LSJ s.v. ἄλσος).

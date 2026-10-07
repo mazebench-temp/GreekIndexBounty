@@ -12,7 +12,7 @@ passages:
   - 6.160-169 | The palm on Delos
 ---
 
-{{quote:Od. 6.162-163 | The young palm}}
+{{quote:344acaa9-ae36-515a-b00b-ee7924d72105}}
 
 In his first speech to Nausicaa, Odysseus compares her to something he once saw “on Delos, beside the altar of Apollo, … a young sapling of a palm tree springing up” (6.162–163). The simile is treated in [[the-palm-shoot-on-delos]]. This entry follows the tree itself: the palm in the cult and story of Delos, and the later writers who say that it could still be seen.
 

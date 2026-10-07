@@ -4,7 +4,7 @@ summary: Odysseus names Ogygia once in Book 6, when he tells Nausicaa that he ha
 
 After his praise of Nausicaa, Odysseus turns to his own state and asks for pity.
 
-{{quote:Od. 6.170-172 | Twenty days from Ogygia}}
+{{quote:ba29b792-d950-5813-b022-956433591cf6}}
 
 **The twenty days.** χθιζός, “yesterday”, is an adjective used as an adverb, and τόφρα, “all that time”, covers the whole twenty days (Merry and Riddell on 6.170–171). The count fits the story of Book 5. Odysseus sailed for seventeen days and saw the Phaeacians' mountains on the eighteenth, when Poseidon raised the storm (5.278–296). He then drifted for two nights and two days before he came ashore (5.388–390). A scholion (H.P.Q.) comments on the rhetoric. Odysseus could have mentioned only the two days of the wreck, but he adds up all the days of his misfortune to move the girl to pity (see [[pity]]).
 

@@ -6,7 +6,7 @@ passages:
 
 Nausicaa tells Odysseus where to wait while she drives into the city:
 
-{{quote:Od. 6.291-296 | The grove and the domain}}
+{{quote:099699e4-d2c9-5423-a955-4d975420d3f5}}
 
 The τέμενος here is the land of a man, in the first sense of the word (see the article above). LSJ cites 6.293 for this sense, with the τέμενος of Odysseus in 17.299. It is joined with ἀλωή, an orchard or vineyard, which is “flourishing” (τεθαλυῖα). The Iliad describes a τέμενος in similar terms, “fine in orchard and plowland” (*Iliad* 6.195, 12.314, 20.185). The translation renders the word “domain”.
 

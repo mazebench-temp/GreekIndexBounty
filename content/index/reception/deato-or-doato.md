@@ -12,7 +12,7 @@ passages:
   - 6.239-246 | Nausicaa to her handmaids
 ---
 
-{{quote:Od. 6.242-243 | Before and now}}
+{{quote:de153701-8912-5ce1-832a-125f512a073c}}
 
 Nausicaa contrasts the man she first saw with the man who now sits on the shore: “for before, he truly seemed to me to be unsightly, / but now he is like the gods who hold the wide sky” (6.242–243). The verb of the first line is δέατʼ, the elided form of δέατο, “he seemed”. In the Iliad and the Odyssey it occurs only here. ἀεικέλιος means “unseemly, wretched to look at”. It describes the naked man, crusted with brine, who came out of the thicket (6.127–137; see [[the-lion-and-the-girls]]).
 

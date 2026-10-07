@@ -4,7 +4,7 @@ passages:
   - 6.291-296 | The grove a shout from the city
 ---
 
-{{quote:Od. 6.291-296 | A shout from the city}}
+{{quote:3f3ad517-8ba7-57b1-b908-f5eb9b829f31}}
 
 **The directions.** Nausicaa tells Odysseus what he will find near the road: a grove of poplars sacred to Athena, with a spring and a meadow, and her father's estate (τέμενος) and flourishing orchard, “as far from the city as a man can make himself heard when he shouts” (τόσσον ἀπὸ πτόλιος, ὅσσον τε γέγωνε βοήσας, 6.291–294; see [[grove-of-athena]], [[temenos]] and [[polis]]). He is to sit there and wait until the girls have reached the house (6.295–296). The formula places the grove outside the city and close to it, near enough that a shout would carry.
 

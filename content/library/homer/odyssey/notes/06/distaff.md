@@ -10,6 +10,6 @@ The same verse describes the queen at both points of the book: ἠλάκατα �
 
 ἁλιπόρφυρα describes the wool as “sea-purple”, of true purple dye (LSJ; see [[sea-purple]] and [[purple]]). The scholia comment on the queen's work. Though the Phaeacians live in great luxury, the queen does not neglect the work, and sea-purple wool suits a queen, as Helen too works violet-dark wool (Q.T. on 6.53, Dindorf p. 298; Odyssey 4.135). Merry and Riddell suggest an allusion to the Phoenician purple dye from the murex (note on 6.53).
 
-{{quote:Od. 6.50-55 | The queen at her spinning}}
+{{quote:86040299-a999-55e5-9ab9-7a18330586eb}}
 
 The translation follows LSJ: ἠλάκατα is the wool on the distaff, not the distaff itself, and the verse is rendered “turning the sea-purple wool on her distaff” (see the translation notes on 6.53 and 6.306).

@@ -20,7 +20,7 @@ passages:
 
 The narrator tells the story in ten verses, as Athena goes to the Phaeacian city:
 
-{{quote:Od. 6.3-12 | The Phaeacians leave Hypereia}}
+{{quote:b880326a-5152-50b6-8d7d-a0dcfcc4af72}}
 
 1. **Hypereia.** The Phaeacians “once in former days” lived in Hypereia “with its wide dancing floors” (6.4; see [[hypereia-of-the-phaeacians]] and [[with-wide-dancing-floors]]).
 2. **The Cyclopes.** Their neighbors were the Cyclopes, “overweening men”, who kept doing them harm and were stronger (6.5–6; see [[cyclopes]] and [[overweening]]). The iterative verb σινέσκοντο says that the harm was repeated.

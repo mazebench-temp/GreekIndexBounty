@@ -5,7 +5,7 @@ grc: [λευκώλενοι]
 
 **Nausicaa.** The narrator calls her Ναυσικάα λευκώλενος three times (6.101, 6.186, 6.251). Each time the name and the epithet follow a short opening of one foot (τῇσι δέ, τὸν δʼ αὖ, αὐτάρ) and an action closes the verse. She “began the song and dance” among the girls at play (6.101), she “answered him face to face” after the supplication speech (6.186), and she “thought of other things” while Odysseus ate (6.251). The three lines mark her three moments of leadership: in the game, in speech, and in the plan for the journey to the city. See [[nausicaa]], [[then-answered]] and [[thought-of-another-thing]].
 
-{{quote:Od. 6.186-187 | White-armed Nausicaa answers}}
+{{quote:befb9d90-806e-5582-a500-1e6273668991}}
 
 In the Iliad the epithet belongs above all to Hera, and to Helen and Andromache among mortals. In the Odyssey it also goes with Nausicaa's mother Arete (7.233, 7.335, 11.335) and once more with Nausicaa, when Book 7 recalls her nurse (7.12). Mother and daughter share it. See [[queen-arete]].
 

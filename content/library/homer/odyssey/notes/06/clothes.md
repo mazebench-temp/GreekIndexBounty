@@ -10,7 +10,7 @@ passages:
 
 **The reason for the journey.** Athena comes to Nausicaa in a dream and starts with the clothes: they lie “uncared for” (ἀκηδέα), and her marriage is near, when she must wear fine clothes herself and give others to the groom's party (6.26–28). A good report among men comes from such things, and her parents will be glad (6.29–30). The order in which the goddess puts it ties clean clothes to a good name and to a bride's readiness (see [[marriage]] and [[phemis]]).
 
-{{quote:Od. 6.25-28 | Your glossy clothes lie uncared for}}
+{{quote:c0f24c7a-9302-52f1-b18f-3fd076fae2f8}}
 
 The load is listed at 6.38: “the sashes and the robes and the glossy coverlets” (ζῶστρα, πέπλους, ῥήγεα; see [[robe]] and [[coverlets]]). ζῶστρα occurs only here in Homer. LSJ gives “belt, girdle”.
 
@@ -18,7 +18,7 @@ The load is listed at 6.38: “the sashes and the robes and the glossy coverlets
 
 **The washing.** (See [[washing-clothes]].) At the river there are “never-failing washing pools” (πλυνοὶ … ἐπηετανοί, 6.86). Merry and Riddell take them as tanks dug beside the river, with water that flows in and out (note on 6.86). The girls carry the clothes into the water, tread them in the trenches and race each other at the work (6.91–92; see [[eris]]). Then they spread them out in a row on the shingle, where the sea washes the pebbles clean, and wait for them to dry in the sun (6.93–98).
 
-{{quote:Od. 6.90-98 | The washing}}
+{{quote:32aba9b4-09f4-59d4-9814-52eaf087b306}}
 
 The clothes then stay in the background while the girls play ball. When Nausicaa is about to yoke the mules and fold the fine clothes (6.110–111), Athena makes Odysseus wake.
 
@@ -26,6 +26,6 @@ The clothes then stay in the background while the girls play ball. When Nausicaa
 
 Nausicaa answers that he “will not lack clothing, then, or anything else of what befits a much-tried suppliant” (6.192–193). Her handmaids lay beside him a cloak and a tunic (φᾶρός τε χιτῶνά τε εἵματα, 6.214; see [[cloak]] and [[tunic]]) with oil in a golden flask (see [[olive-oil]]). He bathes apart, anoints himself and puts on “the clothes that the unwed maiden had given him” (6.227–228). Athena then makes him taller and more handsome (6.229–235; see [[gold-poured-on-silver]]), and Nausicaa wishes such a man might be her husband (6.244–245).
 
-{{quote:Od. 6.211-216 | Clothes for the stranger}}
+{{quote:f7c57e65-8721-563c-8d76-39d17b749eeb}}
 
 **What the clothes will do.** Nausicaa folds the clothes, puts them on the carriage and drives home (6.252–253; see [[wagon]]). The clothes Odysseus wears came from her mother's house. In the next book Arete knows them at once, “for she recognized the cloak and the tunic when she saw the fine clothes that she herself had made with her handmaid women”, and asks “who gave you these clothes?” (7.233–238; see [[queen-arete]]). The laundry that Athena set in motion in 6.25–40 thus clothes the stranger and identifies his first host.

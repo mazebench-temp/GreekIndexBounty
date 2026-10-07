@@ -9,7 +9,7 @@ passages:
 
 **The founding.** Athena goes “to the land and the city of the Phaeacian men” (δῆμόν τε πόλιν τε, {{ref:Od. 6.3}}). A scholion explains the pair: δῆμος is the body of the people, πόλις is the built city. The narrator then tells their history in eight lines. They lived in Hypereia near the [[cyclopes]], who kept harming them. [[nausithous]] made them “rise up” and led them away (ἀναστήσας, 6.7), and a scholion glosses this as “sending out a colony” (ἀποικίαν στειλάμενος). He settled them in Scheria, “far from grain-eating men” (6.8; see [[alphestes]]). There he drove a wall around the city, built houses and temples, and divided the plowland (6.9–10). By the time of the story he is dead, and [[alcinous]] rules (6.11–12; see [[hypereia-of-the-phaeacians]] and [[the-phaeacians-leave-hypereia]]).
 
-{{quote:Od. 6.4-10 | Nausithous founds the city}}
+{{quote:3c9add8e-d383-5a0e-9cbe-abd9da1582f1}}
 
 The scholia record a reading in this line. The Aristarchean copies read εἷσεν δὲ Σχερίῃ, “and he settled them in Scheria”, “not, as some read, ἐν Σχερίῃ”. Murray prints the Aristarchean reading. A note in the same scholion, in the form used for Aristarchus' observations, adds that the land was called Scheria and not Corcyra, and that it lies outside the inhabited world (see [[aristarchus]]).
 
@@ -17,13 +17,13 @@ The scholia record a reading in this line. The Aristarchean copies read εἷσ�
 
 **Far out in the sea.** Nausicaa tells her handmaids that no man will come to the land of the Phaeacians “bringing combat”, because the Phaeacians are “very dear to the immortals” (6.201–203; see [[dieros]]).
 
-{{quote:Od. 6.204-205 | The farthest away}}
+{{quote:eb180c85-7074-5e00-aaa5-5a091a0c0a5e}}
 
 ἔσχατοι, “the farthest away”, places the Phaeacians at the edge of the human world, as the Ethiopians are “the farthest of men” (1.23; see [[ethiopians]]). Two scholia on 6.204 read the line against the later identification with Corcyra. One says that the poet clearly places the land far away and not at Corcyra. Another says “and yet they live in Corcyra”, and explains ἔσχατοι as relative to Greece (see [[corcyra-and-the-phaeacians]]). The line also sets up the end of the story. The Phaeacians, who have no visitors, will take Odysseus home, and Poseidon will punish them for it (13.146–187).
 
 **The city of ships.** Nausicaa's directions to the city turn into a description of it (6.262–272).
 
-{{quote:Od. 6.262-272 | The city of ships}}
+{{quote:03e19db8-f413-5a99-84a4-5b681a3036bc}}
 
 - A high rampart (πύργος) surrounds the city. Nausithous built it (6.9), and Odysseus admires the long walls when he enters (7.44–45).
 - There is a fine harbor on each side of the city and a narrow entrance (λεπτὴ δʼ εἰσίθμη). Merry and Riddell take the city to stand on a peninsula joined to the land by a narrow neck, and they compare Tyre. The scholia take the narrow entrance to be the passage into the harbor, made narrow by the number of ships. Aristophanes of Byzantium wrote ἴσθμη, from ἰσθμός, “isthmus” (scholion on 6.264).

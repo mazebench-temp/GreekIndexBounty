@@ -16,7 +16,7 @@ passages:
 
 Homer has two scenes of play with a ball, and both are set among the Phaeacians. In Book 6 Nausicaa and her handmaids play on the river bank while the washing dries, and Nausicaa leads the μολπή, the play with song and movement (6.99–101). In Book 8 Alcinous tells his sons Halius and Laodamas to dance alone, because no one can match them. They take a fine purple ball made by Polybus. One bends back and throws it toward the clouds, and the other leaps from the ground and catches it before his feet touch the earth. Then they dance on the ground, passing it quickly between them, while the other young men stand round and beat time (8.370–380).
 
-{{quote:Od. 6.99-101 | The girls play at ball}}
+{{quote:f5162c78-150f-5d94-8ee3-86ab6d2c653c}}
 
 In both scenes the ball belongs with dance. The word for the game in Book 6, μολπή, is the word for song and dance together (see [[dance]]), and in Book 8 the throwing turns into a dance (ὠρχείσθην, 8.378). Merry and Riddell think that the girls' game was also “accompanied with a measured chant and a dance movement, to which the throwing and catching of the ball kept time” (note on 6.101, p. 261). Athenaeus, reading Homer, counts “dances with the ball” among the Homeric dances (1.14d).
 

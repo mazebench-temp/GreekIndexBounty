@@ -12,7 +12,7 @@ passages:
   - 6.239-246 | Nausicaa to her handmaids
 ---
 
-{{quote:Od. 6.239-245 | Nausicaa to her handmaids}}
+{{quote:de0a3383-9b2e-51e6-853e-542958ee37c5}}
 
 Athena has made Odysseus taller and poured grace on his head and shoulders. He sits apart on the shore, and Nausicaa gazes at him (6.229–237; see [[gold-poured-on-silver]]). Then she speaks to her handmaids. The stranger has not come to the Phaeacians against the will of all the gods. Before, he seemed unsightly to her; now he is like the gods (6.240–243; see [[deato-or-doato]]). She ends with a wish: “If only such a man might be called my husband, living here, and if only it pleased him to stay here” (6.244–245). Then she orders food and drink for him (6.246). The wish is spoken to the handmaids, not to Odysseus.
 

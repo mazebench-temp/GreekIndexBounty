@@ -10,7 +10,7 @@ Athena comes to Nausicaa's bed “like a breath of wind”, stands above her hea
 
 The choice of a girl of the same age sets the tone of the speech:
 
-{{quote:Od. 6.25-28 | Why did your mother bear you so slack?}}
+{{quote:faddb0f2-13e4-5378-be77-a2d29ddcd81c}}
 
 The disguised goddess scolds as a friend may scold. She calls Nausicaa μεθήμων, “slack”, speaks of her marriage, of the good report that pleases her parents, and of the suitors, and proposes a shared outing: “let us go to wash them”, and “I will go along with you as a fellow worker” (συνέριθος, 6.31–32; see [[nausicaa]] and [[phemis]]). The first-person plural is the friend's voice. The promise of company is not kept in the story: the friend does not come to the river, and Athena acts there unseen (6.112–117).
 

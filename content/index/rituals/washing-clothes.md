@@ -16,7 +16,7 @@ passages:
 
 Clothes were washed in the open, at pits or troughs beside running water. The washers carried the clothes into the water, trod them with their feet in the pits, and spread them out on clean ground to dry in the sun. The fullest account in Homer is the washing of Nausicaa and her handmaids at the river of Scheria:
 
-{{quote:Od. 6.85-95 | At the washing pits}}
+{{quote:640fcd02-7ddf-5ad1-b6eb-61fcd6d3d865}}
 
 The work belongs to women. In the Iliad the washing troughs of Troy stand by the two springs of the Scamander, “broad, fine, made of stone”, where the wives and daughters of the Trojans washed their shining clothes “formerly, in peace, before the sons of the Achaeans came” (Iliad 22.153–156). In the Odyssey the queen's daughter washes with her handmaids, a Phoenician woman of the household is washing by a ship when one of the Phoenician traders seduces her (15.417–421), and Penelope, in the suitor Amphimedon's account, washes the great robe that she has woven before she shows it (24.147–148).
 

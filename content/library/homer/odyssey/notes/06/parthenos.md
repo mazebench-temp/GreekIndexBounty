@@ -7,7 +7,7 @@ passages:
 
 **The end of maidenhood.** Athena, in the likeness of a girl of Nausicaa's age, gives the reason for the washing: “your marriage is near” (6.27), and she must have fine clothes for herself and for those who will lead her home. She ends the speech (6.33–35):
 
-{{quote:Od. 6.33-35 | Not a maiden much longer}}
+{{quote:fc2d8497-1890-5462-ba79-668139ec4dc4}}
 
 οὔ τοι ἔτι δὴν παρθένος ἔσσεαι, “you will not be a maiden much longer”. The status is defined by its end. The best men of all the Phaeacians are already courting her (μνῶνται, 6.34), as the imagined townsman will later complain that she dishonors “these men here … who are courting her, many and good” (6.283–284; see [[marriage]]). Her brothers are also of an age to marry: two are married and three are ἠίθεοι, “unmarried young men in their bloom” (6.62–63), the masculine partner of παρθένος.
 

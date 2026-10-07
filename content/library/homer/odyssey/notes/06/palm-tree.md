@@ -8,7 +8,7 @@ passages:
 
 **The words for the tree.** Odysseus names the tree once, φοίνικος νέον ἔρνος ἀνερχόμενον, “a young sapling of a palm tree springing up” (6.163). He then calls it κεῖνο, “that”, as a thing seen (6.166), and δόρυ, “stem” (6.167): “never yet had such a stem come up out of the earth”. δόρυ is usually a spear or a plank of timber. LSJ cites this line for the sense “stem, tree”, and a scholion marks the use: “note that he calls the tree δόρυ too” (E on 6.167, Dindorf p. 308). The comparison it serves is treated in [[the-palm-shoot-on-delos]].
 
-{{quote:Od. 6.162-167 | The palm by Apollo's altar}}
+{{quote:98ef01c6-4c5d-5d36-90f0-8c501001b7bd}}
 
 **The ancient readings.** The scholia on 6.162–163 explain the plant in two ways (Dindorf p. 307). One (E) glosses φοίνικος νέον ἔρνος as “an evergreen plant, growing”, and another (E.V.) says that Odysseus means the palm that sprang up for Leto, which she clasped when she gave birth. A second group (B.P.Q.) takes νέον with ἀνερχόμενον, “newly springing up”, compares Iliad 18.56, where Achilles “shot up like a sapling”, and says that ἀνερχόμενον shows both the bloom the plant already had and the hope of its growth to come. That group denies that the palm is Leto's, and one of its scholia (B.P.) adds that Odysseus chose a tree that is straight by its own nature. Homer himself says only that the shoot was young and stood by the altar (see [[altar]], [[apollo]], [[delos]] and [[the-palm-of-delos]]).
 

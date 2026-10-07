@@ -13,7 +13,7 @@ Nausicaa “began the song and dance” (ἤρχετο μολπῆς, 6.101). Th
 
 **The throw.** Athena now “thought of something else”: that Odysseus should wake and see the girl who would lead him to the city (6.112–114; see [[thought-of-another-thing]]). The game does it.
 
-{{quote:Od. 6.112-117 | The ball goes astray}}
+{{quote:3446578d-c997-561d-bd76-e1b2b700f887}}
 
 Nausicaa throws the ball to a handmaid, misses her, and throws it into a deep eddy of the river (6.115–116; see [[river-of-scheria]]). The girls shout, and Odysseus wakes (6.117). A scholion counts the passage “among those celebrated for brevity”, because it has nothing superfluous. “Deep” explains why the girls cry out: the ball has not fallen by the bank, where it would be easy to recover, but into the middle of the stream. “Shouted aloud” makes the waking of Odysseus plausible (schol. H.P.Q. on 6.116, Dindorf p. 303). Eustathius repeats the point and adds that Odysseus wakes from the long cry, not from the song (p. 241).
 

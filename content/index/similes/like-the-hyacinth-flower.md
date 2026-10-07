@@ -15,7 +15,7 @@ passages:
 
 ## The simile
 
-{{quote:Od. 6.229-231 | Curling locks like the hyacinth flower}}
+{{quote:f92693a0-e62c-5405-abb5-b58f6d545e4c}}
 
 οὔλας ἧκε κόμας, ὑακινθίνῳ ἄνθει ὁμοίας: “she let fall curling locks, like the hyacinth flower”. The subject is Athena, and the verb ἧκε (“sent, let go”), with κὰδ δὲ κάρητος, “down from his head”, at the end of the verse before, gives hair that falls thick and long. οὖλος in Homer is “thick, woolly”, an epithet of cloaks (4.50) and of the wool on a cloak (Iliad 10.134), and of hair it means thick and curling (see [[thick-and-woolly]] and [[hair]]). The comparison is three words: ὑακίνθινος, “of the hyacinth”, + ἄνθος, “flower”, + ὅμοιος, “like”, agreeing with κόμας. It names no point of likeness.
 

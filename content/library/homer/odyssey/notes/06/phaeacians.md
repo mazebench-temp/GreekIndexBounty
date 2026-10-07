@@ -11,7 +11,7 @@ passages:
 
 **The history.** The book begins with them. Athena goes “to the land and the city of the Phaeacian men”, and the narrator stops to tell where they came from:
 
-{{quote:Od. 6.4-10 | From Hypereia to Scheria}}
+{{quote:a2403b75-3dac-564a-8c8d-67a8bacc728e}}
 
 Hypereia had “wide dancing floors” (see [[with-wide-dancing-floors]] and [[hypereia-of-the-phaeacians]]). Their neighbors were the Cyclopes, ὑπερηνορέοντες, “overweening”, a word the Odyssey otherwise uses of the suitors (2.266, 4.766 and elsewhere). The Cyclopes kept harming them and were stronger (6.5–6; see [[cyclopes]]). The ancient readers located Hypereia in different ways: as Camarina in Sicily, as a land “beyond” the known world, or as a former island near the land of the Cyclopes (schol. on 6.4, Dindorf p. 294). Homer gives only its neighbors.
 
@@ -21,13 +21,13 @@ Nausithous “made them rise up” and settled them in Scheria, “far from grai
 
 **In Nausicaa's words.** To the stranger she names the people first (6.194–197). To her handmaids she explains why a man on the beach is no danger:
 
-{{quote:Od. 6.201-205 | We are very dear to the immortals}}
+{{quote:4f4d1d34-e5d6-5824-a72c-ec2b691d730d}}
 
 She claims three things: no enemy will reach them, the gods love them, and they live “far apart in the much-surging sea, the farthest away” (ἔσχατοι, 6.204–205; see [[much-surging]]). The scholia argued over ἔσχατοι. Some took it as “last” from the point of view of Greece and placed the Phaeacians in Corcyra; others said that the poet clearly sets them far away, at the edge (schol. on 6.204, Dindorf p. 311; see [[corcyra-and-the-phaeacians]]). Her words “no other mortal mingles with us” (ἐπιμίσγεται, 6.205) return thirty-six lines later, when she says that the stranger, now made beautiful, “mingles with the godlike Phaeacians” not against the will of the gods (ἐπιμίσγεται ἀντιθέοισι, 6.240–241; see [[antitheos]]). Athena gives a harsher picture in Book 7: “these people do not much put up with strangers” (7.32–33).
 
 **Ships, not bows.** Nausicaa's account of the city is a list of ships: two harbors, a narrow entrance, the curving ships drawn up along the road, a ship-shed for every man, the place of assembly around the shrine of Poseidon, the tackle, cables, sails and oars (6.262–269; see [[epistion]], [[posideion]], [[assembly]] and [[ships]]).
 
-{{quote:Od. 6.270-272 | Ships, not bows}}
+{{quote:8a7b99e0-613f-531a-b1ce-89b6b6ba8818}}
 
 The verses define them by what they are not. Bow and quiver belong to the hunter and the warrior, and the bow is the weapon with which Odysseus will kill the suitors (see [[bow]] and [[quiver]]). In Book 8 the Phaeacians boast of ships, running, dance and song, and not of boxing or wrestling (8.246–253).
 

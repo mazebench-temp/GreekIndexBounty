@@ -8,7 +8,7 @@ passages:
 
 **The order of the scene.** The transformation closes the care of the guest. Odysseus washes the brine from his back, shoulders and head, anoints himself, and puts on the clothes that Nausicaa has given him (6.224–228; see [[bathing]] and [[washing-clothes]]). Only then does Athena act:
 
-{{quote:Od. 6.229-237 | Athena pours grace on Odysseus}}
+{{quote:45dbc0d6-7cdb-5501-a61f-4c115beb80bf}}
 
 The scene is the first use in the Odyssey of a passage that returns, almost word for word, when Odysseus is bathed in his own house before Penelope (23.156–162). In Book 6 it has three parts: the body made taller and sturdier, the hair (see [[like-the-hyacinth-flower]]), and the grace poured over head and shoulders, which the simile of the gilder illustrates (see [[gold-poured-on-silver]]). The result is visible: he sits apart on the shore “gleaming with beauty and graces” (κάλλεϊ καὶ χάρισι στίλβων), “and the girl gazed at him” (θηεῖτο δὲ κούρη, 6.237; see [[charis]]).
 

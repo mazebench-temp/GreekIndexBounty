@@ -8,7 +8,7 @@ passages:
 
 **A good report.** Athena comes to Nausicaa in a dream in the likeness of a friend and urges her to wash the clothes. Her marriage is near, and she must have fine clothes for herself and for the bridal party. Then she gives the reason:
 
-{{quote:Od. 6.29-30 | A good report}}
+{{quote:bafa2490-0abf-5062-99cb-bfd5fddb926f}}
 
 The talk is good here, and it is about the bride's household and its goods. The joy of father and mother follows it. Merry and Riddell explain the verb: the report “spreads” among men, rising step by step from those in the procession to “the public”. They note that ἀναβαίνει with this sense has no exact parallel (note on 6.29, p. 254). The scholia record a variant. Callistratus read χάρις (“delight”) for φάτις, in the sense of χαρά, “joy”, and said that Aristophanes of Byzantium had altered the word to φάτις (schol. H.P. on 6.29, Dindorf p. 296).
 
@@ -16,7 +16,7 @@ The talk is good here, and it is about the bride's household and its goods. The 
 
 Then she acts the gossip out (see [[tis-speech]]). “Some baser man” (τις … κακώτερος, 6.275) meets them and speaks:
 
-{{quote:Od. 6.276-284 | The gossip she imagines}}
+{{quote:8a7d3247-859b-52fb-b66c-460106685a7d}}
 
 The imagined speaker asks who the handsome stranger is and where she found him, and he guesses that the man will be her husband (see [[posis]]). He suggests that he is a castaway, or a god come down in answer to her prayers, and that she scorns the many good Phaeacians who court her (see [[xenia]] and [[god-or-mortal]]). Nausicaa closes: “So they will say, and these things would become reproaches against me” (6.285; see [[oneidos]]). She adds that she herself would blame another girl who did such things (6.286–288; see [[nemesis]]). Her fear of talk agrees with her own judgment of others.
 

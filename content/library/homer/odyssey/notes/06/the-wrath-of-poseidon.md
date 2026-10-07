@@ -6,7 +6,7 @@ passages:
   - 6.324-331 | Odysseus' prayer and Athena's restraint
 ---
 
-{{quote:Od. 6.324-331 | Athena hears but does not appear}}
+{{quote:d27f9c10-a0f8-56f2-9e67-3545ffd4351d}}
 
 Book 6 ends on the anger. In the grove of Athena Odysseus reproaches the goddess: “before you never listened / when I was being shattered, when the famous shaker of the earth shattered me” (6.325–326). The verb ῥαίω, “shatter”, is the one used of shipwreck: Odysseus uses it of himself at sea, “if some god shatters me on the wine-dark sea” (5.221); Nausithous' prophecy and Poseidon use it of the Phaeacian ship (8.569, 13.151); and the simile of Penelope's joy uses it of a ship that Poseidon shatters (23.233–235; LSJ s.v. ῥαίω). Athena hears the prayer, but she does not appear to him “face to face”, out of respect for “her father's brother; and he raged furiously / against godlike Odysseus until he reached his own land” (6.328–331). The last verse repeats the first statement of the anger (6.331 = 1.21), and 6.330 has the same frame as 1.20 with a different adverb, ἐπιζαφελῶς, “vehemently, furiously” (LSJ s.v. ἐπιζάφελος), in place of ἀσπερχές. A scholion identifies the “father's brother” as Poseidon, the brother of Zeus (schol. B on 6.330, Dindorf p. 320).
 

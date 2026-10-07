@@ -7,13 +7,13 @@ refs: [6.330-331]
 
 **The wreck, named in a prayer.** Odysseus names Poseidon only by his title. In the prayer to Athena he says that she never listened “when I was being shattered, when the famous shaker of the earth shattered me”, ῥαιομένου, ὅτε μʼ ἔρραιε κλυτὸς ἐννοσίγαιος (6.326; see [[shaker-of-the-earth]] and [[prayer-type-scene]]). Odysseus used the same title, κλυτὸς ἐννοσίγαιος, when he spoke to himself in the sea, before he reached the river: “I know how the famous shaker of the earth is angry with me” (5.423).
 
-{{quote:Od. 6.325-327 | Odysseus reproaches Athena}}
+{{quote:e47a9a30-e22c-5c9c-bc01-522455b24adb}}
 
 ῥαίω means “break, shatter”. LSJ cites this passage for the passive in the sense “suffer shipwreck”, and Od. 8.569 and 13.151 for the active “wreck a ship” (LSJ s.v. ῥαίω). The verb returns in the Phaeacian part of the story. Alcinous remembers his father's prophecy that Poseidon would one day “shatter” a Phaeacian ship on its way home from an escort (8.564–569). In Book 13 Poseidon uses the verb himself when he tells Zeus that he wants to wreck the ship (13.151), and Alcinous, when he sees the ship turned to stone, repeats his father's words (13.177; see [[the-wrath-of-poseidon]]).
 
 **Athena's father's brother.** The narrator explains why Athena hears the prayer but does not appear.
 
-{{quote:Od. 6.328-331 | Athena holds back}}
+{{quote:befe53f9-fc2f-5b42-a0a6-7eee67ebc3a0}}
 
 πατροκασίγνητος is “father's brother” (LSJ, citing this line, Od. 13.342 and Il. 21.469; see [[kasignetos]]). A scholion (B) glosses it: Poseidon, the brother of her father Zeus. Athena gives the same reason herself on Ithaca. She did not want “to fight Poseidon, her father's brother”, who was angry because Odysseus blinded his son (13.341–343; see [[athena]] and [[cyclopes]]).
 

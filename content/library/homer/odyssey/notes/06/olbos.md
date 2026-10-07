@@ -6,7 +6,7 @@ passages:
 
 Odysseus has prayed that the gods may give Nausicaa a husband, a home and like-mindedness (6.180–185). She begins her answer with a judgment of him and a maxim:
 
-{{quote:Od. 6.187-190 | Zeus deals out prosperity}}
+{{quote:47b5e8f8-2b7c-55d6-870c-b0fe68248da2}}
 
 The verse names [[zeus]] as the one who “deals out” (νέμει) ὄλβος (see also [[zeus-deals-out-prosperity]]), and it adds two qualifications: “to the good and the bad” and “as he wishes, to each one”. Merry and Riddell put the point in the words ὅπως ἐθέλῃσιν, “the arbitrary dispensation of good and evil”. They compare Helen's words that Zeus gives good and evil “now to one, now to another” (4.236–237), and the two jars of Zeus in the Iliad (*Iliad* 24.527–533; note on 6.188–189, p. 269). Telemachus says nearly the same thing of the singer's sad song: Zeus “gives to grain-eating men, as he wishes, to each one” (1.348–349; see [[alphestes]]).
 

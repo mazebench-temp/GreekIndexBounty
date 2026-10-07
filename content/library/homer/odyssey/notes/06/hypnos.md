@@ -9,7 +9,7 @@ passages:
 
 **Odysseus.** The book begins where Book 5 ended. Odysseus has covered himself with leaves, and Athena “poured sleep on his eyes, so that she might quickly end his painful weariness” (5.491–493). The first lines of Book 6 take this up:
 
-{{quote:Od. 6.1-2 | Odysseus asleep}}
+{{quote:21dbeeba-bce5-5819-a8c0-d9e8713300dc}}
 
 He is “worn down by sleep and weariness” (ὕπνῳ καὶ καμάτῳ ἀρημένος). The pair ὕπνος and κάματος repeats the end of Book 5, where sleep was sent to end his weariness. He sleeps through the night, the dream, the drive to the river, the washing and the meal, and wakes only when the girls shout at the lost ball (ἔγρετο, 6.117).
 

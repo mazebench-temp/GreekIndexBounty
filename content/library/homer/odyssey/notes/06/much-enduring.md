@@ -7,7 +7,7 @@ The full name-formula πολύτλας δῖος Ὀδυσσεύς fills the sec
 - **Sleep (6.1).** “So he lay sleeping there, much-enduring brilliant Odysseus, / worn down by sleep and weariness” (6.1–2). The verse carries on from the end of Book 5, where he lies down in a bed of leaves. The same verse closes Book 7, when he sleeps in the palace of Alcinous (7.344). Book 7 also opens with the same frame, ὣς ὁ μὲν ἔνθʼ ἠρᾶτο πολύτλας δῖος Ὀδυσσεύς, “so he prayed there” (7.1).
 - **Food (6.249).** “He, much-enduring brilliant Odysseus, drank and ate / greedily; for he had long been without a taste of food” (6.249–250). The verse returns, with a different opening, when he eats in the palace (7.177).
 
-{{quote:Od. 6.1-3 | Asleep on Scheria}}
+{{quote:822875ef-711d-5bc6-a70b-616945d38b4a}}
 
 Between these two moments he is δῖος Ὀδυσσεύς, “brilliant Odysseus”, without the first epithet (6.117, 6.127, 6.224, 6.322).
 

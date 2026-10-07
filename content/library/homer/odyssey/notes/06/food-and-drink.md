@@ -11,4 +11,4 @@ passages:
 
 **The order carried out (6.248).** “So she spoke, and they listened closely to her and obeyed, / and set food and drink beside Odysseus” (6.247–248). The narrative repeats the words of the order, as Homer often reports a command carried out in the words of the command. Then: “he drank and ate, much-enduring brilliant Odysseus, / greedily, for he had long been without food” (ἐδητύος … ἄπαστος, 6.249–250; see [[much-enduring]]). It is his first meal since the storm broke up his raft (5.313–332).
 
-{{quote:Od. 6.246-250 | Food and drink for the stranger}}
+{{quote:7f8c14fa-f6a9-5193-a6e0-10eca2b5ead0}}

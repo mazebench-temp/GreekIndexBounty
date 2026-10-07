@@ -9,7 +9,7 @@ passages:
 
 **The washing pools.** In the dream Athena says that the washing pools are far from the city, so Nausicaa should ask for the wagon (6.40). Nausicaa asks her father for it so that she may take the clothes “to the river” (6.59). When the girls arrive, the narrator describes the place.
 
-{{quote:Od. 6.85-87 | The washing pools}}
+{{quote:4e4d74e8-ee8a-5586-87ec-309d520047c9}}
 
 The pools (πλυνοί) are ἐπηετανοί, “never-failing”. A scholion glosses the word as “many, continuous, lasting the whole year”. Another calls the trenches (βόθροι, 6.92) the pools or “tanks” (δεξαμεναί). Merry and Riddell take the pools to be tanks dug beside the river and open to it above and below, so that the water passes through them. The verb describes the flow: the water comes up from beneath (ὑπό), forward (πρό) and out (ἐκ). Murray prints ὑπεκπρόρεεν. Merry and Riddell report that the manuscripts have the present ὑπεκπρορέει, and that Friedländer and Nauck read the past tense. The Iliad has the same word for the wide stone pools beside the springs of the Scamander, where the wives and daughters of the Trojans washed their glossy clothes in peacetime, before the Achaeans came (Iliad 22.153–156).
 

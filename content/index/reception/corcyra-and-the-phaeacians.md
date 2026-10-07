@@ -15,7 +15,7 @@ passages:
 
 Homer gives Scheria no place on a map. Nausithous led the Phaeacians there from Hypereia and settled them “far from enterprising men” (6.4–8; see [[hypereia-of-the-phaeacians]] and [[alphestes]]). Nausicaa says that her people live “far apart in the much-surging sea, the farthest away, and no other mortal has dealings with us” (6.204–205). In Greek history the island of Corcyra, off the coast of Epirus, claimed the Phaeacians as its own. This entry collects the evidence for that claim and for the ancient objections to it. The general account of Scheria is in [[scheria]].
 
-{{quote:Od. 6.201-205 | The farthest away}}
+{{quote:d95f40a9-2e2a-5705-900a-ce32370daed0}}
 
 ## The Corcyraean claim
 

@@ -3,7 +3,7 @@ summary: The simile is the hinge between the visit and the dream. Athena has rea
 refs: [6.20]
 ---
 
-{{quote:Od. 6.15-21 | Like a breath of wind}}
+{{quote:83630815-1de1-555a-9de3-198c88c8b27e}}
 
 **The closed room.** The narrator has described the room before the goddess enters it. Nausicaa sleeps in “the intricately worked chamber”, two handmaids are beside her, one by each of the doorposts, and “the shining doors were closed” (6.15–19; see [[visit-scene]] and [[handmaids]]). Merry and Riddell take ἐπέκειντο as “were closed”, that is, they lay to against the doorposts (on 6.19). Nothing is said of a door opening. The simile replaces the entry: “and she, like a breath of wind, rushed to the girl's bed” (6.20).
 

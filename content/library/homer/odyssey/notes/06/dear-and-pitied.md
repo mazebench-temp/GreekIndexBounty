@@ -3,7 +3,7 @@ summary: The last request of Book 6. In Athena's grove Odysseus asks the goddess
 refs: [6.327]
 ---
 
-{{quote:Od. 6.324-328 | Dear and pitied}}
+{{quote:65f8fe2a-370e-51af-a10a-13d1426bfcf5}}
 
 **The prayer.** The verse is the third part of Odysseus' prayer: invocation (6.324), reproach for the goddess' absence in the storm (6.325–326), request (6.327). Athena hears him (6.328), but does not yet show herself, out of respect for Poseidon (6.329–331; see [[prayer-type-scene]], [[hear-me]] and [[athena]]).
 

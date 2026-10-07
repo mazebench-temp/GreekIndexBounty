@@ -8,7 +8,7 @@ passages:
 
 **The lion's belly.** Odysseus comes out of the thicket toward the girls like a mountain lion that goes after cattle, sheep or deer:
 
-{{quote:Od. 6.133-136 | The belly bids him}}
+{{quote:c37aecba-e8e5-5bdf-9c9a-957d0e1ea624}}
 
 The belly is the subject of the verb: κέλεται δέ ἑ γαστήρ, “and his belly bids him”. LSJ cites this line first for γαστήρ in the sense “the belly, as craving food”. Merry and Riddell compare Virgil's *suadet enim vesana fames*, “for mad hunger urges him” (*Aeneid* 9.340). They state the point of the comparison: the lion and Odysseus are both “pushed by hunger into an act of unusual boldness”, and the line on Odysseus gives the reason, χρειὼ γὰρ ἵκανε, “for need had come upon him” (notes on 6.133 and 6.135, p. 264). The simile is treated in [[the-mountain-lion-and-the-fold]].
 
@@ -16,6 +16,6 @@ Odysseus appears to the girls “terrible, disfigured by the brine”, and they 
 
 **The castaway eats.** After the bath and the clothes, the handmaids set food and drink before him, and he eats as a hungry man:
 
-{{quote:Od. 6.249-250 | He ate greedily}}
+{{quote:69ffb464-8033-597e-ac94-b60f5a789fc2}}
 
 The word γαστήρ is not used here. The adverb ἁρπαλέως, “greedily”, and the reason, “for he had long been without a taste of food”, show the same need. Odysseus sailed his raft for seventeen days and then drifted in the waves for two nights and two days (5.278–279, 5.388–389). In the next book he asks Alcinous to let him eat in spite of his grief, “for there is nothing more shameless than the hateful belly” (7.215–221; see the article above).

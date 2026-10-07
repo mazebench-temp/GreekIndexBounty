@@ -13,4 +13,4 @@ passages:
 
 **What Odysseus will find (6.303–309).** Nausicaa's directions describe a finding before it happens. When the house and courtyard enclose him, he is to pass quickly through the hall until he reaches her mother: “she sits at the hearth in the light of the fire, / turning the sea-purple wool on her distaff, a wonder to see, / leaning against a pillar; and her slave women sit behind her”, and her father's throne leans against the same pillar, where he sits and drinks his wine “like an immortal” (6.303–309). The verse of the queen's occupation is the verse of 6.53, so the picture of the hall at dawn is repeated for the hall at evening. The visit itself, with the supplication of the queen that Nausicaa plans here (6.310–315; see [[supplication-type-scene]]), comes in the next book (7.136–154).
 
-{{quote:Od. 6.303-309 | The queen at the hearth}}
+{{quote:cb31c1fa-4b64-5a70-a716-81f8694dd8cd}}

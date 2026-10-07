@@ -20,7 +20,7 @@ passages:
 
 ## Descriptions
 
-{{quote:Od. 6.266-267 | The shrine and the place of assembly}}
+{{quote:a4c50cdf-9609-5d5c-8128-79f2eb94c3a0}}
 
 - καλὸν Ποσιδήιον, “the fine shrine of Poseidon” (6.266).
 - ἀγορὴ … ἀμφίς, “the place of assembly around it” (6.266). The scholia (B.Q.) say that the agora is around the shrine. Merry and Riddell take ἀμφίς to mean that the shrine divides the agora, which lies on both sides of it (see [[assembly]]).

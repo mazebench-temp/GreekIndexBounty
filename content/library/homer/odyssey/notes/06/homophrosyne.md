@@ -6,7 +6,7 @@ passages:
 
 **The blessing.** Odysseus has asked Nausicaa for very little, to be shown the town and given a rag to wear (6.178–179). He closes with what he can give in return, a prayer (6.180–185):
 
-{{quote:Od. 6.180-185 | Odysseus' blessing}}
+{{quote:97219079-02f3-5369-abbf-74a2ce172ac9}}
 
 A scholion reads the prayer as tact: Odysseus “shrewdly joins in praying for the things which alone, he thinks, are her care” (schol. on 6.181, Dindorf p. 309). Another scholion explains why a suppliant blesses at all: those who cannot repay a favor at once take refuge in this return (schol. E.P. on 6.180, Dindorf p. 309; see [[charis]]). Odysseus does not know that Athena has already told Nausicaa in a dream that her marriage is near (6.25–35; see [[marriage]]).
 

@@ -7,7 +7,7 @@ passages:
 
 **The description.** Athena finishes her speech in the dream and goes back to Olympus. The narrator pauses on the place.
 
-{{quote:Od. 6.41-47 | The seat of the gods}}
+{{quote:fc51951d-31f8-578a-b1e7-a88bf1fe3343}}
 
 The seat of the gods is ἀσφαλὲς αἰεί, “firm forever” (6.42; see [[seat-firm-forever]]). Three negatives follow: it is not shaken by winds, not wet by rain, not reached by snow. Then come two positive images: a clear, cloudless sky (αἴθρη ... ἀνέφελος) spread over it, and a white gleam (λευκὴ ... αἴγλη) running over it. There the blessed gods take their delight “all their days” (6.46; see [[blessed-gods]]). The last line returns to the story: “there the gray-eyed one went” (6.47).
 

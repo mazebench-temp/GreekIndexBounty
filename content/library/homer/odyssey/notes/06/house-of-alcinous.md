@@ -10,13 +10,13 @@ passages:
 
 **Easily known.** On the road, Nausicaa tells Odysseus to wait in the grove until the girls have reached “the house of my father” (6.295–297). Then he is to go into the city and ask for “the house of my father, great-hearted Alcinous” (6.298–299).
 
-{{quote:Od. 6.300-303 | Easily known}}
+{{quote:10106825-800c-5844-821e-dae72ea200b7}}
 
 ἀρίγνωτος, “easily known”, is used of Artemis among her nymphs in the simile of this book (6.108; see [[easily-known]]). Nausicaa stood out among her handmaids as Artemis does among the nymphs, and her father's house stands out among the houses of the Phaeacians. ἥρωος (“the hero”) at 6.303 is the genitive in Murray's text. Merry and Riddell report a variant ἥρως, meant as a genitive or a vocative, and say that Eustathius knew both readings.
 
 **Inside the hall.**
 
-{{quote:Od. 6.303-309 | The hall of Alcinous}}
+{{quote:afb925be-f4f9-512e-8d15-55eb2de1fb14}}
 
 Nausicaa gives the route as a sequence of spaces: the court (αὐλή), then the hall (μέγαρον), then the hearth (ἐσχάρη) at its far end (see [[hearth]]). Arete sits at the hearth “in the light of the fire”, spinning sea-purple wool, “a wonder to see”, leaning against a pillar, with her slave women behind her (6.305–307; see [[distaff]] and [[sea-purple]]). Merry and Riddell note that ἧσται shows that she is seated: “leaning against a pillar” places her chair. The king's throne leans against “it”, either the same pillar or, as Merry and Riddell prefer, the queen's seat. There he sits and drinks his wine “like an immortal” (6.308–309; see [[throne]]). Two scholia explain that the queen sits by the fire because it was winter.
 

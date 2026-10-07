@@ -8,7 +8,7 @@ passages:
 
 The narrator's history of the Phaeacians names their old enemies at once:
 
-{{quote:Od. 6.4-6 | Near the Cyclopes}}
+{{quote:8beadafd-04f7-507e-876c-de35016ba430}}
 
 **What the verses say.** The Phaeacians once lived in Hypereia “near the Cyclopes, overweening men, / who kept doing them harm, and were greater in strength” (6.5–6; see [[hypereia-of-the-phaeacians]]). σινέσκοντο is iterative: the harm was repeated, not a single raid (a scholion glosses it ἔβλαπτον, “they harmed”, and derives it from σίνω, schol. B on 6.6, Dindorf p. 294). The Phaeacians did not fight back. Their founder “made them rise up” and took them to Scheria (6.7–8; see [[nausithous]] and [[the-phaeacians-leave-hypereia]]). A scholion offers a third view of Hypereia as a former island “near the land of the Cyclopes” (schol. on 6.4, Dindorf p. 294).
 

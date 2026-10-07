@@ -3,7 +3,7 @@ summary: When Athena leaves Nausicaa's bedside, the narrator follows her to Olym
 refs: [6.41-47]
 ---
 
-{{quote:Od. 6.41-47 | Olympus}}
+{{quote:9518a939-cb9d-5989-8d8b-8c3676786f55}}
 
 **The frame.** The description is a ring. “So saying, gray-eyed Athena went away / to Olympus” (6.41–42) opens it, and “There the gray-eyed one went, when she had made all clear to the girl” (6.47) closes it, with the same verb ἀπέβη and the same epithet (see [[ring-composition]] and [[gray-eyed]]). Between the two the narrator leaves the story for five verses. Then the story resumes with dawn and the girl's waking (6.48; see [[dawn-line]]).
 

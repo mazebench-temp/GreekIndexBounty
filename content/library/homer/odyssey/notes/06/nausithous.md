@@ -8,7 +8,7 @@ passages:
 
 The narrator gives him one sentence, between the Cyclopes who drove his people out and the son who now rules:
 
-{{quote:Od. 6.7-12 | Nausithous founds the city}}
+{{quote:5c86b7e6-8311-53b1-8972-99ba7eedd3fb}}
 
 **A founder's acts.** The verbs make a list: he “made them rise up” (ἀναστήσας) and “led them away” (ἄγε), he “settled” them (εἷσεν), he “drove a wall around the city” (ἀμφὶ … τεῖχος ἔλασσε), “built houses” (ἐδείματο οἴκους), “made temples of the gods” (νηοὺς ποίησε θεῶν), and “divided the plowlands” (ἐδάσσατʼ ἀρούρας, 6.7–10; see [[polis]], [[temple]] and [[the-phaeacians-leave-hypereia]]). A scholion glosses ἀναστήσας as “having sent out a settlement” (ἀποικίαν στειλάμενος, schol. H on 6.7, Dindorf p. 294), the language of Greek colonization. Another notes how quickly the poet shows the building of a city, and compares the opposite picture in the Iliad, where two verses show a city destroyed (schol. P.Q. on 6.9–10, Dindorf pp. 294–295; Iliad 9.593–594). Carol Dougherty reads the Phaeacians and the Cyclopes as complementary images of what an overseas settler might meet (*The Raft of Odysseus*, 2001, as summarized in E. F. Cook's review, *Classical Philology* 98, 2003; see [[cyclopes]]).
 

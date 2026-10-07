@@ -3,7 +3,7 @@ summary: Odysseus opens his supplication of Nausicaa with the question whether s
 refs: [6.149-153, 6.243]
 ---
 
-{{quote:Od. 6.149-153 | Goddess or mortal?}}
+{{quote:b04344ec-9346-5cb1-9810-86c46bdf8895}}
 
 **The two conditions.** “If you are a goddess, one of those who hold the wide sky” (εἰ μέν τις θεός ἐσσι, 6.150), she is most like Artemis, “in looks and stature and build” (6.151–152; see [[artemis]] and [[artemis-among-her-nymphs]]). “But if you are one of the mortals who dwell on the earth” (εἰ δέ τίς ἐσσι βροτῶν, 6.153), then the blessing of her family follows (6.154–159; see [[thrice-blessed]]). The second condition opens with the words of Diomedes' challenge to Glaucus, εἰ δέ τίς ἐσσι βροτῶν (Iliad 6.142). There it leads to a threat of death; here it leads to praise.
 

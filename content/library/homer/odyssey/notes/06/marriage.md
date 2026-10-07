@@ -35,7 +35,7 @@ The marriage of Nausicaa is spoken of in every part of Book 6, by a goddess, by 
 
 **The gossip and the rule.** Before they set out, Nausicaa tells Odysseus to follow the wagon through the fields but to stay behind when they come near the city. She gives her reason in a speech within a speech. Some baser man will see them and say: “who is this handsome and tall stranger following Nausicaa? … Surely he will be a husband for her”. He will be a castaway from a far land, or a god come down in answer to her prayers, and she scorns the many good Phaeacians who court her (6.273–285; see [[tis-speech]] and [[praise-and-blame]]). Merry and Riddell call the imagined speech “bitterly sarcastical” (note on 6.282, p. 277). Then she states the rule by which she herself judges other girls:
 
-{{quote:Od. 6.286-288 | A public marriage}}
+{{quote:6910c570-f2dc-5764-8c65-383cbe2f0c89}}
 
 The rule names the conditions of a proper marriage: the parents' will, and a “public” wedding, before which a girl does not “mingle with men”. Merry and Riddell, following a scholion's punctuation, take the parents “still living” as the point: a girl with a father and mother to guide her has no excuse (note on 6.287, p. 278). The fourteen lines 6.275–288 were athetized in antiquity as unfitting to the speaker, on the ground that 6.273–274 had already said it (schol. H.Q. on 6.275, Dindorf p. 317). The scholion names no critic.
 

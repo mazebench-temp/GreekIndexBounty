@@ -6,7 +6,7 @@ passages:
 
 Nausicaa tells Odysseus what he will see when they reach the city:
 
-{{quote:Od. 6.262-265 | Each man his own berth}}
+{{quote:6fb3180b-25bd-5986-bcd1-4267f92e9708}}
 
 The clause with ἐπίστιον gives a reason (γάρ). Merry and Riddell explain it: the existence of a berth for every ship is the reason why the ships are drawn up along the roadway (note on 6.265, p. 276). The scholia add that the entrance is narrow because so many ships are drawn up there (schol. E.T.V. on 6.265, Dindorf p. 316). A scholion on 6.264 says that each Phaeacian owns a ship in which he “lodges” (ἐναυλίζεται; Dindorf p. 315, read in the OCR text only).
 

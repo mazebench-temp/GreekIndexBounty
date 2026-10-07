@@ -11,7 +11,7 @@ passages:
   - 6.85-118 | The washing and the ball game
 ---
 
-{{quote:Od. 6.99-101 | The ball game}}
+{{quote:f87c9aea-e448-5ed4-a0d7-667e8c59b309}}
 
 Sophocles wrote a play on the meeting of Odysseus and Nausicaa in Book 6. It is lost. Two ancient notices say that the poet himself played ball in it.
 

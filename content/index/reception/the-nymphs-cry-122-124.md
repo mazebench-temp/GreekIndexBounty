@@ -12,7 +12,7 @@ passages:
   - 6.117-126 | Odysseus wakes
 ---
 
-{{quote:Od. 6.119-126 | Odysseus wakes}}
+{{quote:e0e57fc4-9b06-5108-be74-04170f7888ec}}
 
 The ball falls into the eddy, the girls shout, and Odysseus wakes in the thicket (6.115–117; see [[ball-play]]). He asks the question that he asks again on Ithaca: to the land of what mortals has he come, and are they savage or kind to strangers (6.119–121; see [[to-the-land-of-what-mortals]]). Then he interprets the sound he heard: “A female cry has come around me, as of girls, / of nymphs, who hold the steep peaks of the mountains / and the springs of rivers and the grassy meadows. / Or am I perhaps somewhere near human beings who have speech?” (6.122–125). He decides to go and see (6.126).
 

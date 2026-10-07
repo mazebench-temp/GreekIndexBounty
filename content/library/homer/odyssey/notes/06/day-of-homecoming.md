@@ -3,7 +3,7 @@ summary: Nausicaa is the first speaker in the poem who uses the phrase to put th
 refs: [6.311]
 ---
 
-{{quote:Od. 6.310-315 | So that you may see the day of homecoming}}
+{{quote:0f16b06a-c70f-5a08-a962-e172dfea51d5}}
 
 **The promise.** Nausicaa ends her directions with the supplication of the queen: pass by her father, “and throw your hands around the knees / of our mother, so that you may see the day of homecoming / rejoicing, and quickly, even if you are from very far away” (6.310–312; see [[queen-arete]], [[gounata]] and [[supplication-type-scene]]). In the earlier books the phrase is a thing lost or taken away: the companions lose it in the proem (1.9), and Telemachus believes that his father's day of return has perished (1.168). In Book 5 Odysseus told Calypso that he longed every day to “see the day of return” (5.220). Here a speaker tells him how to reach it and says that it will come soon.
 

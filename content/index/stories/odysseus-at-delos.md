@@ -18,7 +18,7 @@ passages:
 
 Homer gives the story in four verses of Odysseus' speech to Nausicaa:
 
-{{quote:Od. 6.162-167 | Once on Delos}}
+{{quote:f0f2c797-b271-5366-b6d5-7f16bb64b1ea}}
 
 That is all. Odysseus says that he came to Delos, that a great army (λαός) followed him, and that the journey was the one “on which evil sorrows were to come upon me”. He saw a young palm shoot (φοίνικος νέον ἔρνος) springing up beside the altar of Apollo, and stood amazed at it for a long time, “since never yet had such a stem come up out of the earth” (see [[delos]], [[palm-tree]] and [[apollo]]). He does not say when the visit was or why he went.
 

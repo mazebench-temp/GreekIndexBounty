@@ -15,7 +15,7 @@ passages:
 
 ## The simile
 
-{{quote:Od. 6.130-136 | Like a mountain-bred lion}}
+{{quote:2ac03d54-1715-5acf-a800-bb1aa9afc461}}
 
 **The vehicle.** A lion “bred in the mountains, trusting in his courage” (ὀρεσίτροφος ἀλκὶ πεποιθώς, 6.130; see [[lion]] and [[mountain-bred]]) goes on through rain and wind (ὑόμενος καὶ ἀήμενος, 6.131), and his eyes blaze (6.131–132). He goes among cattle or sheep or after wild deer, and “his belly bids him / make an attempt on the sheep, and go even into the close-built fold” (κέλεται δέ ἑ γαστὴρ / μήλων πειρήσοντα καὶ ἐς πυκινὸν δόμον ἐλθεῖν, 6.133–134; see [[gaster]], [[cattle]], [[sheep]] and [[deer]]).
 

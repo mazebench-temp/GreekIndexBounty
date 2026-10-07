@@ -6,7 +6,7 @@ passages:
 
 After acting out the gossip she fears (6.275–284), Nausicaa turns to her own judgment:
 
-{{quote:Od. 6.285-288 | I too am indignant}}
+{{quote:8975a0aa-5879-50e2-9296-b8695df2cee5}}
 
 The verb is νεμεσῶ, “I am indignant” (from νεμεσάω). καὶ … ἄλλῃ, “with another woman too”, puts Nausicaa among those who blame. The indignation she would feel is the same that the town would feel toward her. In this book the speaker of νέμεσις and the one who fears it are the same person (see the article above for the pair νέμεσις and [[aidos|αἰδώς]]).
 

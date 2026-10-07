@@ -6,7 +6,7 @@ passages:
 
 At dawn Nausicaa wakes:
 
-{{quote:Od. 6.48-51 | She wondered at the dream}}
+{{quote:b531fcc7-b61b-557b-88e3-144b631983cd}}
 
 The noun is ὄνειρος, the common word for a dream (see the article above). The verb ἀπεθαύμασʼ, from ἀποθαυμάζω, “marvel much at”, occurs only here in Homer. LSJ cites this line first and then Herodotus. The dream is the visit of [[athena]] in the likeness of the daughter of Dymas (6.20–41). The narrator tells it as a goddess's visit, and the girl wakes from it as from a dream (see [[dream]] and [[dream-scene]]).
 

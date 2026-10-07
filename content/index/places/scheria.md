@@ -24,7 +24,7 @@ passages:
 
 Homer never calls Scheria an island (νῆσος). Odysseus first sees it from the sea as “the shadowy mountains of the land of the Phaeacians”, and it looks to him like a shield on the misty sea (5.279–281). Nausicaa says that her people live “far apart in the much-surging sea, the farthest away” (6.204–205).
 
-{{quote:Od. 6.4-10 | Nausithous founds the city}}
+{{quote:3c9add8e-d383-5a0e-9cbe-abd9da1582f1}}
 
 ## In the Odyssey
 

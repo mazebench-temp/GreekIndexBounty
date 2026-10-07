@@ -25,7 +25,7 @@ featured: true
 
 ## Family
 
-{{quote:Od. 6.195-197 | Nausicaa names her people and her father}}
+{{quote:c7d8654d-6728-579a-a4dc-5b27390aec0a}}
 
 She is the daughter of [[alcinous|Alcinous]], who rules the Phaeacians (6.12, 6.17), and of his wife, whom Book 6 calls only “my mother” and Book 7 names [[queen-arete|Arete]] (7.54). She has five brothers, two married and three still unmarried (6.62–63; see [[sons-of-alcinous]]); three of them are named in Book 8, Laodamas, Halius and Clytoneus (8.118–119). Through her grandfather [[nausithous|Nausithous]], son of Poseidon and Periboea, she descends from [[poseidon|Poseidon]] (7.56–63). Her mother is also her father's niece: Arete is the only child of Alcinous' brother Rhexenor (7.63–66). Her old nurse is Eurymedusa, a slave brought by ship from Apeire, who lights the fire in her chamber (7.7–13).
 

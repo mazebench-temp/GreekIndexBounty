@@ -9,7 +9,7 @@ passages:
 
 **The gesture weighed and dropped.** Odysseus is naked, salt-stained and alone, and the girl in front of him is a king's daughter (6.135–140). Before he speaks, the narrator gives his choice between the two forms of the scene. He can clasp her knees, the full gesture, or stand apart and entreat her with words alone (6.141–144). He chooses words, “lest the girl be angry in her mind if he clasped her knees” (6.145–147; see [[decision-scene]]). The scene therefore keeps its approach, its appeal and its answer, and loses its contact.
 
-{{quote:Od. 6.141-147 | Knees or words?}}
+{{quote:efa5178b-f16f-5f26-9c45-ea422a14086f}}
 
 **The appeal.** The speech opens with the verb of the gesture that he did not make: γουνοῦμαί σε, ἄνασσα, “I beseech you, queen” (6.149). γουνοῦμαι is formed from γόνυ, “knee”; the same word opens the knee-clasping appeals of Leodes and Phemius to Odysseus (22.310–312, 22.342–344) and of Lycaon to Achilles (Iliad 21.74). A scholion on 6.149 notes the point: he declined to touch her knees, and what he did not do in deed he puts forward in word, and makes plain why he declined (schol. H.Q., Dindorf p. 306). Later in the speech he says it himself: “I am terribly afraid / to touch your knees” (6.168–169; see [[gounata]]).
 

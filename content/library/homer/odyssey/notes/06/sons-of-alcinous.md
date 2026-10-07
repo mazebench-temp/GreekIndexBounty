@@ -8,7 +8,7 @@ passages:
 
 **The pretext.** Nausicaa needs a reason for the wagon that does not mention her marriage, and she finds it in the men of the family. Her father should sit in the council in clean clothes, and her brothers need them too:
 
-{{quote:Od. 6.62-65 | Five dear sons}}
+{{quote:ed6e7fdb-536e-5184-8080-2a8187e4fcad}}
 
 The list sets her own case beside theirs without naming it. Two brothers are already married and three are ἠίθεοι, unmarried young men “in their bloom” (θαλέθοντες), just as she is a παρθένος near marriage (6.33; see [[parthenos]] and [[marriage]]). The narrator then says why she spoke so: she felt shame to name her marriage to her father (6.66–67; see [[nausicaa]] and [[aidos]]). A scholion takes the brothers' wish for clean clothes as a sign of Phaeacian luxury: “living softly, the Phaeacians danced every day” (schol. H.P.T. on 6.65, Dindorf p. 299; see [[dance]] and [[phaeacians]]). Book 8 bears the scholion out in part: the Phaeacians boast of the dance and of changes of clothing (8.248–249), and two of the brothers dance alone with a purple ball (8.370–380).
 

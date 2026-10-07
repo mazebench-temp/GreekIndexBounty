@@ -7,7 +7,7 @@ refs: [6.151-152]
 
 **What it prepares.** The narrator said of the sleeping girl that she was “like the immortal goddesses in build and in looks” (6.16). The simile names the goddess. When Odysseus speaks, he too reaches for Artemis: if she is a goddess, “it is to Artemis, the daughter of great Zeus, that I for my part / liken you most closely, in looks and stature and build” (6.151–152; see [[god-or-mortal]]). He has not heard the narrator's simile, yet his comparison repeats it, and the reader knows that the narrator saw her the same way. The stature of 6.107 (“above them all she holds her head and brow”) returns in his μέγεθος, “stature” (6.152).
 
-{{quote:Od. 6.149-152 | Odysseus likens her to Artemis}}
+{{quote:5b7aa4ca-c041-54b1-99e2-e54c25f9c9b5}}
 
 **Against the next simile.** Artemis' delight is in hunting “wild boars and swift deer” (6.104). Twenty verses later Odysseus comes out of the thicket toward the girls like a mountain-bred lion that goes after cattle, sheep “or after the wild deer” (6.133; see [[the-lion-and-the-girls]]). In the first picture the girls are the huntress' band; in the second the man who approaches them is the beast of prey. The girls scatter, and only the one who was likened to Artemis stands her ground (6.138–141).
 

@@ -8,7 +8,7 @@ passages:
 
 Woken by the girls' shout, Odysseus asks himself what people live in this land:
 
-{{quote:Od. 6.119-121 | The castaway's question}}
+{{quote:ab47a82e-3ebb-5ad8-a570-f31de9b49b18}}
 
 The noun is ὑβριστής, “a man of outrage”. LSJ glosses it “violent, wanton, licentious, insolent man”. The translation renders the plural “arrogant”. The word stands first in a list of three negative terms, ὑβρισταί, ἄγριοι (“savage”) and οὐδὲ δίκαιοι (“not just”), and the list is answered by two positive ones, φιλόξεινοι (“kind to strangers”) and θεουδής (“god-fearing”). So the opposite of the man of ὕβρις is the host who respects strangers and the gods (see [[xenia]] and [[to-the-land-of-what-mortals]]).
 

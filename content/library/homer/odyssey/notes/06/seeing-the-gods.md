@@ -11,7 +11,7 @@ passages:
 
 **The goddess who does not appear.** At the end of the book Odysseus prays in Athena's grove and reproaches her for not hearing him in the storm. Athena hears (6.328; see [[prayer]]).
 
-{{quote:Od. 6.329-331 | She did not yet appear to him}}
+{{quote:d5c1603e-ee62-58c1-9f66-d3c70d2829c7}}
 
 The narrator gives the reason. She “stood in awe of her father's brother” Poseidon, who was still angry with Odysseus (6.329–331; see [[aidos]], [[poseidon]] and [[the-wrath-of-poseidon]]). ἐναντίη, “face to face”, is the word for an open appearance. The “not yet” (οὔ πω) looks forward: on Ithaca Athena appears to Odysseus and explains why she kept away from him on the sea (13.339–343).
 

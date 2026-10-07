@@ -6,7 +6,7 @@ summary: Four uses in Book 6. Athena in disguise calls Alcinous Nausicaa's “fa
 
 **The glorious clothes (6.58).** Nausicaa asks her father for the wagon “so that I may take the glorious clothes / to the river to wash, which lie dirty” (6.58–59). The clothes are κλυτά and dirty in the same breath. A scholion on the line explains the epithet as a mark of what the clothes are by nature, not what they are at that moment (οὐ τὰ τότε, ἀλλὰ τὰ φύσει). It compares the “shining moon” of Il. 8.555 (schol. 6.58, Dindorf p. 299). See [[nausicaa]].
 
-{{quote:Od. 6.57-59 | The glorious clothes}}
+{{quote:176e1fbc-c4da-528e-b576-9c7db980cce2}}
 
 **The famous grove (6.321).** At sunset the travelers reach “the famous grove, / holy to Athena” (6.321–322; [[grove-of-athena]], [[hieros]]). Nausicaa had called it ἀγλαὸν ἄλσος Ἀθήνης, “a splendid grove of Athena” (6.291).
 

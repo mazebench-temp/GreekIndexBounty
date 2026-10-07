@@ -8,7 +8,7 @@ passages:
 
 **The simile.** After the meal the girls play ball, and Nausicaa leads the song and dance (6.99–101; see [[ball-play]] and [[dance]]).
 
-{{quote:Od. 6.102-109 | Artemis among her nymphs}}
+{{quote:e782403c-e446-5763-80f0-de37e83064c1}}
 
 The goddess moves through the mountains, ἰοχέαιρα, “of the showering arrows” (6.102; see [[of-the-showering-arrows]]), along [[taygetus]] in Laconia or [[erymanthus]] in Arcadia, “delighting in wild boars and swift deer” (6.103–104; see [[boar]] and [[deer]]). The [[nymphs]], daughters of Zeus, play with her, and her mother [[leto]] is glad in her heart (6.105–106). Artemis holds her head above them all and is “easily known, though all are beautiful” (6.107–108; see [[easily-known]]). So Nausicaa “stood out among her handmaids, the unwed maiden” (παρθένος ἀδμής, 6.109; see [[parthenos]] and [[unbroken]]). See [[artemis-among-her-nymphs]] for the simile as a whole.
 
@@ -18,7 +18,7 @@ The scholia record two readings in the simile. A scholion (H.P.) prefers κατ�
 
 **Odysseus' comparison.** Odysseus begins his supplication with a question: “are you some goddess, or a mortal?” (6.149; see [[god-or-mortal]]).
 
-{{quote:Od. 6.149-152 | Odysseus likens Nausicaa to Artemis}}
+{{quote:6c7ac194-62d6-5913-aff1-9c58cee4e1f7}}
 
 He names Artemis, “the daughter of great Zeus”, among the gods “who hold the wide sky”, and says that he likens Nausicaa to her “most closely, in looks and stature and build” (εἶδός τε μέγεθός τε φυήν τε). A scholion notes that the praise is made of three things: beauty, size and good condition of body, because φυή is the proportion of all the limbs. Another scholion observes that Odysseus speaks with care: to address her outright as a goddess would raise suspicion of flattery, so he leaves the question open and puts the goddess first, as if he leans that way. Odysseus does not know the narrator's simile, but his choice repeats it. The reader has just seen Nausicaa as an Artemis, and now Odysseus sees the same.
 

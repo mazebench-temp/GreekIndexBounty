@@ -7,7 +7,7 @@ passages:
   - 6.321-331 | Odysseus prays in the grove of Athena
 ---
 
-{{quote:Od. 6.323-331 | The prayer in the grove}}
+{{quote:4fd9b0e8-6093-500c-96a2-9e6abc007145}}
 
 **Setting.** At sunset they reach “the famous grove, / holy to Athena”, where Nausicaa has told him to wait, and Odysseus sits down and “at once he prayed to the daughter of great Zeus” (6.321–323; see [[grove-of-athena]]). The place is the goddess' own, and the occasion is the threshold of the city. No gesture is told.
 

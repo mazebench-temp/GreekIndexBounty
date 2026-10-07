@@ -7,7 +7,7 @@ passages:
   - 6.141-147 | Knees or words?
 ---
 
-{{quote:Od. 6.141-147 | Knees or words?}}
+{{quote:efa5178b-f16f-5f26-9c45-ea422a14086f}}
 
 **The parts.** The shock is the girl who does not run: the others scatter, and Nausicaa alone stands facing him, because Athena has put daring in her mind (6.137–141; see [[athena]]). The division is μερμήριξεν, “was torn two ways in thought” (6.141), here without the διάνδιχα, “in two ways”, of the Iliad's verse (see [[pondering-two-ways]]). The alternatives are a double question, ἤ … ἦ (6.142–143): to clasp the knees of the fair-faced girl and entreat her, or to stand apart and entreat her with soothing words (see [[soothing-words]] and [[gounata]]). The resolution comes in a whole verse, ὣς ἄρα οἱ φρονέοντι δοάσσατο κέρδιον εἶναι, “So, as he pondered, this seemed to him the better way” (6.145), and the next verse repeats the chosen course in the infinitive (6.146). A reason follows: “lest the girl be angry in her mind if he clasped her knees” (6.147).
 

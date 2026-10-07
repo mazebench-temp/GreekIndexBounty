@@ -12,7 +12,7 @@ passages:
   - 6.127-138 | Odysseus comes out of the thicket
 ---
 
-{{quote:Od. 6.135-138 | The girls scatter}}
+{{quote:7a30d896-a7c6-510b-8e24-9cf7495262a0}}
 
 Two scenes of Book 6 reached the visual arts: the drive to the river in the mule cart (6.71–84) and the moment when the naked Odysseus comes out of the thicket and the girls scatter, all except Nausicaa (6.127–141). The ancient evidence for both is thin. Two works are known from the descriptions of Pausanias, and a few from surviving vases.
 

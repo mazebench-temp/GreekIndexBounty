@@ -12,7 +12,7 @@ passages:
 
 **The dream.** She enters Nausicaa's closed chamber “like a breath of wind” (ἀνέμου ὡς πνοιή, 6.20; see [[like-a-breath-of-wind]]). A scholion explains that the goddess slipped in “by the strap of the bolt”, as the phantom does in Book 4 (4.802). She stands above the girl's head and takes the likeness of the daughter of Dymas, a girl of the same age and dear to her (6.21–24; see [[daughter-of-dymas]] and [[dream-scene]]).
 
-{{quote:Od. 6.25-35 | Athena rebukes Nausicaa}}
+{{quote:18560c07-5dbc-56c2-ae35-cee4c27f1d85}}
 
 The speech is a rebuke between friends: “why did your mother bear you so slack?” (6.25). Athena does not mention the stranger. She speaks of what a girl of marriageable age cares about: her clothes lie dirty, her marriage is near, a good report goes out from fine clothes, and the best men of the Phaeacians are courting her (6.26–35; see [[marriage]] and [[clothes]]). The practical orders follow: ask your father for the mules and the wagon, because the washing pools are far from the city (6.36–40). Nausicaa does what the dream says, and keeps its real motive from her father (6.66–67). Athena then goes back to Olympus (6.41–47; see [[olympus]]). When Nausicaa wakes, she wonders at “the dream” (6.49; see [[onar]]).
 
@@ -22,7 +22,7 @@ The speech is a rebuke between friends: “why did your mother bear you so slack
 
 **Grace.** After his bath Athena makes Odysseus “taller to look upon and sturdier”, and lets his hair fall in curls “like the hyacinth flower” (6.229–231; see [[like-the-hyacinth-flower]] and [[divine-beautification]]).
 
-{{quote:Od. 6.232-235 | Gold poured on silver}}
+{{quote:c2263c9a-2f84-5503-8b30-4508b520d5b2}}
 
 The simile names Athena twice: as the goddess who pours grace on Odysseus, and as one of the two gods, with [[hephaestus]], who teach the craftsman his art (see [[gold-poured-on-silver]] and [[charis]]). A scholion explains the second role: “for she is the goddess Ergane”, the goddess of crafts. Another scholion praises the choice of comparison. The poet did not take it from outside, but from the craftsmen of the goddess who does the work. Odysseus was handsome before, but the sea had hidden it. “Nature is the cause of being handsome, grace of seeming so.” Lines 230–235 return almost word for word in Book 23, when Athena beautifies Odysseus before Penelope recognizes him (23.156–162). At 8.18–20 she again pours grace on his head and shoulders and makes him taller.
 
@@ -32,10 +32,10 @@ The simile names Athena twice: as the goddess who pours grace on Odysseus, and a
 
 **The prayer.** Odysseus prays to her at once.
 
-{{quote:Od. 6.324-327 | Odysseus prays to Athena}}
+{{quote:883a904c-e2e4-5361-9468-8f8a2b92675a}}
 
 He reproaches her: she never listened when the earth-shaker was shattering him (6.325–326). He asks to come to the Phaeacians “as one dear to them and pitied” (6.327; see [[prayer]], [[hear-me]] and [[dear-and-pitied]]).
 
-{{quote:Od. 6.328-331 | Athena hears but does not appear}}
+{{quote:97c45f14-3597-52d1-89ee-7d79485ac09e}}
 
 Athena hears him, but “she did not yet appear to him face to face; for she stood in awe of her father's brother” (6.329–330). The verb is αἴδετο, from αἰδώς (see [[aidos]]). A scholion reports the variant ἄζετο, “she shrank from”, in one manuscript (P). The father's brother is Poseidon, and his anger lasts until Odysseus reaches his own land (6.330–331; see [[poseidon]] and [[the-wrath-of-poseidon]]). Merry and Riddell compare a rule of the gods stated in Euripides' *Hippolytus*: no god will go against the wish of another, and they always stand aside (*Hippolytus* 1328–1330). When he walks into the city that evening, she meets him in the likeness of a young girl carrying a water jar (7.19–20). She shows herself openly only on Ithaca. There Odysseus repeats the reproach (13.316–323), and she gives the reason that she did not want to fight her father's brother, who was angry because Odysseus blinded his son (13.341–343).

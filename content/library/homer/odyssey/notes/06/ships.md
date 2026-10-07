@@ -7,7 +7,7 @@ passages:
 
 **The harbor town.** In Book 6 the ships are seen through Nausicaa's directions to Odysseus (6.262–272). The city has a high rampart, “a fine harbor on either side of the city, and a narrow entrance” (6.263–264). The curving ships are drawn up along the road, “for all have a ship-shed, each man his own” (6.264–265; see [[curving]] and [[epistion]]). Merry and Riddell discuss the verb εἰρύαται. The scholia hesitate between “have been hauled up” and “guard the road”, and Merry and Riddell prefer the first, “are drawn up along the road”, as of beached ships in the Iliad (note on 6.264). The place of assembly lies around the [[posideion]], the shrine of the sea-god, and the ships' tackle is tended there (6.266–268).
 
-{{quote:Od. 6.262-272 | The ships of the Phaeacians}}
+{{quote:ea6cd962-02a3-5a5e-bd14-52a813c1ac78}}
 
 **The work on the ships.** “There they tend the tackle of the black ships, cables and sails, and they taper the oars” (6.268–269; see [[black-ships]] and [[oars]]). The tackle is listed as πείσματα, “cables”, and σπεῖρα, “cloths”, here the sails (see the translation notes). Merry and Riddell report a variant σπείρας in Eustathius, glossed in a scholion (T) as the warping cables by which ships are hauled (critical note on 6.269). The verb ἀποξύνουσιν means “sharpen” or “taper”, of the blades of the oars. Merry and Riddell compare the epithet προήκης, “tapering”, given to oars at Odyssey 12.205 (note on 6.269).
 

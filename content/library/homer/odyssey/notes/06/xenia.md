@@ -12,7 +12,7 @@ passages:
 
 **The question.** The shout of the girls wakes Odysseus, and his first words test the land by the standard of hospitality: are the people “arrogant and savage and not just, / or are they kind to strangers, and is their mind god-fearing?” (6.119–121; see [[to-the-land-of-what-mortals]]).
 
-{{quote:Od. 6.119-121 | The castaway's question}}
+{{quote:ab47a82e-3ebb-5ad8-a570-f31de9b49b18}}
 
 φιλόξεινος (“kind to strangers”, literally “friend of strangers”) is the positive term. Merry and Riddell read νόος θεουδής, “a god-fearing mind”, as an explanation of it: the people who are kind to strangers are those who fear the anger of Zeus, god of guests (note on 6.121, p. 263). The three lines come back when Odysseus lands on Ithaca and does not know it (13.200–202). The last two are spoken before he enters the Cyclops' cave (9.175–176), and Alcinous asks him to tell which peoples he met were of each kind (8.575–576). On Scheria the answer comes in Books 6 to 8; in the Cyclops' cave it is the opposite one.
 
@@ -20,7 +20,7 @@ passages:
 
 **From Zeus.** Nausicaa turns to her fleeing handmaids and gives the reason for the reception (6.206–210):
 
-{{quote:Od. 6.206-210 | Strangers and beggars are from Zeus}}
+{{quote:869fa133-9198-58ce-a931-3bb72ec459b6}}
 
 The scholia explain πρὸς Διός as “from Zeus”: strangers and beggars are under his protection and he pities them (schol. E.H.P.Q. on 6.207, Dindorf p. 312). Merry and Riddell compare the Zeus “who accompanies suppliants, who are to be respected” (7.165; note on 6.207, p. 271). Eumaeus speaks the same verse to Odysseus disguised as a beggar (14.57–58; see [[strangers-and-beggars-are-from-zeus]] and [[ptochos]]). δόσις δʼ ὀλίγη τε φίλη τε, “a small gift is a dear one”, is explained in the scholia as small for the giver and dear to the one who receives it (schol. B.E.P. on 6.208, Dindorf p. 312). Achilles uses the same pair, ὀλίγον τε φίλον τε, of his own small share of the spoils (*Iliad* 1.167).
 

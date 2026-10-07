@@ -14,11 +14,11 @@ passages:
 
 **At the river.** The girls loose the mules from under the carriage and drive them along the eddying river “to graze on the honey-sweet field grass” (τρώγειν ἄγρωστιν μελιηδέα, 6.88–90; see [[sweet-as-honey]]). LSJ identifies ἄγρωστις as dog's-tooth grass, *Cynodon dactylon*. A scholion calls it a grassy herb (V), and another adds that it is diuretic (P; Dindorf p. 301). Merry and Riddell list three identifications: clover, which suits the epithet “honey-sweet”, couch grass with its sweet root, and dog's-tooth grass (note on 6.90). The animals graze while the clothes are washed and dried, and they are yoked again only when the girls are ready to go home (6.111).
 
-{{quote:Od. 6.85-90 | The mules are loosed}}
+{{quote:8f7abbb1-e0d0-5c60-9886-51165c1d4b51}}
 
 **The return.** Nausicaa yokes “the strong-hoofed mules” herself (ζεῦξεν δʼ ἡμιόνους κρατερώνυχας, 6.253). The same epithet is used of the mules that the Mysians gave to Priam (Iliad 24.277; see [[strong-hoofed]]). After her instructions to Odysseus she lashes them with the shining whip, and they leave the river (6.316–317).
 
-{{quote:Od. 6.316-320 | The mules step out}}
+{{quote:56760f76-fe04-594a-8faa-cf94f5332ea7}}
 
 **τρώχων and πλίσσοντο (6.318).** The line αἱ δʼ ἐὺ μὲν τρώχων, ἐὺ δὲ πλίσσοντο πόδεσσιν is rendered “and they ran well, and stepped out well with their feet”. πλίσσομαι occurs only here in Homer, and its sense was disputed in antiquity. One scholion takes τρώχων as running and πλίσσοντο as going at a walk, so that the whole means “they trotted well and walked well”. It also reports that Callistratus read αἱ δʼ ἐὺ μὲν τρεχέτην, a dual (B.H.P.Q.T.). The same group of scholia explains πλίσσειν as moving one leg past the other, and cites the Doric word πλίκες for “steps” and a Hippocratic πλίγμα for the space between the thighs. A third scholion (V) glosses πλίσσοντο as διέβαινον, “they stepped across”, and calls the verb a word that Homer uses once only (Dindorf p. 319). LSJ gives “cross the legs, as in trotting”. The ancient explanations agree that the verb describes the movement of the legs; they differ on the gait. The next lines explain the pace: Nausicaa drives “with care, so that they could follow on foot, the handmaids and Odysseus” (6.319–320).
 

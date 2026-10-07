@@ -9,4 +9,4 @@ What she tells them is not for the stranger's ears. He sits apart on the shore (
 
 **Odysseus to Athena (6.324).** At sunset in Athena's grove Odysseus opens his prayer with the whole invocation verse κλῦθί μευ, αἰγιόχοιο Διὸς τέκος, Ἀτρυτώνη, “hear me, child of aegis-bearing Zeus, Atrytone”, as Diomedes (Iliad 5.115) and Penelope (4.762) do (see [[prayer-type-scene]]). The prayer is built on the verb of hearing. The next verse uses another: “now at least listen to me (ἄκουσον), since before you never listened (ἄκουσας)” (6.325). The close answers with the verb of the invocation: “so he spoke in prayer, and Pallas Athena heard him” (τοῦ δʼ ἔκλυε, 6.328). The narrator then says that she did not show herself to him, out of respect for her father's brother (6.329–331). She hears, but she does not appear.
 
-{{quote:Od. 6.324-328 | Hear me, child of Zeus}}
+{{quote:e8e7aaa6-fe73-5a13-8a22-0b5f4fbceab2}}

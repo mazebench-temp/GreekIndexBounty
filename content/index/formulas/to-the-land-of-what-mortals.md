@@ -16,7 +16,7 @@ passages:
 
 Three verses, spoken by a man who has come to a land he does not know:
 
-{{quote:Od. 6.119-121 | The castaway's question}}
+{{quote:ab47a82e-3ebb-5ad8-a570-f31de9b49b18}}
 
 The first line is an exclamation and a question: ὤ μοι ἐγώ, “ah me”, and τέων αὖτε βροτῶν, “of what mortals, now again”. Merry and Riddell, after Ebeling's lexicon, take αὖτε in a question as a mark of impatience at something that happens yet again (note on 6.119, p. 263). The next two lines set out two kinds of people as an either/or (ἦ … ἦε, “are they … or are they”). Each side has three marks:
 

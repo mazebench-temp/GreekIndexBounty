@@ -16,7 +16,7 @@ passages:
 
 **Called back.** Nausicaa's first speech to them is a rebuke and a lesson in hospitality:
 
-{{quote:Od. 6.199-203 | Stand still for me, handmaids}}
+{{quote:095bf690-7ada-5a5b-a9e2-8df6a7f921b1}}
 
 She tells them that no enemy comes to the Phaeacians, that “from Zeus are all strangers and beggars”, and that they must give the stranger food and drink and bathe him in the river (6.199–210; see [[strangers-and-beggars-are-from-zeus]] and [[xenia]]). They obey in part. They stand, urge one another on, seat him in the shelter, lay out a cloak and a tunic, give him the golden flask of oil, and tell him to bathe (6.211–216). The bath itself he refuses. He asks them to stand some way off, because he feels shame “to strip naked when I have come among girls with lovely tresses” (6.217–222; see [[aidos]] and [[nakedness]]). They go apart and tell Nausicaa (6.223).
 

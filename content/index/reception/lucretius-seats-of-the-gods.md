@@ -12,7 +12,7 @@ passages:
   - 6.41-47 | Athena returns to Olympus
 ---
 
-{{quote:Od. 6.41-47 | The seat of the gods}}
+{{quote:fc51951d-31f8-578a-b1e7-a88bf1fe3343}}
 
 When Athena has sent Nausicaa her dream, she goes back to Olympus, “where, they say, the seat of the gods is, firm forever” (6.42; see [[olympus]] and [[seat-firm-forever]]). The narrator describes it in three negatives and two positives. It is not shaken by winds, not wet with rain, and snow does not come near it. A cloudless clear sky is spread out, and a white gleam runs over it. There the blessed gods take their delight all their days (6.43–46).
 

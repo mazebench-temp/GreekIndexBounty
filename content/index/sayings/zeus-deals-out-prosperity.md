@@ -12,7 +12,7 @@ passages:
   - 6.187-190 | Nausicaa answers the suppliant
 ---
 
-{{quote:Od. 6.187-190 | Nausicaa answers the suppliant}}
+{{quote:14e68d90-3fd5-5d55-bb82-a096b6ba05af}}
 
 **The context.** Odysseus has come out of the bushes naked and crusted with brine, and he has begged Nausicaa for pity (6.149–185; see [[supplication]]). She answers that he seems “neither a base man nor a senseless one” (6.187). The maxim follows at once. Zeus gives ὄλβος, “prosperity, happiness” (see [[olbos]]), to good and bad men “as he wishes”, so the stranger's misery says nothing about his worth. He must bear it: σὲ δὲ χρὴ τετλάμεν ἔμπης, “you must endure them all the same” (6.190). The verb τλῆναι is the root of Odysseus' own epithets, πολύτλας, “much-enduring”, which the narrator gives him in the first verse of the book (6.1).
 

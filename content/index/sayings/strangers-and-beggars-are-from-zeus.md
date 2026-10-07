@@ -12,7 +12,7 @@ passages:
   - 6.206-210 | Nausicaa's orders to the handmaids
 ---
 
-{{quote:Od. 6.206-210 | Nausicaa's orders to the handmaids}}
+{{quote:3c2d2bbf-7e1d-591e-aace-968a8791ea9e}}
 
 **The context.** Nausicaa has accepted the suppliant (6.191–197; see [[supplication]]). She calls back her handmaids, who ran away at the sight of him, and tells them that no enemy comes to the Phaeacians: “this is some unhappy man, a wanderer”, and “we must care for him now” (6.199–207). The maxim gives the reason, and the orders follow: food, drink and a bath in the river (6.209–210; see [[xenia]] and [[bathing]]).
 

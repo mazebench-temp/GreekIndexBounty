@@ -6,7 +6,7 @@ passages:
 
 Odysseus has called Nausicaa's parents and brothers “thrice blessed” (6.154–157). He ends with the bridegroom:
 
-{{quote:Od. 6.158-159 | Most blessed in his heart}}
+{{quote:845dfd15-a796-593d-b8e3-b4ba1a848957}}
 
 περὶ κῆρι is a common phrase. LSJ takes περί here as an adverb, “exceedingly” or “throughout”, and κῆρι is “in the heart”. The phrase occurs fourteen times in Homer, with verbs of honoring, loving and feeling. The Phaeacians will honor Odysseus “in their hearts like a god” (5.36), and Arete is honored by Alcinous in the same way (7.69). Here it qualifies an adjective, μακάρτατος, “most blessed” (see [[thrice-blessed]]).
 

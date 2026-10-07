@@ -17,7 +17,7 @@ In the Iliad praise and blame are mostly words between men about courage. In Boo
 
 **Blame.** At the edge of the city Nausicaa explains why Odysseus must not enter it with her:
 
-{{quote:Od. 6.273-275 | The talk she shuns}}
+{{quote:6b0040af-7b81-5c07-83d6-dfdbdbec06d7}}
 
 The words are those of blame. She shuns their φῆμις ἀδευκής, “unkind talk”, so that no one “afterward may blame me” (μωμεύῃ, 6.273–274). Merry and Riddell take ὀπίσσω as “hereafter”, not “behind my back” (note on 6.273, p. 277). The verb μωμεύω, “blame”, belongs with μῶμος, “blame, reproach”. The imagined speaker is “some baser man” (κακώτερος), and the people are “very overbearing” (ὑπερφίαλοι, 6.274–275). His speech mocks her as a girl who has found a husband from abroad, since she “dishonors” (ἀτιμάζει) the many good Phaeacians who court her (6.276–284; see [[tis-speech]]). She names the result: “these things would become reproaches against me” (ὀνείδεα, 6.285; see [[oneidos]]).
 

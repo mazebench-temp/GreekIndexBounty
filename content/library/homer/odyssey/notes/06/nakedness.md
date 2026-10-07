@@ -15,7 +15,7 @@ passages:
 
 **Ashamed to strip.** Nausicaa tells the handmaids to bathe him in the river (6.210). In the Odyssey a guest is usually bathed by women of the house (see [[bathing]]). Odysseus refuses:
 
-{{quote:Od. 6.218-222 | Ashamed to strip}}
+{{quote:d67ba611-d5ff-51a8-99cc-6b6af4a5a5f0}}
 
 He gives his reason in the word of shame: αἰδέομαι γάρ, “for I feel shame / to strip naked when I have come among girls with lovely tresses” (6.221–222; see [[aidos]]). The girls go apart, and he washes himself (6.223–227). The refusal reverses the scene on the beach. There need made him go naked among the girls. Here, with the need met, he will not be naked in front of them. LSJ cites 6.222 as an example of the middle γυμνοῦσθαι, “strip oneself” (s.v. γυμνόω).
 

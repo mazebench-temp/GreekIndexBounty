@@ -8,7 +8,7 @@ passages:
 
 **Grace that shows.** In Book 6 χάρις is mostly the visible kind, charm and beauty that others see. The handmaids who sleep by Nausicaa's door “had beauty from the Graces” (Χαρίτων ἄπο κάλλος ἔχουσαι, 6.18; see [[graces]] and [[handmaids]]). The book's central use comes after the bath. Odysseus has washed the brine from his skin and put on the clothes Nausicaa gave him, and Athena changes his appearance (6.229–237):
 
-{{quote:Od. 6.229-237 | Athena pours grace on Odysseus}}
+{{quote:45dbc0d6-7cdb-5501-a61f-4c115beb80bf}}
 
 The simile comes from the goldsmith's craft. A craftsman taught by Hephaestus and Athena pours gold around silver and “completes graceful works” (χαρίεντα … ἔργα); so Athena “poured grace upon him, on his head and shoulders” (κατέχευε χάριν, 6.232–235; see [[gold-poured-on-silver]]). Odysseus then sits apart on the shore, “gleaming with beauty and graces” (κάλλεϊ καὶ χάρισι στίλβων), and the girl gazes at him (6.237). The plural χάριτες here are the charms themselves, not the goddesses.
 

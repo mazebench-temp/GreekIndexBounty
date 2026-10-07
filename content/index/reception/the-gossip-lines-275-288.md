@@ -13,7 +13,7 @@ passages:
   - 6.273-288 | The imagined gossip
 ---
 
-{{quote:Od. 6.273-285 | What the people would say}}
+{{quote:2e3d7aab-7be2-5c7a-9fd2-daeacd92561a}}
 
 Nausicaa tells Odysseus how to reach the city. He is to follow the wagon with the handmaids while they cross the fields. Near the walls and the harbor he must let her go on alone (6.255–272). Then she gives her reason: “It is their unkind talk that I shun, so that no one afterward may blame me; and there are very overbearing men among the people” (6.273–274; see [[phemis]]). She acts out the talk she fears. A baser man who meets them might say: “And who is this following Nausicaa, a handsome and tall stranger? … Surely he will be a husband for her” (6.276–277). He guesses that she picked up a castaway from some far land, “since there are none nearby”, or that a god came down at her prayer to have her all her days (6.278–281). “It is better so, if she herself has gone about and found a husband from elsewhere; for truly she dishonors these men here … who are courting her, many and good” (6.282–284). She ends with her own judgment: these things would be reproaches to her, and she too blames a girl who goes with men against the will of her father and mother, “before she has come to a public marriage” (6.285–288). The imagined speech is a [[tis-speech]], a speech put in the mouth of an unnamed “someone”.
 

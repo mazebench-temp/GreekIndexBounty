@@ -15,7 +15,7 @@ passages:
 
 ## The simile
 
-{{quote:Od. 6.102-109 | Artemis among her nymphs}}
+{{quote:e782403c-e446-5763-80f0-de37e83064c1}}
 
 **The vehicle.** Artemis “of the showering arrows” (ἰοχέαιρα) goes through the mountains, along Taygetus in Laconia or Erymanthus in Arcadia, “delighting in wild boars and swift deer” (6.102–104; see [[artemis]], [[taygetus]] and [[erymanthus]]). With her play the nymphs, “daughters of aegis-bearing Zeus”, ἀγρονόμοι, “who range the wild country” (6.105–106; see [[nymphs]]). Her mother Leto watches and is glad in her heart (γέγηθε δέ τε φρένα Λητώ, 6.106; see [[leto]]). Artemis holds her head and brow above them all, and she is “easily known” (ἀριγνώτη), “though all are beautiful” (6.107–108).
 

@@ -6,7 +6,7 @@ passages:
 
 The handmaids have run from the naked stranger. Nausicaa calls them back:
 
-{{quote:Od. 6.199-205 | No living mortal}}
+{{quote:f197a4d1-0e42-57e9-8a73-16e8a16bb7e3}}
 
 The sentence turns on διερὸς βροτός (6.201). How it is construed depends on the sense of διερός (see the article above).
 

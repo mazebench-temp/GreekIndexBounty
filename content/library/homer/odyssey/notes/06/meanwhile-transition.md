@@ -3,7 +3,7 @@ summary: The first two verses of Book 6 leave Odysseus asleep in his bed of leav
 refs: [6.1-3]
 ---
 
-{{quote:Od. 6.1-3 | So he lay sleeping there}}
+{{quote:d2dbfc3c-5e8c-51e1-bd91-3d95a93a7d18}}
 
 **The join with Book 5.** Book 5 ends with Odysseus covered with leaves under the two olive bushes, and Athena “poured sleep on his eyes, so that it might quickly free him from painful weariness” (καμάτοιο, 5.491–493). Book 6 begins by summing this up: “So he lay sleeping there, much-enduring brilliant Odysseus, / worn down by sleep and weariness” (ὕπνῳ καὶ καμάτῳ ἀρημένος, 6.1–2). ὥς refers back to the scene just told, ἔνθα points to the bed of leaves, and καμάτῳ repeats the word of 5.493. The imperfect καθεῦδε, “was sleeping”, leaves him asleep, and he sleeps on through the whole first part of the book, until the shout of the girls wakes him at 6.117 (see [[odysseus]] and [[much-enduring]]).
 

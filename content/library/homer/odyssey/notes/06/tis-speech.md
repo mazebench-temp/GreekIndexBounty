@@ -10,7 +10,7 @@ passages:
 
 **The setting.** Nausicaa has just told Odysseus to follow the wagon through the fields with her handmaids. At the edge of the city he must stop, because “it is their unkind talk that I shun, so that no one afterward / may blame me; and there are very overbearing men among the people” (6.273–274; see [[phemis]] and [[praise-and-blame]]). Then she gives the talk a voice:
 
-{{quote:Od. 6.275-285 | Who is this following Nausicaa?}}
+{{quote:f48bbad3-c836-541b-94d5-b6b0e8d540e5}}
 
 **The form.** The speech is introduced like the imagined speeches of the Iliad. Hector twice pictures what “someone will say” in time to come, with the same subjunctive εἴπῃσι (καί ποτέ τις εἴπῃσι, Iliad 6.459, 7.87). Here the speaker has a character as well: κακώτερος, “a baser man”, met on the road (ἀντιβολήσας, 6.275). The speech ends with the singular become plural, ὣς ἐρέουσιν, “so they will say” (6.285): one man stands for the town. Hector's imagined speakers give a hero his fame, or a widow her grief. Nausicaa's speaker gives her a bad name, and the last word of the frame is ὀνείδεα, “reproaches” (6.285).
 

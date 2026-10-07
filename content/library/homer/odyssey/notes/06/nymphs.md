@@ -8,7 +8,7 @@ passages:
 
 **Companions of Artemis.** In the simile for Nausicaa among her handmaids, the nymphs go with Artemis over the mountains.
 
-{{quote:Od. 6.105-106 | The nymphs play with Artemis}}
+{{quote:83f4c3bb-b5cc-5021-a107-1a4f0ef9d4f7}}
 
 They are κοῦραι Διὸς αἰγιόχοιο, “daughters of aegis-bearing Zeus” (6.105), the title the Iliad gives the nymphs of the mountains (Il. 6.420; see [[aegis-bearing]] and [[zeus]]). Artemis is also Zeus' daughter (6.151), so the goddess and her companions are sisters. In the comparison the nymphs stand for the handmaids, and Artemis, taller than all of them, stands for Nausicaa (6.107–109; see [[artemis]], [[artemis-among-her-nymphs]] and [[handmaids]]).
 
@@ -22,7 +22,7 @@ Merry and Riddell take παίζουσι, “they play”, of hunting as a sport,
 
 **Nymphs or girls?** The girls' shout wakes Odysseus, and he does not know who has made it.
 
-{{quote:Od. 6.122-124 | Nymphs or girls?}}
+{{quote:55c22fab-c15c-50bb-b70d-046e887f4b26}}
 
 The cry is “as of girls, of nymphs”, κουράων … νυμφάων (6.122–123). Merry and Riddell take νυμφάων as a closer definition of κουράων. The places that Odysseus names are the haunts of the nymphs: mountain peaks, the springs of rivers and grassy meadows (see [[steep]] and [[grassy]]). The last line is identical with Iliad 20.9, where the nymphs come to the assembly of the gods. A scholion (E.H.P.) explains the guess. Because Odysseus is in a lonely place, he first suspects that the voices really are nymphs. Then he turns to the other possibility, that he is “near human beings who have speech” (6.125; see [[to-the-land-of-what-mortals]]).
 

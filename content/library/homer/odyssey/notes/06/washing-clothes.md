@@ -9,7 +9,7 @@ passages:
 
 **The dream.** Athena comes to Nausicaa in the likeness of a friend of her own age and reproaches her: “Your glossy clothes lie uncared for, / and your marriage is near” (6.26–27). A bride must wear fine clothes herself and give others “to those who will lead you home”, and from such things a good report (φάτις) goes up among men, and her parents rejoice (6.27–30; see [[marriage]] and [[phemis]]). The washing is therefore tied to the marriage and to the girl's good name from its first mention.
 
-{{quote:Od. 6.25-35 | Athena's instructions}}
+{{quote:f10d3915-75c0-51ae-adad-db5ba5a17c91}}
 
 The scholia explain “those who will lead you home” as the bridegroom, the plural standing for the singular, or as the bridegroom's people, to whom by custom the bride gave clothes (schol. B and Q.T. on 6.28, Dindorf p. 296). Merry and Riddell think rather of the procession that led a bride to her new home, as on the shield of Achilles (Iliad 18.491–493), to which the bride could add splendor by her gifts of clothing (note on 6.28, p. 254). Another scholion gives the narrative reason: the poet is preparing the men's clothing, “so that Odysseus may get something from it” (schol. P.T. on 6.28, Dindorf p. 296). Eustathius says the same of the coverlets in 6.38: they are mentioned so that Odysseus can be dressed from them, for he would not put on a woman's robe (p. 236).
 
