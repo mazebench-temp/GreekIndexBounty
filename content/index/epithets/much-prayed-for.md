@@ -12,7 +12,7 @@ en: [much-prayed-for]
 
 ## Meaning
 
-πολυάρητος = πολύς (“much”) + ἀράομαι (“pray”; ἀρά, “prayer”). LSJ: “much-wished-for, much-desired”. A scholion on Od. 6.280 gives two explanations: a god “who hears many prayers”, or one “deemed worthy of many prayers”, and it derives the word from πολύ and ἀρά, “prayer” (schol. B, Dindorf about p. 317). See [[prayer]].
+πολυάρητος = πολύς (“much”) + ἀράομαι (“pray”; ἀρά, “prayer”). LSJ: “much-wished-for, much-desired”. A scholion on Od. 6.280 gives two explanations: a god “who hears many prayers”, or one “deemed worthy of many prayers”, and it derives the word from πολύ and ἀρά, “prayer” (schol. B, Dindorf p. 317). See [[prayer]].
 
 Compare [[thrice-prayed-for]] (τρίλλιστος), another epithet made from the language of prayer.
 

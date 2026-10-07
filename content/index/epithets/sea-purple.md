@@ -18,7 +18,7 @@ of: [queen-arete, nymphs]
 Ancient readers gave two explanations of the first half.
 
 - **Dyed with sea purple.** A scholion on 6.53 glosses the word θαλασσοβαφῆ, “sea-dyed” (Dindorf pp. 298–299). Hesychius and others, as Merry and Riddell report, explain it as ἁλουργά, that is, made with the purple from the sea.
-- **Purple like the sea.** Eustathius explains ἁλιπόρφυρα first as “dark”, like the violet-dark (ἰοδνεφές) wool that Helen spins (4.135). He then offers a second sense, “like the sea when it turns purple” (τὰ ὅμοια πορφυρούσῃ ἁλί; on 6.53, ed. Stallbaum vol. 1, about p. 237). Merry and Riddell think that the form of the compound supports this second sense, because ἁλι- is a locative, “in the sea”. They also suggest an allusion to the Phoenician purple dye from the murex (note on 6.53, p. 257).
+- **Purple like the sea.** Eustathius explains ἁλιπόρφυρα first as “dark”, like the violet-dark (ἰοδνεφές) wool that Helen spins (4.135). He then offers a second sense, “like the sea when it turns purple” (τὰ ὅμοια πορφυρούσῃ ἁλί; on 6.53, ed. Stallbaum vol. 1, p. 237). Merry and Riddell think that the form of the compound supports this second sense, because ἁλι- is a locative, “in the sea”. They also suggest an allusion to the Phoenician purple dye from the murex (note on 6.53, p. 257).
 
 ## Use
 

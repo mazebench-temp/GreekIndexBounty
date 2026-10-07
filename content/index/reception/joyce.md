@@ -6,6 +6,6 @@ summary: Irish novelist (1882–1941), author of Ulysses (1922), a novel of one 
 aliases: [Joyce, Ulysses]
 ---
 
-*Ulysses* follows Leopold Bloom and the young Stephen Dedalus through Dublin on 16 June 1904. The novel gives its episodes numbers only. Their Homeric names come from the schemas that Joyce prepared for friends and critics.
+*Ulysses* follows Leopold Bloom and the young Stephen Dedalus through Dublin on 16 June 1904. The published novel gives its episodes no titles. Their Homeric names come from the schemas that Joyce prepared for friends and critics.
 
 {{notes}}

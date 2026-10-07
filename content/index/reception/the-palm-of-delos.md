@@ -5,7 +5,7 @@ kind: anecdote
 work: homer.odyssey
 tags: [sanctuary, sacred-object]
 summary: Odysseus says that he once saw a young palm by Apollo's altar on Delos. In the cult of Delos a palm was the tree that Leto held when she gave birth to Apollo. Ancient readers disagreed whether Odysseus meant that tree, and Cicero, Pliny and Pausanias show that a palm on Delos was still pointed out in their time.
-source: Homeric Hymn to Apollo 115–119; Euripides, Hecuba 455–461; Cicero, On the Laws 1.2; Pliny, Natural History 16.240; Pausanias 8.48.2–3; scholia on Odyssey 6.162, ed. Dindorf p. 307
+source: Homeric Hymn to Apollo 115–119; Euripides, Hecuba 455–461; Cicero, On the Laws 1.2; Pliny, Natural History 16.240; Pausanias 8.48.2–3; scholia on Odyssey 6.163, ed. Dindorf p. 307
 of: [the-palm-shoot-on-delos, delos, leto, apollo, odysseus]
 refs: [6.162-167]
 passages:
@@ -24,9 +24,9 @@ Homer names only a palm by Apollo's altar. He does not name Leto or the birth.
 
 ## The ancient dispute
 
-The scholia on 6.162 disagree about the tree (Dindorf p. 307):
+The scholia on 6.163 disagree about the tree (Dindorf p. 307):
 
-- Ms. E explains ἔρνος as an evergreen plant and says: “he means the palm that sprang up for Leto, which she held when she gave birth.”
+- Ms. E explains ἔρνος as an evergreen plant. A note in mss. E and V says: “he means the palm that sprang up for Leto, which she held when she gave birth.”
 - Mss. B, P and Q take νέον, “young, new”, with ἀνερχόμενον, “newly springing up”. They compare Thetis' words about Achilles, “he shot up like a sapling” (Iliad 18.56). The participle, they say, suggests both the bloom already present and the hope of growth to come. Their conclusion: “he does not mean the palm that sprang up for Leto.” A further note in mss. B and P says that the poet chose a tree that is straight by nature.
 
 The argument of B, P and Q is drawn from the text. A palm that is “young” and “springing up” cannot be the tree that stood at the god's birth. Merry and Riddell suggest that a palm was always kept growing in the precinct, like the sacred olives of the Academy at Athens (note on 6.162, p. 266). On that view the young tree that Odysseus saw would be a successor of Leto's palm.

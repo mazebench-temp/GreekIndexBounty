@@ -25,7 +25,7 @@ The two notices differ in two points. Athenaeus names the play *Nausicaa*. Eusta
 
 ## One play or two?
 
-Laura Carrara reviews the question in her study of the fragments, “Il bucato di Nausicaa” (in *Epica e tragedia greca: una mappatura*, Venice 2022, pp. 13–14). Eustathius probably took the notice from a fuller text of Athenaeus than the surviving Epitome, which often leaves out names of persons and works. Since one witness uses the title *Nausicaa* and the other *Plyntriai* with the verbs for producing a play, many scholars since Valckenaer (1768) have taken the play to have had the double title *Nausicaa or The Washerwomen* (Ναυσικάα ἢ Πλύντριαι). Casaubon (1621) had listed the two titles separately. Radt's edition of the fragments counts the pair among the transmitted double titles, as Carrara reports. She cites one parallel: a comedy by Philyllius bears the reversed double title *Plyntriai or Nausicaa* (Suda φ 457).
+Laura Carrara reviews the question in her study of the fragments, “Il bucato di Nausicaa” (in *Epica e tragedia greca: una mappatura*, Venice 2022, pp. 13–15). Eustathius probably took the notice from a fuller text of Athenaeus than the surviving Epitome, which often leaves out names of persons and works. Since one witness uses the title *Nausicaa* and the other *Plyntriai* with the verbs for producing a play, many scholars since Valckenaer (1768) have taken the play to have had the double title *Nausicaa or The Washerwomen* (Ναυσικάα ἢ Πλύντριαι). Casaubon (1621) had listed the two titles separately. Radt (1983) counts the pair among the transmitted double titles (“überlieferte Doppeltitel”), as Carrara reports (p. 15, note 36). She cites one parallel: a comedy by Philyllius bears the reversed double title *Plyntriai or Nausicaa* (Suda φ 457).
 
 The plural title points to a chorus of washerwomen, that is, Nausicaa's handmaids at the river (6.84–98; see [[handmaids-of-nausicaa]]). Carrara reports that the genre of the play is disputed between tragedy and satyr play, and she treats it as a tragedy.
 
@@ -38,7 +38,7 @@ Three fragments survive, numbered 439–441 in Radt's edition (Carrara 2022, p. 
 
 ## Date and doubts
 
-If Sophocles really acted in the play, it belongs early in his career. The ancient *Life* of Sophocles says that he gave up acting in his own plays. Carrara therefore dates the *Nausicaa* between his first production (471/0 or 469/8 BCE) and about 456 BCE (pp. 16–17). She also reports the doubt of Hugh Lloyd-Jones, who thought that the anecdote might come from comedy, from Philyllius' play or from the *Nausicaa* of Eubulus.
+If Sophocles really acted in the play, it belongs early in his career. The ancient *Life* of Sophocles says that he gave up acting in his own plays. Carrara therefore dates the *Nausicaa* between his first production (471/0 or 469/8 BCE) and about 456 BCE (p. 16). She also reports the doubt of Hugh Lloyd-Jones, who thought that the anecdote might come from comedy, from Philyllius' play or from the *Nausicaa* of Eubulus.
 
 The story was attractive because the ball game is the one moment of play in Homer's scene. The girls throw off their veils to play (6.100), Nausicaa leads the song (6.101), and her missed throw wakes Odysseus (6.115–117; see [[ball-play]] and [[athenaeus-ball-games]]). An actor playing Nausicaa would have had to show that skill on stage.
 

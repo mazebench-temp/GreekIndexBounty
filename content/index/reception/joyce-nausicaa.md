@@ -11,7 +11,7 @@ passages:
   - 6.127-141 | The stranger on the shore
 ---
 
-*Ulysses* follows Leopold Bloom through Dublin on 16 June 1904. Its eighteen episodes match episodes of the Odyssey, but the published novel gives them only numbers. Their Homeric names, among them “Nausicaa” for episode 13, come from the schemas that Joyce sent to Carlo Linati and that Stuart Gilbert printed in his study of the novel. The novel ends with the places and years of its writing, “Trieste-Zurich-Paris 1914-1921”.
+*Ulysses* follows Leopold Bloom through Dublin on 16 June 1904. Its eighteen episodes match episodes of the Odyssey, but the published novel gives them no titles. Their Homeric names, among them “Nausicaa” for episode 13, come from the schemas that Joyce sent to Carlo Linati and that Stuart Gilbert printed in his study of the novel. The novel ends with the places and years of its writing, “Trieste-Zurich-Paris 1914-1921”.
 
 ## The episode
 

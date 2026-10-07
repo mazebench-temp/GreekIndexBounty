@@ -18,7 +18,7 @@ LSJ derives ταλαπείριος from the root of τλῆναι (“to endure�
 Ancient readers had two explanations.
 
 - **Wretched.** A scholion on 7.24 reports that Aristarchus took it as equal to ταλαίπωρος, “miserable, wretched” (schol. P, V, quoted by Merry and Riddell on 6.193, p. 269).
-- **From far away.** The same scholion reports that others took it to mean a stranger “who has crossed from far away” (πόρρωθεν πεπερακώς), as if from τῆλε (“far”) and περάω (“cross”). The scholion on 6.193 gives both senses (Dindorf about p. 310). Eustathius adds that Odysseus' own words in Book 7, ξεῖνος ταλαπείριος … τηλόθεν ἐξ ἀπίης γαίης, “a much-tried stranger … from a far-off land” (7.24–25), seem to give the etymology (ed. Stallbaum vol. 1, about p. 248).
+- **From far away.** The same scholion reports that others took it to mean a stranger “who has crossed from far away” (πόρρωθεν πεπερακώς), as if from τῆλε (“far”) and περάω (“cross”). The scholion on 6.193 gives both senses (Dindorf p. 310). Eustathius adds that Odysseus' own words in Book 7, ξεῖνος ταλαπείριος … τηλόθεν ἐξ ἀπίης γαίης, “a much-tried stranger … from a far-off land” (7.24–25), seem to give the etymology (ed. Stallbaum vol. 1, p. 248).
 
 Merry and Riddell refer both ταλαίπωρος and ταλαπείριος to a root περ (note on 6.193, p. 269).
 
