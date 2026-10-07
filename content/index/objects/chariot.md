@@ -7,7 +7,8 @@ summary: The light two-wheeled chariot of Homeric warfare, drawn by a pair of ho
 aliases: [chariots, harma, war chariot]
 grc: [ἅρματος, ἅρμα, ἅρμασιν, ἅρματα]
 # ζυγόν at 9.187 is the crossbar of Achilles' lyre; at 10.293 the yoke a heifer has never borne; ἱμᾶσιν at 10.262 are the thongs inside a helmet.
-except: [9.187, 10.262, 10.293]
+# At Odyssey 6.81-82 and 6.316-320 the whip and reins belong to Nausicaa's mule wagon (see [[wagon]]), not a chariot.
+except: [9.187, 10.262, 10.293, "Odyssey 6.81-82", "Odyssey 6.316-320"]
 en: [chariot, chariots]
 ---
 

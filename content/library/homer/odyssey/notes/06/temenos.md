@@ -14,4 +14,4 @@ The domain lies by the road, next to the grove of Athena with its poplars, its s
 
 In Homer a man's τέμενος belongs to kings and chiefs (see [[alcinous]] and [[basileus]]). The next book shows a great orchard of Alcinous outside the courtyard of his house, with trees that bear fruit all year round (7.112–132). The narrator calls it an ὄρχατος (7.112), not a τέμενος. Whether the poet means the same land in both books is not stated.
 
-At sunset they reach “the famous grove sacred to Athena”, and Odysseus sits down there (6.321–322). He prays to Athena in the grove, and the next book begins in the same place (6.323–327, 7.1).
+At sunset they reach “the famous grove, holy to Athena”, and Odysseus sits down there (6.321–322). He prays to Athena in the grove, and the next book begins in the same place (6.323–327, 7.1).

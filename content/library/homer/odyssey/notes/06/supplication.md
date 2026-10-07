@@ -9,7 +9,7 @@ passages:
   - 6.310-315 | The knees of the queen
 ---
 
-Book 6 is the first supplication that Odysseus makes in the Odyssey, and the poem shows the rite with one part held back. The order of the scene is told in [[supplication-type-scene]]. This note follows the words of the rite.
+Book 6 is the first supplication of a mortal that Odysseus makes in the Odyssey, and the poem shows the rite with one part held back. The day before, he had supplicated the god of the river in prayer: “I come to you as a suppliant” (ἱκέτης δέ τοι εὔχομαι εἶναι, 5.450; see [[river-of-scheria]]). The order of the scene is told in [[supplication-type-scene]]. This note follows the words of the rite.
 
 **The words of the rite.** Every word of supplication in the book occurs here:
 

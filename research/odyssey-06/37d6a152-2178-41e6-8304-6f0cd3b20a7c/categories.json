@@ -42,10 +42,9 @@
    "handmaids-of-nausicaa",
    "kings",
    "phaeacians",
-   "sons-of-alcinous",
-   "trojans"
+   "sons-of-alcinous"
   ],
-  "explanation": "Every line was reviewed for peoples. 6 researched entries of this kind occur in Book 6. Candidate dispositions: 2 created, 4 expanded, 2 omitted."
+  "explanation": "Every line was reviewed for peoples. 5 researched entries of this kind occur in Book 6. Candidate dispositions: 3 created, 4 expanded, 2 omitted."
  },
  {
   "kind": "creature",
@@ -100,7 +99,6 @@
    "aegis",
    "altar",
    "bow",
-   "chariot",
    "cloak",
    "clothes",
    "coverlets",
@@ -125,7 +123,7 @@
    "wine",
    "wineskin"
   ],
-  "explanation": "Every line was reviewed for objects. 27 researched entries of this kind occur in Book 6. Candidate dispositions: 3 covered, 8 created, 12 expanded, 9 omitted."
+  "explanation": "Every line was reviewed for objects. 26 researched entries of this kind occur in Book 6. Candidate dispositions: 3 covered, 8 created, 13 expanded, 9 omitted."
  },
  {
   "kind": "ritual",
@@ -172,6 +170,7 @@
    "gaster",
    "genee",
    "gounata",
+   "heros",
    "homophrosyne",
    "hybris",
    "hypnos",
@@ -211,7 +210,7 @@
    "thymos",
    "xenia"
   ],
-  "explanation": "Every line was reviewed for greek words. 62 researched entries of this kind occur in Book 6. Candidate dispositions: 5 covered, 12 created, 21 expanded, 6 omitted."
+  "explanation": "Every line was reviewed for greek words. 63 researched entries of this kind occur in Book 6. Candidate dispositions: 5 covered, 12 created, 21 expanded, 6 omitted."
  },
  {
   "kind": "theme",
@@ -228,7 +227,7 @@
    "praise-and-blame",
    "seeing-the-gods"
   ],
-  "explanation": "Every line was reviewed for themes & ideas. 10 researched entries of this kind occur in Book 6. Candidate dispositions: 1 covered, 3 created, 8 expanded, 3 omitted."
+  "explanation": "Every line was reviewed for themes & ideas. 10 researched entries of this kind occur in Book 6. Candidate dispositions: 3 created, 9 expanded, 3 omitted."
  },
  {
   "kind": "epithet",
@@ -264,7 +263,6 @@
    "honey-sweet",
    "immortals",
    "intricately-worked",
-   "klytos",
    "like-the-goddesses",
    "mountain-bred",
    "much-enduring",
@@ -290,7 +288,6 @@
    "steep",
    "strong-hand",
    "strong-hoofed",
-   "sweet-as-honey",
    "thick-and-woolly",
    "unbroken",
    "well-built",
@@ -305,7 +302,7 @@
    "with-lovely-tresses",
    "with-wide-dancing-floors"
   ],
-  "explanation": "Every line was reviewed for epithets. 70 researched entries of this kind occur in Book 6. Candidate dispositions: 28 covered, 9 created, 30 expanded, 6 omitted."
+  "explanation": "Every line was reviewed for epithets. 68 researched entries of this kind occur in Book 6. Candidate dispositions: 28 covered, 7 created, 32 expanded, 6 omitted."
  },
  {
   "kind": "formula",
@@ -339,7 +336,7 @@
    "visit-scene",
    "within-shouting-distance"
   ],
-  "explanation": "Every line was reviewed for formulas & type-scenes. 27 researched entries of this kind occur in Book 6. Candidate dispositions: 3 covered, 11 created, 12 expanded, 2 omitted."
+  "explanation": "Every line was reviewed for formulas & type-scenes. 27 researched entries of this kind occur in Book 6. Candidate dispositions: 2 covered, 11 created, 13 expanded, 2 omitted."
  },
  {
   "kind": "simile",

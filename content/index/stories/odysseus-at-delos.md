@@ -10,6 +10,7 @@ tags: [backstory, sanctuary]
 summary: A visit that Odysseus mentions to Nausicaa and that Homer tells nowhere else. He once came to Delos with “a great army” following him, “on that journey on which evil sorrows were to come upon me”, and saw a young palm shoot by the altar of Apollo.
 aliases: [Odysseus on Delos, the voyage to Delos]
 participants: [odysseus]
+refs: [6.162-167]
 passages:
   - 6.162-167 | Once on Delos
 ---

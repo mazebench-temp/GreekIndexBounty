@@ -9,7 +9,7 @@ aliases: [Alkinoos, King Alcinous, father of Nausicaa]
 grc: [Ἀλκινο*]
 en: [Alcinous]
 relations:
-  - father: nausithous (6.7-12)
+  - father: nausithous (7.62-63)
   - wife: queen-arete (6.51, 6.305-309)
   - daughter: nausicaa (6.17, 6.196)
   - son: sons-of-alcinous (6.62-63)
@@ -25,7 +25,7 @@ passages:
 
 ## Family
 
-He is the younger son of [[nausithous|Nausithous]], who founded the Phaeacian city, and the grandson of [[poseidon|Poseidon]] and Periboea, daughter of Eurymedon, king of the Giants (7.56–63). His brother Rhexenor was killed by Apollo's arrows soon after his marriage, leaving one daughter, [[queen-arete|Arete]]; Alcinous married her and honors her as no other woman on earth is honored (7.63–68). His children are [[nausicaa|Nausicaa]] and five sons, two married and three unmarried (6.62–63; see [[sons-of-alcinous]]); Laodamas, Halius and Clytoneus are named in the games (8.118–119), and Laodamas is the son he loves most (7.170–171).
+He is a son of [[nausithous|Nausithous]], who founded the Phaeacian city, and the grandson of [[poseidon|Poseidon]] and Periboea, daughter of Eurymedon, king of the Giants (7.56–63). His brother Rhexenor was killed by Apollo's arrows soon after his marriage, leaving one daughter, [[queen-arete|Arete]]; Alcinous married her and honors her as no other woman on earth is honored (7.63–68). His children are [[nausicaa|Nausicaa]] and five sons, two married and three unmarried (6.62–63; see [[sons-of-alcinous]]); Laodamas, Halius and Clytoneus are named in the games (8.118–119), and Laodamas is the son he loves most (7.170–171).
 
 ## Descriptions
 

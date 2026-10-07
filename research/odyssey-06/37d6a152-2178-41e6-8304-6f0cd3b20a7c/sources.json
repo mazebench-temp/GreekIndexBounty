@@ -2154,7 +2154,6 @@
    "hieros",
    "homes-on-olympus",
    "intricately-worked",
-   "klytos",
    "like-the-goddesses",
    "much-enduring",
    "much-prayed-for",
@@ -2166,7 +2165,6 @@
    "satisfying",
    "sea-purple",
    "soothing-words",
-   "sweet-as-honey",
    "thick-and-woolly",
    "unbroken",
    "well-robed",
@@ -2174,7 +2172,8 @@
    "white-armed",
    "wild",
    "with-lovely-tresses",
-   "with-wide-dancing-floors"
+   "with-wide-dancing-floors",
+   "honey-sweet"
   ]
  },
  {
@@ -2199,7 +2198,6 @@
    "godlike",
    "great-hearted",
    "homes-on-olympus",
-   "klytos",
    "much-enduring",
    "much-prayed-for",
    "much-surging",
@@ -2207,13 +2205,14 @@
    "of-the-fair-throne",
    "satisfying",
    "sea-purple",
-   "sweet-as-honey",
    "thick-and-woolly",
    "unbroken",
    "well-rounded",
    "white-armed",
    "with-lovely-tresses",
-   "with-wide-dancing-floors"
+   "with-wide-dancing-floors",
+   "famous",
+   "honey-sweet"
   ]
  },
  {
@@ -2230,9 +2229,9 @@
    "atrytone",
    "easily-known",
    "grassy",
-   "klytos",
    "of-the-fair-throne",
-   "sweet-as-honey"
+   "famous",
+   "honey-sweet"
   ]
  },
  {
@@ -2249,12 +2248,12 @@
    "easily-known",
    "fair-faced",
    "famous-for-ships",
-   "klytos",
    "much-prayed-for",
    "much-surging",
    "much-tried",
    "sea-purple",
-   "sweet-as-honey"
+   "famous",
+   "honey-sweet"
   ]
  },
  {
@@ -2292,9 +2291,9 @@
   "finding": "6.22: three readings of ναυσικλειτοῖο (one word; dative name Ναυσικλειτοῖ; ναυσὶ κλειτοῖο), the first preferred. 6.48: θρόνος = Dawn's chariot seat, 'for the goddess is not seated'. 6.53: the queen does not neglect her work though the state is luxurious; sea-purple wool suits a queen, as Helen's violet-dark wool; ἁλιπόρφυρα = θαλασσοβαφῆ. 6.58: κλυτὰ εἵματα 'not those of the moment but those by nature', compare φαεινὴν ἀμφὶ σελήνην.",
   "entryIds": [
    "famous-for-ships",
-   "klytos",
    "of-the-fair-throne",
-   "sea-purple"
+   "sea-purple",
+   "famous"
   ]
  },
  {
@@ -2355,8 +2354,8 @@
    "much-tried",
    "of-the-fair-throne",
    "sea-purple",
-   "sweet-as-honey",
-   "thick-and-woolly"
+   "thick-and-woolly",
+   "honey-sweet"
   ]
  },
  {

@@ -10,4 +10,4 @@ Book 6 has no form of μεγάθυμος. The great heart belongs to μεγαλ�
 
 {{quote:4d4a9638-ed42-58ab-b285-4db7f6f94a59}}
 
-In Book 6 Alcinous does not have the epithet when he is present. At 6.54–70 he speaks with his daughter as “father”, and at 6.12 he is introduced as the ruler “who knew counsels from the gods”. The epithet comes with his name only in the genitive, through his daughter and his house. Nausicaa adds to her own use the statement that “on him depend the power and the strength of the Phaeacians” (6.197).
+In Book 6 Alcinous does not have the epithet when he is present. At 6.54–70 he speaks with his daughter as “father”, and at 6.12 he is introduced as the ruler “who knew counsels from the gods”. The epithet comes with his name only in the genitive, through his daughter and his house. Nausicaa adds to her own use the statement that “on whom the power and the strength of the Phaeacians depend” (6.197).

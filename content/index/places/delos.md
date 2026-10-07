@@ -18,7 +18,7 @@ passages:
 
 ## Descriptions
 
-In Homer Delos appears only in Odysseus' speech to Nausicaa. He saw there, “beside the altar of Apollo, a young sapling of a palm tree springing up” (6.162–163; see [[palm-tree]] and [[altar]]).
+In Homer Delos appears only in Odysseus' speech to Nausicaa. He saw there, “beside the altar of Apollo, … a young sapling of a palm tree springing up” (6.162–163; see [[palm-tree]] and [[altar]]).
 
 {{quote:71f816d8-07ec-5099-929e-19dc77109d7a}}
 

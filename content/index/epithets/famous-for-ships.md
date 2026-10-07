@@ -21,4 +21,4 @@ A scholion on Od. 6.22 records three ways of reading the letters (mss. P, Q; Din
 
 In Homer the word occurs once, of Dymas, a Phaeacian whose daughter Athena impersonates (Od. 6.22; [[dymas-the-phaeacian]]). In the Homeric Hymn to Apollo it describes Euboea (*Hymn to Apollo* 31, 219; [[euboea]]).
 
-The Odyssey uses a close synonym, ναυσίκλυτος (from κλυτός, [[klytos]]), for the Phaeacians as a people (7.39, 8.191, 8.369, 13.166, 16.227) and once for the Phoenicians (15.415). See [[phaeacians]].
+The Odyssey uses a close synonym, ναυσίκλυτος (from κλυτός, [[famous]]), for the Phaeacians as a people (7.39, 8.191, 8.369, 13.166, 16.227) and once for the Phoenicians (15.415). See [[phaeacians]].

@@ -4,7 +4,7 @@ greek: ὅσσον τε γέγωνε βοήσας
 kind: formula
 work: homer.odyssey
 tags: [repetition]
-summary: The verse-end measure of distance “as far as a man can make himself heard when he shouts” (ὅσσον τε γέγωνε βοήσας). The Odyssey uses it four times, three of them at sea in Odysseus' own story, and once on land, for the distance from the Phaeacian city to Athena's grove (6.294).
+summary: The verse-end measure of distance “as far as a man can make himself heard when he shouts” (ὅσσον τε γέγωνε βοήσας). The Odyssey uses it four times, three of them at sea on Odysseus' voyages (once in the narrator's account of Book 5 and twice in his own tale), and once on land, for the distance from the Phaeacian city to Athena's grove (6.294).
 aliases: [within earshot, a shout's distance, hoss on te gegone boesas]
 grc: ["ὅσσον τε γέγωνε βοήσας"]
 en: [as a man can make himself heard when he shouts]
