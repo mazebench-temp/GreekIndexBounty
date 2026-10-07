@@ -187,9 +187,9 @@
   "lines": [
    49
   ],
-  "disposition": "expanded",
-  "entryId": "dream",
-  "reason": "Concordance error: the pattern ὄνειρον claims 6.49, where Nausicaa wonders at the dream Athena sent. This is not the personified Dream of Iliad 2. Add except for Odyssey 6.49 and move the form to onar."
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Disproven lead. The pattern ὄνειρον of the entry dream claimed 6.49, where Nausicaa wonders at the dream that Athena sent. The personified Dream of Iliad 2 does not occur in Book 6. The entry dream now has except \"Odyssey 6.49\", and onar holds the common noun (see the onar and dream-scene notes)."
  },
  {
   "title": "Odysseus",

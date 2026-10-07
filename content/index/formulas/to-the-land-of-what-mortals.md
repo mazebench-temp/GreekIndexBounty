@@ -4,7 +4,7 @@ greek: τέων αὖτε βροτῶν ἐς γαῖαν ἱκάνω;
 kind: formula
 work: homer.odyssey
 tags: [speech-formula, repetition, justice]
-summary: The castaway's question in the Odyssey. A traveler who arrives in an unknown land asks whether its people are “arrogant and savage and not just, or kind to strangers, with a god-fearing mind”. The lines measure a people by how it treats a stranger.
+summary: The castaway's question in the Odyssey. A traveler who arrives in an unknown land asks whether its people are “arrogant and savage and not just”, or whether they are “kind to strangers” and their “mind god-fearing” (6.120–121). The lines measure a people by how it treats a stranger.
 aliases: [castaway's question, philoxeinos, theoudēs, hybristai, agrioi, dikaioi, kind to strangers, god-fearing]
 grc: [τέων αὖτε βροτῶν ἐς γαῖαν ἱκάνω, ἄγριοι οὐδὲ δίκαιοι, νόος ἐστὶ θεουδής]
 en: [to the land of what mortals have I come, arrogant and savage and not just, is their mind god-fearing]

@@ -6,6 +6,8 @@ tags: [personification, divination, divine-will]
 summary: The “baneful Dream” (οὖλος ὄνειρος) that [[Zeus]] sends to [[Agamemnon]] in the likeness of [[Nestor]], with the false promise that he can take Troy. Its errand sets the whole of Book 2 in motion.
 aliases: [Oneiros, baneful Dream, the Dream]
 grc: [ὄνειρον, ὄνειρε, ὄνειρος]
+# At Odyssey 6.49 ὄνειρον is the common noun, the dream that Athena brought Nausicaa (see [[onar]]), not the god.
+except: ["Odyssey 6.49"]
 en: [dream]
 passages:
   - 2.1-40 | Zeus sends the Dream

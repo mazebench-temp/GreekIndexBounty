@@ -19,7 +19,7 @@ The narrator gives the reason. She “stood in awe of her father's brother” Po
 
 1. Odysseus hears the girls' cry and wonders whether it comes from nymphs or from human beings (6.122–126; see [[to-the-land-of-what-mortals]] and [[nymphs]]).
 2. He opens his supplication with the question “are you some goddess, or a mortal?”, and likens Nausicaa to Artemis (6.149–152; see [[god-or-mortal]]).
-3. After Athena has made him beautiful, Nausicaa says that he who seemed unsightly “now is like the gods who hold the wide sky” (6.243; see [[divine-beautification]]).
+3. After Athena has made him beautiful, Nausicaa says that he seemed unsightly before, “but now he is like the gods who hold the wide sky” (6.243; see [[divine-beautification]]).
 4. Her imagined townsman suggests that the stranger may be a god come down from the sky in answer to her prayers (6.280–281).
 
 The question is answered each time in favor of the mortal, but the likeness is real: the goddess has made it. In Book 7 Alcinous gives the Phaeacian view, that the gods appear openly to his people at their sacrifices and on the road, “since we are near to them” (7.201–206).

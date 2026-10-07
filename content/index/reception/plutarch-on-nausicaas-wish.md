@@ -24,7 +24,7 @@ Plutarch's essay *How the Young Man Should Study Poetry* teaches how to read the
 
 Plutarch quotes 6.244–245, with ἐμεῦ for ἐμοί. His judgment is conditional. He does not condemn the girl. He gives two readings of the same words and leaves the choice to the reader. His next examples follow the same method: Odysseus' pleasure when Penelope draws gifts from the suitors, his counting of the Phaeacians' gifts on the shore of Ithaca, and his sleep when the Phaeacians set him ashore (Odyssey 18.281–283; 13.215–216; 13.116–119).
 
-The second reading has support in the text. Nausicaa speaks after Odysseus' long speech of supplication, in which he praised her, blessed her future husband and wished her “a husband and a house, and like-mindedness” (6.149–185; see [[homophrosyne]]). The words that would make her admire his “good sense” have just been spoken. Plutarch's “sailor or dancer” fits the Phaeacians as Alcinous will describe them: “best with ships”, lovers of the feast, the lyre and dances (8.246–253). These connections are our observations.
+The second reading has support in the text. Nausicaa speaks after Odysseus' long speech of supplication, in which he praised her, blessed her future husband and wished her “a husband and a home” and “like-mindedness” (6.149–185; see [[homophrosyne]]). The words that would make her admire his “good sense” have just been spoken. Plutarch's “sailor or dancer” fits the Phaeacians as Alcinous will describe them: “best with ships”, lovers of the feast, the lyre and dances (8.246–253). These connections are our observations.
 
 ## Ephorus in the scholia
 

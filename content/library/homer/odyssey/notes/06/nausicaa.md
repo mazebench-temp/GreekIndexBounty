@@ -27,7 +27,7 @@ Her clothes lie uncared for, and her marriage is near. A good report of a girl r
 
 **The ball.** As they are about to go home, Athena makes her next move: Odysseus must wake and see the girl, who will lead him to the city (6.110–114). The princess throws the ball to a handmaid, misses, and the ball falls into a deep eddy; the girls shout, and Odysseus wakes (6.115–117). The poem calls her βασίλεια, “princess”, at this moment (6.115; see [[basileus]]). Merry and Riddell read ἔπειτα, “so then”, as the first step in carrying out Athena's plan (on 6.115, p. 262).
 
-**She stands.** The man who comes out of the bushes is naked but for a leafy branch, “terrible to them, marred by the brine”, and the narrator has just compared him to a hungry mountain lion going after the sheep (6.127–137; see [[the-lion-and-the-girls]]). The handmaids scatter along the beach.
+**She stands.** The man who comes out of the bushes is naked but for a leafy branch. “Terrible he appeared to them, marred by the brine” (6.137), and the narrator has just compared him to a hungry mountain lion going after the sheep (6.127–137; see [[the-lion-and-the-girls]]). The handmaids scatter along the beach.
 
 {{quote:ba260eff-d6de-56b2-8327-54d73f6d7f97}}
 

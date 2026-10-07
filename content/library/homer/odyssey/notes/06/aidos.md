@@ -1,5 +1,5 @@
 ---
-summary: Three uses of the verb, none of the noun. Nausicaa “felt shame to name the marriage” to her father; Odysseus “feels shame to strip naked” before the girls; and Athena does not appear openly to Odysseus because she “stood in awe of her father's brother” Poseidon, where one ancient copy read ἅζετο.
+summary: Three uses of the verb, none of the noun. Nausicaa “felt shame to name the marriage” to her father; Odysseus says “I feel shame / to strip naked” before the girls; and Athena does not appear openly to Odysseus because she “stood in awe of her father's brother” Poseidon, where one ancient copy read ἅζετο.
 grc: [αἴδετο]
 en: [felt shame, feel shame, stood in awe]
 passages:

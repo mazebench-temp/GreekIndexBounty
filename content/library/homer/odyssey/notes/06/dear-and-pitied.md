@@ -1,5 +1,5 @@
 ---
-summary: The last request of Book 6. In Athena's grove Odysseus asks the goddess to let him come to the Phaeacians “dear and pitied” (6.327), with Priam's words before he went to Achilles. The two words gather what he has asked of Nausicaa and what she has told him to win from her mother.
+summary: The last request of Book 6. In Athena's grove Odysseus asks the goddess to let him come to the Phaeacians “as one dear to them and pitied” (6.327), with Priam's words before he went to Achilles. The two words gather what he has asked of Nausicaa and what she has told him to win from her mother.
 refs: [6.327]
 ---
 

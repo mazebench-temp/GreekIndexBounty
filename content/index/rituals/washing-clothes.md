@@ -20,7 +20,7 @@ Clothes were washed in the open, at pits or troughs beside running water. The wa
 
 The work belongs to women. In the Iliad the washing troughs of Troy stand by the two springs of the Scamander, “broad, fine, made of stone”, where the wives and daughters of the Trojans washed their shining clothes “formerly, in peace, before the sons of the Achaeans came” (Iliad 22.153–156). In the Odyssey the queen's daughter washes with her handmaids, a Phoenician woman of the household is washing by a ship when one of the Phoenician traders seduces her (15.417–421), and Penelope, in the suitor Amphimedon's account, washes the great robe that she has woven before she shows it (24.147–148).
 
-Clean clothes mark a household's standing. Nausicaa's father must sit in council “with clean clothes on his skin” (6.61), her brothers want “freshly washed” clothes for the dance (6.64), and a well-washed cloak (φᾶρος ἐϋπλυνές) is a fitting gift for a guest (8.392, 8.425, 13.67). The opposite is the beggar's dirt. ῥυπόω, “be dirty”, describes the rags of the disguised Odysseus (13.435) and his own words about them (19.72, 23.115).
+Clean clothes mark a household's standing. Nausicaa's father must sit in council “with clean clothes on your skin”, as she tells him (6.61), her brothers want “freshly washed” clothes for the dance (6.64), and a well-washed cloak (φᾶρος ἐϋπλυνές) is a fitting gift for a guest (8.392, 8.425, 13.67). The opposite is the beggar's dirt. ῥυπόω, “be dirty”, describes the rags of the disguised Odysseus (13.435) and his own words about them (19.72, 23.115).
 
 ## Words
 

@@ -1,5 +1,5 @@
 ---
-summary: The first beggar of the Odyssey is a principle, not a person. Nausicaa tells her handmaids that “strangers and beggars are all from Zeus”, and the naked castaway before her fits the description.
+summary: The first beggar of the Odyssey is a principle, not a person. Nausicaa tells her handmaids that “from Zeus are all / strangers and beggars”, and the naked castaway before her fits the description.
 refs: [6.206]
 passages:
   - 6.206-208 | Strangers and beggars are from Zeus

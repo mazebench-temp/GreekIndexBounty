@@ -17,7 +17,7 @@ passages:
 
 {{quote:2ac03d54-1715-5acf-a800-bb1aa9afc461}}
 
-**The vehicle.** A lion “bred in the mountains, trusting in his courage” (ὀρεσίτροφος ἀλκὶ πεποιθώς, 6.130; see [[lion]] and [[mountain-bred]]) goes on through rain and wind (ὑόμενος καὶ ἀήμενος, 6.131), and his eyes blaze (6.131–132). He goes among cattle or sheep or after wild deer, and “his belly bids him / make an attempt on the sheep, and go even into the close-built fold” (κέλεται δέ ἑ γαστὴρ / μήλων πειρήσοντα καὶ ἐς πυκινὸν δόμον ἐλθεῖν, 6.133–134; see [[gaster]], [[cattle]], [[sheep]] and [[deer]]).
+**The vehicle.** A “mountain-bred lion, trusting in his courage” (ὀρεσίτροφος ἀλκὶ πεποιθώς, 6.130; see [[lion]] and [[mountain-bred]]) goes on through rain and wind (ὑόμενος καὶ ἀήμενος, 6.131), and his eyes blaze (6.131–132). He goes among cattle or sheep or after wild deer, and “his belly bids him / make an attempt on the sheep, and go even into the close-built fold” (κέλεται δέ ἑ γαστὴρ / μήλων πειρήσοντα καὶ ἐς πυκινὸν δόμον ἐλθεῖν, 6.133–134; see [[gaster]], [[cattle]], [[sheep]] and [[deer]]).
 
 **The tenor.** “So Odysseus was about to go among the girls with lovely tresses / and mingle with them, naked though he was; for need had come upon him” (χρειὼ γὰρ ἵκανε, 6.135–136; see [[odysseus]], [[nakedness]] and [[with-lovely-tresses]]). The girls are the flock, and the man is the beast that must break into it.
 
@@ -25,7 +25,7 @@ passages:
 
 - **Weather.** The lion is “rained upon and blown by the wind”. Odysseus has come out of two days and nights of storm and has slept the night under bushes on the shore; he is “marred by the brine” (6.137; see [[seat-firm-forever]] for the storm).
 - **Need.** The lion is driven by his belly; the man by χρειώ, “need”, which is hunger and nakedness together. Merry and Riddell put the main point here: both are pushed by hunger into an act of unusual boldness (note on 6.135, p. 264). A scholion says the image is “for endurance”: every necessity compelled Odysseus to come out, as it compels the lion (schol. P.Q.T. on 6.130, Dindorf p. 305).
-- **The look.** The lion's eyes blaze, and Odysseus “appeared terrible to them” (σμερδαλέος, 6.137). The girls scatter “this way and that” as a flock scatters before a beast (6.138).
+- **The look.** The lion's eyes blaze, and of Odysseus the narrator says, “Terrible he appeared to them” (σμερδαλέος, 6.137). The girls scatter “this way and that” as a flock scatters before a beast (6.138).
 
 The likeness has a limit that the narrative makes plain. The lion goes in to seize; Odysseus stops at a distance and speaks “a soothing and shrewd word” (6.141–148; see [[decision-scene]] and [[supplication-type-scene]]).
 

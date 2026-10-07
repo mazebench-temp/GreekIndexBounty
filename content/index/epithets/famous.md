@@ -26,7 +26,7 @@ After Aphrodite has carried Paris off, Menelaus ranges the field looking for him
 
 LSJ arranges the uses of κλυτός in three groups, and Homer has all three.
 
-- **Gods and persons.** κλυτὸς ἐννοσίγαιος, “the famous earth-shaker”, is Poseidon (Il. 9.362; Od. 5.423, 6.326; [[shaker-of-the-earth]]). In the Odyssey πατέρα κλυτόν, “his famous father”, is Agamemnon, whom Aegisthus killed (Od. 1.300, 3.198, 3.308).
+- **Gods and persons.** κλυτὸς ἐννοσίγαιος, “the famous shaker of the earth”, is Poseidon (Il. 9.362; Od. 5.423, 6.326; [[shaker-of-the-earth]]). In the Odyssey πατέρα κλυτόν, “his famous father”, is Agamemnon, whom Aegisthus killed (Od. 1.300, 3.198, 3.308).
 - **Places and buildings.** Houses (κλυτὰ δώματα, Il. 2.854; Od. 10.60), a harbor (Od. 10.87, 15.472), and Athena's grove on Scheria (Od. 6.321).
 - **Things made with skill.** Armor (κλυτὰ τεύχεα, Il. 5.435; Od. 12.228), clothes (Od. 6.58), and the works that Athena teaches women to make (κλυτὰ ἔργα, Od. 20.72).
 

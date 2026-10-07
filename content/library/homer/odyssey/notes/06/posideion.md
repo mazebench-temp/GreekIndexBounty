@@ -6,4 +6,4 @@ Nausicaa describes the city before she tells Odysseus how to approach it (6.262�
 
 So the god of the sea has his shrine in a place of ships, among men who live by the sea. Book 7 adds that the founder Nausithous was the son of Poseidon (7.56–62; see [[nausithous]]). Odysseus does not yet know this, and in his prayer at the end of the book he names Poseidon as the god who wrecked him (6.326; see [[poseidon]]).
 
-Nausicaa's way home runs through this crowded city of seamen. She fears what “the overbearing men among the people” would say if they saw her with a stranger (6.273–285; see [[the-gossip-lines-275-288]]). For this reason she sends Odysseus to wait in the grove of Athena outside the city (6.291–296; see [[grove-of-athena]]).
+Nausicaa's way home runs through this crowded city of seamen. She fears what “very overbearing men among the people” would say if they saw her with a stranger (6.273–285; see [[the-gossip-lines-275-288]]). For this reason she sends Odysseus to wait in the grove of Athena outside the city (6.291–296; see [[grove-of-athena]]).

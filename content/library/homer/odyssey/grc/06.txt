@@ -1,7 +1,7 @@
 # Homer, Odyssey, Book 6 (Ὀδυσσείας ζ)
 # Greek text: A. T. Murray, Homer: The Odyssey (Loeb Classical Library, 1919).
 # Digitized by the Perseus Digital Library, canonical-greekLit tlg0012.tlg002.perseus-grc2 @ ceeb60d9 (CC BY-SA 4.0). One verse per row: <line>	<text>.
-# Editorial quotation marks “ ” (speech) and ‘ ’ (speech within speech) are added here to mark the speech boundaries in structure/06.json; Murray’s Perseus text has none.
+# Editorial quotation marks “ ” (speech) and ‘ ’ (speech within speech) are added here. They follow the 12 <q> elements of the Perseus TEI, which prints no quotation marks, and match the speeches in structure/06.json.
 1	ὣς ὁ μὲν ἔνθα καθεῦδε πολύτλας δῖος Ὀδυσσεὺς
 2	ὕπνῳ καὶ καμάτῳ ἀρημένος· αὐτὰρ Ἀθήνη
 3	βῆ ῥʼ ἐς Φαιήκων ἀνδρῶν δῆμόν τε πόλιν τε,

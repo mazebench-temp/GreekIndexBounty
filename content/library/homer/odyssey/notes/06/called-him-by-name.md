@@ -1,5 +1,5 @@
 ---
-summary: Nausicaa “spoke to him, and addressed him” to Odysseus when she was ready to leave the river (6.254). She does not know his name and calls him ξεῖνε, “stranger”, so here the formula means “addressed him”.
+summary: When she was ready to leave the river, Nausicaa urged Odysseus on, “and spoke to him, and addressed him” (6.254). She does not know his name and calls him ξεῖνε, “stranger”, so here the formula means “addressed him”.
 grc: ["ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν"]
 ---
 

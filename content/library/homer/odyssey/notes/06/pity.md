@@ -1,5 +1,5 @@
 ---
-summary: Odysseus asks for pity twice in Book 6, once from Nausicaa (“queen, have pity”) and once from Athena, whom he asks to let him reach the Phaeacians “dear and pitied”. Nausicaa answers the first request with acts, without the word.
+summary: Odysseus asks for pity twice in Book 6, once from Nausicaa (“queen, have pity”) and once from Athena, whom he asks to let him reach the Phaeacians “as one dear to them and pitied”. Nausicaa answers the first request with acts, without the word.
 grc: [ἐλεεινόν]
 en: [have pity, pitied]
 passages:

@@ -16,7 +16,7 @@ LSJ glosses πτωχός “beggar” and cites 6.208 first. The verb πτωχε
 
 The noun and the verb occur on 27 lines of Homer, all in the Odyssey. The first is in Book 6. All the others are in Books 14–24, where Odysseus is in disguise:
 
-- **The pair stranger and beggar.** Nausicaa says that “strangers and beggars are all from Zeus” (ξεῖνοί τε πτωχοί τε, 6.207–208). Eumaeus repeats the verse to the disguised Odysseus (14.57–58). The suitors call Odysseus “a stranger and a beggar” in the scene of the bow (21.292).
+- **The pair stranger and beggar.** Nausicaa says that “from Zeus are all / strangers and beggars” (ξεῖνοί τε πτωχοί τε, 6.207–208). Eumaeus repeats the verse to the disguised Odysseus (14.57–58). The suitors call Odysseus “a stranger and a beggar” in the scene of the bow (21.292).
 - **The disguise.** A formula describes it: “like a wretched beggar and an old man” (πτωχῷ λευγαλέῳ ἐναλίγκιον ἠδὲ γέροντι). Odysseus uses it of his plan (16.273), the narrator uses it as he walks to the city (17.202) and as he enters his hall (17.337), and the shade of Amphimedon uses it in his story (24.157).
 - **Begging in the hall.** Odysseus begs from each suitor “as if he had long been a beggar” (17.366). Antinous calls beggars “painful, the spoilers of feasts” (17.377).
 - **The gods of beggars.** Struck by Antinous, Odysseus prays: “if there are gods and Furies of beggars” (17.475).

@@ -1,5 +1,5 @@
 ---
-summary: Nausicaa asks for a “high wagon with good wheels” (6.58), and her father grants it in the same words (6.70). In the Iliad εὔκυκλος describes shields; these are its only Odyssey uses, and LSJ renders it “well-wheeled” here.
+summary: Nausicaa asks for “a carriage, / high, with good wheels” (6.57–58), and her father grants it in the same words (6.70). In the Iliad εὔκυκλος describes shields; these are its only Odyssey uses, and LSJ renders it “well-wheeled” here.
 grc: [ἐΰκυκλον]
 en: [with good wheels]
 ---

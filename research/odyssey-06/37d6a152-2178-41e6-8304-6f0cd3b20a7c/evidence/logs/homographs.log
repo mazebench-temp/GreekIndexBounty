@@ -1,0 +1,11 @@
+$ node --preserve-symlinks-main scripts/homographs.mjs 6
+content/index/people/hector.md: Ἕκτορ* is Ἕκτωρ (×99), but also
+   Ἑκτορίδης: 6.401 Ἑκτορίδην
+content/index/rituals/lament.md: γόον is γόος (×2), but also
+   γοάω: 6.500 γόον
+content/index/rituals/prayer.md: εὐχ* is εὔχομαι (×25), but also
+   εὐχετάομαι: 6.268 εὐχετάασθαι, 8.347 εὐχετόωντο, 11.761 εὐχετόωντο
+content/index/words/euchomai.md: εὐχ* is εὔχομαι (×47), but also
+   εὐχετάομαι: 6.268 εὐχετάασθαι, 8.347 εὐχετόωντο, 11.761 εὐχετόωντο, 12.391 εὐχετόῳτʼ
+4 patterns catching more than one lemma.
+exit code: 0
