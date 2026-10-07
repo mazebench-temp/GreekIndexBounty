@@ -7,7 +7,7 @@ tags: [supplication, exchange]
 summary: A beggar, a man without house or goods who lives on what others give him. The word does not occur in the Iliad. In the Odyssey the beggar stands beside the stranger under the protection of Zeus, and Odysseus comes home in a beggar's likeness.
 aliases: [ptōchos, ptochos, ptōcheuō, beggar, begging, beggars]
 grc: [πτωχ*]
-en: [beggars, beggar]
+en: [beggars]
 ---
 
 ## Meaning

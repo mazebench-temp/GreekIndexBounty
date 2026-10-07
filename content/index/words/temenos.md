@@ -6,8 +6,8 @@ work: homer.odyssey
 tags: [kingship, honor, sanctuary]
 summary: A piece of land “cut off” from the common land and given to a king, a hero or a god. For a man it is an estate held as a mark of honor; for a god it is a sacred precinct with an altar.
 aliases: [temenos, temenē, domain, estate, royal estate, precinct, sacred precinct]
-grc: [τέμενος, τεμένεα]
-en: [domain, estate, precinct]
+grc: [τέμενος]
+en: [domain, precinct]
 ---
 
 ## Meaning

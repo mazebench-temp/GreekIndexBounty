@@ -6,7 +6,7 @@ work: homer.odyssey
 tags: [body]
 summary: The belly, as a part of the body and as the seat of hunger. In the Odyssey the hungry belly is a force that drives men to danger, to begging and to war, and Odysseus, the castaway and the beggar, speaks of it more than anyone.
 aliases: [gastēr, gaster, belly, stomach, hunger, paunch]
-grc: [γαστ*, "!γάστρην"]
+grc: [γαστ*]
 en: [belly]
 ---
 

@@ -131,7 +131,7 @@ that English stands.
 | τὸν δʼ αὖ … ἀντίον ηὔδα | Then … answered him face to face | 186 | 4.265 |
 | δή ῥα τότʼ … μετηύδα | Then … spoke among | 217, 238 | 2.109 (μετηύδα) |
 | μάλα μὲν κλύον ἠδʼ ἐπίθοντο | they listened closely to her and obeyed | 247 | 7.379 |
-| ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν | and spoke to him, and called him by name | 254 | 1.361, 7.108 |
+| ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν | and spoke to him, and addressed him | 254 | Iliad 1.361, 7.108 have "called him by name" |
 | αὐτίκʼ ἔπειτα | At once | 323 | 2.322 |
 | ὥρμαινε κατὰ φρένα καὶ κατὰ θυμόν | pondered in his mind and in his heart | 118 | 1.193 |
 | ὤ μοι ἐγώ | Ah me | 119 | 11.404 |
@@ -241,7 +241,7 @@ These formulas have no example in the Iliad books of this library. Later books k
 - **6.193**: ἀντιάσαντα has no object. Rendered "who has met with people", the smallest addition that makes the English complete.
 - **6.201**: διερός, "living" (the scholia, ζῶν), "wet" or "swift". Rendered "no living mortal".
 - **6.207–208**: πρὸς Διός, "from Zeus" or "under the protection of Zeus". Rendered "from Zeus". δόσις δʼ ὀλίγη τε φίλη τε has no verb: "and a small gift is a dear one".
-- **6.254**: ἔκ τʼ ὀνόμαζεν, although Nausicaa does not know his name and calls him "stranger". The formula keeps the Iliad's English (1.361, 7.108).
+- **6.254**: ἔκ τʼ ὀνόμαζεν. Nausicaa does not know his name and calls him "stranger" (255), so the formula is rendered "addressed him" here. The Iliad's "called him by name" (1.361, 7.108) fits only where a name follows. This is a deliberate exception to the formula rule.
 - **6.262–267**: the ἐπήν clause has no main clause; Nausicaa turns to the gossip at 6.273. The description runs on with semicolons. πύργος is the towered wall around the city, "rampart", as Il. 12.333.
 - **6.265**: ἐπίστιον, a ship-shed, a slip, or a station for each ship. Rendered "ship-shed", the sense in the scholia.
 - **6.266–267**: ἀγορή is the place, "place of assembly"; Ποσιδήιον is a noun here, "shrine of Poseidon" (an adjective at Il. 2.506). ῥυτοῖσιν λάεσσι κατωρυχέεσσι is "hauled stones bedded deep in the earth".

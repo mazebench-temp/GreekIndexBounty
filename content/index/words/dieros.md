@@ -6,7 +6,7 @@ work: homer.odyssey
 tags: [rare-word, scholarship]
 summary: A rare and disputed adjective, twice in Homer. Ancient and modern scholars explain it as “living, active”, as “swift”, or as “to be feared”, and one ancient critic changed it to δυερός, “wretched”. After Homer it means “wet, liquid”.
 aliases: [dieros, diēros, dyeros, living, alive, nimble, wet]
-grc: [διερός, διερῷ]
+grc: [διερός]
 en: [living]
 ---
 

@@ -6,7 +6,7 @@ work: homer.odyssey
 tags: [speech, honor, shame]
 summary: What people say about someone, the talk of the people that makes or breaks a reputation. Homer uses two nouns for it, φῆμις and φάτις, and the verb μωμεύω “blame” for its harsh side.
 aliases: [phēmis, phemis, phatis, phātis, mōmeuō, momeuo, talk, report, rumor, gossip, reputation]
-grc: [φῆμιν, φῆμις, φάτις, φάτιν, μωμεύῃ]
+grc: [φῆμιν, φάτις, φάτιν, μωμεύῃ]
 en: [report, talk, blame]
 ---
 
