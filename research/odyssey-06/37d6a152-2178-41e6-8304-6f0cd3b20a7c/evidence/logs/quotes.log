@@ -1,0 +1,4 @@
+$ node --preserve-symlinks-main /Users/raunaqsharma/greekidx/scripts/quotes.mjs
+# run 2026-10-07T06:04:55Z through /Users/raunaqsharma/greekidx (a symlink to the repo; the repo path has spaces, which disables the scripts' main-module check)
+Registered 0 quotes in 0 files.
+# exit 0

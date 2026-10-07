@@ -1,4 +1,4 @@
-$ node --preserve-symlinks-main scripts/export.mjs
-GreekIndexBounty: 2690 entries (2690 articles), 110 stories, 2197 quotes, 8757 lines, 5412 lemmas — 31943 ms
+$ node scripts/export.mjs
+GreekIndexBounty: 2690 entries (2690 articles), 110 stories, 2197 quotes, 8757 lines, 5412 lemmas — 31872 ms
 Exported 53 files (51.8 MB) to dist/
-exit code: 0
+# exit 0

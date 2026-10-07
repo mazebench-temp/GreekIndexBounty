@@ -1,0 +1,595 @@
+{
+ "lead": {
+  "inputTokens": 426,
+  "outputTokens": 149497,
+  "cacheReadTokens": 55646793,
+  "cacheWriteTokens": 1008955,
+  "models": [
+   "<synthetic>",
+   "claude-opus-5-5"
+  ],
+  "firstAt": "2026-10-06T14:01:36.708000+00:00",
+  "lastAt": "2026-10-07T06:09:06.426000+00:00",
+  "spanSeconds": 58049,
+  "apiMessages": 232
+ },
+ "agents": {
+  "a045daa56c242740d": {
+   "inputTokens": 42,
+   "outputTokens": 3786,
+   "cacheReadTokens": 2014352,
+   "cacheWriteTokens": 122881,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T17:18:34.134000+00:00",
+   "lastAt": "2026-10-06T17:21:06.227000+00:00",
+   "spanSeconds": 152,
+   "apiMessages": 22,
+   "role": "writer g6 rituals/themes/sayings"
+  },
+  "a0af47d9ac251c03a": {
+   "inputTokens": 550,
+   "outputTokens": 70621,
+   "cacheReadTokens": 83475151,
+   "cacheWriteTokens": 485105,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T03:36:38.268000+00:00",
+   "lastAt": "2026-10-07T04:22:18.328000+00:00",
+   "spanSeconds": 2740,
+   "apiMessages": 275,
+   "role": "writer g8"
+  },
+  "a118394dec06785fa": {
+   "inputTokens": 248,
+   "outputTokens": 30027,
+   "cacheReadTokens": 26925326,
+   "cacheWriteTokens": 294019,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:07:42.414000+00:00",
+   "lastAt": "2026-10-06T14:33:29.979000+00:00",
+   "spanSeconds": 1547,
+   "apiMessages": 125,
+   "role": "source/names/candidates research"
+  },
+  "a1c8564f347a531d1": {
+   "inputTokens": 58,
+   "outputTokens": 5653,
+   "cacheReadTokens": 3097132,
+   "cacheWriteTokens": 139299,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T17:18:38.936000+00:00",
+   "lastAt": "2026-10-06T17:22:14.468000+00:00",
+   "spanSeconds": 215,
+   "apiMessages": 30,
+   "role": "writer g7 formulas/similes"
+  },
+  "a2042e496f7697b7b": {
+   "inputTokens": 332,
+   "outputTokens": 35601,
+   "cacheReadTokens": 43690305,
+   "cacheWriteTokens": 371945,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T03:36:29.395000+00:00",
+   "lastAt": "2026-10-07T04:14:07.329000+00:00",
+   "spanSeconds": 2257,
+   "apiMessages": 166,
+   "role": "writer g6"
+  },
+  "a21450ec6dc3123ef": {
+   "inputTokens": 30,
+   "outputTokens": 28005,
+   "cacheReadTokens": 1351598,
+   "cacheWriteTokens": 108481,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:08:00.787000+00:00",
+   "lastAt": "2026-10-06T14:15:42.073000+00:00",
+   "spanSeconds": 461,
+   "apiMessages": 15,
+   "role": "lexicon 56-110"
+  },
+  "a281e1c435ac1887e": {
+   "inputTokens": 48,
+   "outputTokens": 32123,
+   "cacheReadTokens": 2464505,
+   "cacheWriteTokens": 178128,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:07:09.907000+00:00",
+   "lastAt": "2026-10-06T14:17:46.824000+00:00",
+   "spanSeconds": 636,
+   "apiMessages": 24,
+   "role": "translator 1-165"
+  },
+  "a2a8d1b2c228d6130": {
+   "inputTokens": 62,
+   "outputTokens": 8329,
+   "cacheReadTokens": 3358230,
+   "cacheWriteTokens": 133413,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T17:18:21.623000+00:00",
+   "lastAt": "2026-10-06T17:21:11.056000+00:00",
+   "spanSeconds": 169,
+   "apiMessages": 32,
+   "role": "writer g3 epithets"
+  },
+  "a2d1e673f516daf3a": {
+   "inputTokens": 34,
+   "outputTokens": 10925,
+   "cacheReadTokens": 1914355,
+   "cacheWriteTokens": 149987,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:18:29.756000+00:00",
+   "lastAt": "2026-10-06T14:22:52.971000+00:00",
+   "spanSeconds": 263,
+   "apiMessages": 18,
+   "role": "translation conventions + consistency check"
+  },
+  "a308d99898948a36b": {
+   "inputTokens": 32,
+   "outputTokens": 2427,
+   "cacheReadTokens": 1179550,
+   "cacheWriteTokens": 69940,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:18:20.738000+00:00",
+   "lastAt": "2026-10-06T14:22:01.755000+00:00",
+   "spanSeconds": 221,
+   "apiMessages": 16,
+   "role": "structure (scenes/speeches/days)"
+  },
+  "a328d705968190ed3": {
+   "inputTokens": 236,
+   "outputTokens": 30238,
+   "cacheReadTokens": 25082863,
+   "cacheWriteTokens": 278211,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T05:36:06.593000+00:00",
+   "lastAt": "2026-10-07T06:03:57.422000+00:00",
+   "spanSeconds": 1670,
+   "apiMessages": 118,
+   "role": "audit: integration (independent)"
+  },
+  "a3526d036cc3cdf66": {
+   "inputTokens": 338,
+   "outputTokens": 42496,
+   "cacheReadTokens": 67973032,
+   "cacheWriteTokens": 634444,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T05:02:44.306000+00:00",
+   "lastAt": "2026-10-07T05:35:38.488000+00:00",
+   "spanSeconds": 1974,
+   "apiMessages": 169,
+   "role": "audit: sources (independent)"
+  },
+  "a36d563d0b14916ac": {
+   "inputTokens": 376,
+   "outputTokens": 82333,
+   "cacheReadTokens": 52811279,
+   "cacheWriteTokens": 420116,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T04:26:29.317000+00:00",
+   "lastAt": "2026-10-07T05:01:39.753000+00:00",
+   "spanSeconds": 2110,
+   "apiMessages": 188,
+   "role": "audit: index (independent)"
+  },
+  "a3948816f31c7e8e9": {
+   "inputTokens": 262,
+   "outputTokens": 33397,
+   "cacheReadTokens": 27749776,
+   "cacheWriteTokens": 340669,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T16:52:46.292000+00:00",
+   "lastAt": "2026-10-06T17:19:04.935000+00:00",
+   "spanSeconds": 1578,
+   "apiMessages": 131,
+   "role": "source research (retry part 2)"
+  },
+  "a4c6afe6b1e56723f": {
+   "inputTokens": 44,
+   "outputTokens": 25309,
+   "cacheReadTokens": 2307696,
+   "cacheWriteTokens": 104892,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T04:26:08.455000+00:00",
+   "lastAt": "2026-10-07T04:32:01.636000+00:00",
+   "spanSeconds": 353,
+   "apiMessages": 22,
+   "role": "audit: translation (independent)"
+  },
+  "a51cac292044e6c6c": {
+   "inputTokens": 36,
+   "outputTokens": 3506,
+   "cacheReadTokens": 1724089,
+   "cacheWriteTokens": 138105,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:07:19.467000+00:00",
+   "lastAt": "2026-10-06T14:17:05.778000+00:00",
+   "spanSeconds": 586,
+   "apiMessages": 18,
+   "role": "translator 166-331"
+  },
+  "a52c43310e993f005": {
+   "inputTokens": 236,
+   "outputTokens": 38159,
+   "cacheReadTokens": 30152472,
+   "cacheWriteTokens": 350792,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T21:52:16.823000+00:00",
+   "lastAt": "2026-10-06T22:14:14.674000+00:00",
+   "spanSeconds": 1317,
+   "apiMessages": 119,
+   "role": "writer g7 (retry)"
+  },
+  "a543469aee7fa0b2e": {
+   "inputTokens": 28,
+   "outputTokens": 27354,
+   "cacheReadTokens": 1190878,
+   "cacheWriteTokens": 107504,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:08:07.541000+00:00",
+   "lastAt": "2026-10-06T14:15:28.761000+00:00",
+   "spanSeconds": 441,
+   "apiMessages": 14,
+   "role": "lexicon 111-165"
+  },
+  "a56699ef54263f9d9": {
+   "inputTokens": 52,
+   "outputTokens": 7930,
+   "cacheReadTokens": 2723856,
+   "cacheWriteTokens": 126269,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T17:18:26.267000+00:00",
+   "lastAt": "2026-10-06T17:22:24.987000+00:00",
+   "spanSeconds": 238,
+   "apiMessages": 27,
+   "role": "writer g4 terms"
+  },
+  "a6235b4a3cd752b63": {
+   "inputTokens": 56,
+   "outputTokens": 4893,
+   "cacheReadTokens": 2896843,
+   "cacheWriteTokens": 118387,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T17:18:16.568000+00:00",
+   "lastAt": "2026-10-06T17:21:16.369000+00:00",
+   "spanSeconds": 179,
+   "apiMessages": 29,
+   "role": "writer g2 gods/places"
+  },
+  "a6919fc34947d911a": {
+   "inputTokens": 56,
+   "outputTokens": 25746,
+   "cacheReadTokens": 3951740,
+   "cacheWriteTokens": 172076,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T16:52:53.312000+00:00",
+   "lastAt": "2026-10-06T17:02:55.434000+00:00",
+   "spanSeconds": 602,
+   "apiMessages": 28,
+   "role": "translation conventions (retry)"
+  },
+  "a69cc56ea20d14868": {
+   "inputTokens": 32,
+   "outputTokens": 22513,
+   "cacheReadTokens": 1490993,
+   "cacheWriteTokens": 113149,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:08:20.963000+00:00",
+   "lastAt": "2026-10-06T14:15:25.249000+00:00",
+   "spanSeconds": 424,
+   "apiMessages": 16,
+   "role": "lexicon 221-275"
+  },
+  "a7e2e0920ac467669": {
+   "inputTokens": 232,
+   "outputTokens": 30724,
+   "cacheReadTokens": 20516708,
+   "cacheWriteTokens": 250723,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T02:51:44.699000+00:00",
+   "lastAt": "2026-10-07T03:11:27.128000+00:00",
+   "spanSeconds": 1182,
+   "apiMessages": 116,
+   "role": "writer g2 (resume 3)"
+  },
+  "a7f4aa7ccec53988f": {
+   "inputTokens": 108,
+   "outputTokens": 11863,
+   "cacheReadTokens": 10076236,
+   "cacheWriteTokens": 595164,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T16:52:31.824000+00:00",
+   "lastAt": "2026-10-06T17:16:46.169000+00:00",
+   "spanSeconds": 1454,
+   "apiMessages": 54,
+   "role": "candidate discovery (retry part 1)"
+  },
+  "a8118a823f0b91a55": {
+   "inputTokens": 268,
+   "outputTokens": 37391,
+   "cacheReadTokens": 29883882,
+   "cacheWriteTokens": 319259,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T21:52:08.038000+00:00",
+   "lastAt": "2026-10-06T22:14:24.822000+00:00",
+   "spanSeconds": 1336,
+   "apiMessages": 135,
+   "role": "writer g2 (retry)"
+  },
+  "a96be354e03adff5a": {
+   "inputTokens": 288,
+   "outputTokens": 37076,
+   "cacheReadTokens": 32599356,
+   "cacheWriteTokens": 348978,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T02:51:39.956000+00:00",
+   "lastAt": "2026-10-07T03:15:00.142000+00:00",
+   "spanSeconds": 1400,
+   "apiMessages": 145,
+   "role": "writer g1 (resume 3)"
+  },
+  "aa72c721a553d86a3": {
+   "inputTokens": 202,
+   "outputTokens": 27340,
+   "cacheReadTokens": 21663808,
+   "cacheWriteTokens": 334079,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T21:52:03.238000+00:00",
+   "lastAt": "2026-10-06T22:14:14.721000+00:00",
+   "spanSeconds": 1331,
+   "apiMessages": 102,
+   "role": "writer g1 (retry)"
+  },
+  "aa7d198332676d297": {
+   "inputTokens": 60,
+   "outputTokens": 11142,
+   "cacheReadTokens": 4910217,
+   "cacheWriteTokens": 232898,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T04:26:16.304000+00:00",
+   "lastAt": "2026-10-07T04:33:47.060000+00:00",
+   "spanSeconds": 450,
+   "apiMessages": 30,
+   "role": "audit: lexicon (independent)"
+  },
+  "aabaef5d80afe4229": {
+   "inputTokens": 260,
+   "outputTokens": 49219,
+   "cacheReadTokens": 25794618,
+   "cacheWriteTokens": 312226,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T03:36:17.341000+00:00",
+   "lastAt": "2026-10-07T04:00:34.501000+00:00",
+   "spanSeconds": 1457,
+   "apiMessages": 130,
+   "role": "writer g3 (resume)"
+  },
+  "aabff56c4752d6030": {
+   "inputTokens": 36,
+   "outputTokens": 4025,
+   "cacheReadTokens": 1648028,
+   "cacheWriteTokens": 108183,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:07:53.980000+00:00",
+   "lastAt": "2026-10-06T14:14:52.062000+00:00",
+   "spanSeconds": 418,
+   "apiMessages": 18,
+   "role": "lexicon 1-55"
+  },
+  "ab1dfde7c3a7e20c9": {
+   "inputTokens": 348,
+   "outputTokens": 30284,
+   "cacheReadTokens": 37001521,
+   "cacheWriteTokens": 302692,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T02:51:49.015000+00:00",
+   "lastAt": "2026-10-07T03:14:56.504000+00:00",
+   "spanSeconds": 1387,
+   "apiMessages": 175,
+   "role": "writer g4 (resume 3)"
+  },
+  "acaeb6a3b54cc0d59": {
+   "inputTokens": 64,
+   "outputTokens": 12570,
+   "cacheReadTokens": 3317711,
+   "cacheWriteTokens": 119778,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T03:11:41.012000+00:00",
+   "lastAt": "2026-10-07T03:14:57.012000+00:00",
+   "spanSeconds": 196,
+   "apiMessages": 33,
+   "role": "writer g3 epithets (wave 2)"
+  },
+  "acd5329c6a210bab2": {
+   "inputTokens": 62,
+   "outputTokens": 6631,
+   "cacheReadTokens": 3858357,
+   "cacheWriteTokens": 173526,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T17:18:11.896000+00:00",
+   "lastAt": "2026-10-06T17:21:19.355000+00:00",
+   "spanSeconds": 187,
+   "apiMessages": 32,
+   "role": "writer g1 persons/peoples/stories"
+  },
+  "ad1a89d285ee47bb8": {
+   "inputTokens": 54,
+   "outputTokens": 6018,
+   "cacheReadTokens": 2824349,
+   "cacheWriteTokens": 127743,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T17:18:29.971000+00:00",
+   "lastAt": "2026-10-06T17:21:02.344000+00:00",
+   "spanSeconds": 152,
+   "apiMessages": 28,
+   "role": "writer g5 objects/animals"
+  },
+  "ad291e3cc53b143a3": {
+   "inputTokens": 328,
+   "outputTokens": 42625,
+   "cacheReadTokens": 40073329,
+   "cacheWriteTokens": 353011,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T03:36:22.540000+00:00",
+   "lastAt": "2026-10-07T04:04:01.153000+00:00",
+   "spanSeconds": 1658,
+   "apiMessages": 164,
+   "role": "writer g5"
+  },
+  "ae1d65adb079791e9": {
+   "inputTokens": 50,
+   "outputTokens": 5793,
+   "cacheReadTokens": 3019750,
+   "cacheWriteTokens": 156127,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T17:18:44.612000+00:00",
+   "lastAt": "2026-10-06T17:21:03.873000+00:00",
+   "spanSeconds": 139,
+   "apiMessages": 26,
+   "role": "writer g8 reception/authors/notes"
+  },
+  "ae42752531b1df447": {
+   "inputTokens": 336,
+   "outputTokens": 36757,
+   "cacheReadTokens": 32805660,
+   "cacheWriteTokens": 290101,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-07T02:51:53.651000+00:00",
+   "lastAt": "2026-10-07T03:14:10.014000+00:00",
+   "spanSeconds": 1336,
+   "apiMessages": 168,
+   "role": "writer g7 (resume 3)"
+  },
+  "ae4738f541c643972": {
+   "inputTokens": 28,
+   "outputTokens": 25852,
+   "cacheReadTokens": 1183988,
+   "cacheWriteTokens": 117370,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:08:14.192000+00:00",
+   "lastAt": "2026-10-06T14:16:25.278000+00:00",
+   "spanSeconds": 491,
+   "apiMessages": 14,
+   "role": "lexicon 166-220"
+  },
+  "ae8ae8d232e78c08d": {
+   "inputTokens": 254,
+   "outputTokens": 34394,
+   "cacheReadTokens": 30387220,
+   "cacheWriteTokens": 345175,
+   "models": [
+    "<synthetic>",
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T21:52:12.525000+00:00",
+   "lastAt": "2026-10-06T22:14:19.156000+00:00",
+   "spanSeconds": 1326,
+   "apiMessages": 128,
+   "role": "writer g4 (retry)"
+  },
+  "ae9a80bacaef67e98": {
+   "inputTokens": 28,
+   "outputTokens": 23709,
+   "cacheReadTokens": 1228088,
+   "cacheWriteTokens": 108917,
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "firstAt": "2026-10-06T14:08:27.650000+00:00",
+   "lastAt": "2026-10-06T14:15:34.779000+00:00",
+   "spanSeconds": 427,
+   "apiMessages": 14,
+   "role": "lexicon 276-331"
+  }
+ }
+}

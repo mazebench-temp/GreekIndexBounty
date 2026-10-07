@@ -9,55 +9,940 @@
     "unit": "6",
     "citationScheme": "book.line"
   },
-  "status": "draft",
+  "status": "complete",
   "agents": [
     {
       "id": "lead",
       "role": "lead",
       "provider": "Anthropic",
-      "modelName": "",
-      "modelId": "",
-      "runtime": "",
-      "runtimeVersion": "",
-      "sessionId": "",
-      "reasoningEffort": "",
-      "thinkingMode": "",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90",
+      "reasoningEffort": "high",
+      "thinkingMode": "not-exposed",
       "thinkingBudgetTokens": null,
       "metrics": {
-        "inputTokens": null,
-        "outputTokens": null,
-        "cacheReadTokens": null,
-        "cacheWriteTokens": null,
-        "agentSeconds": null,
+        "inputTokens": 426,
+        "outputTokens": 149497,
+        "cacheReadTokens": 55646793,
+        "cacheWriteTokens": 1008955,
+        "agentSeconds": 58049,
         "costUsd": null
       },
-      "unavailableReason": ""
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a045daa56c242740d",
+      "role": "writer g6 rituals/themes/sayings",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a045daa56c242740d",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 42,
+        "outputTokens": 3786,
+        "cacheReadTokens": 2014352,
+        "cacheWriteTokens": 122881,
+        "agentSeconds": 152,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a0af47d9ac251c03a",
+      "role": "writer g8",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a0af47d9ac251c03a",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 550,
+        "outputTokens": 70621,
+        "cacheReadTokens": 83475151,
+        "cacheWriteTokens": 485105,
+        "agentSeconds": 2740,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a118394dec06785fa",
+      "role": "source/names/candidates research",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a118394dec06785fa",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 248,
+        "outputTokens": 30027,
+        "cacheReadTokens": 26925326,
+        "cacheWriteTokens": 294019,
+        "agentSeconds": 1547,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a1c8564f347a531d1",
+      "role": "writer g7 formulas/similes",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a1c8564f347a531d1",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 58,
+        "outputTokens": 5653,
+        "cacheReadTokens": 3097132,
+        "cacheWriteTokens": 139299,
+        "agentSeconds": 215,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a2042e496f7697b7b",
+      "role": "writer g6",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a2042e496f7697b7b",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 332,
+        "outputTokens": 35601,
+        "cacheReadTokens": 43690305,
+        "cacheWriteTokens": 371945,
+        "agentSeconds": 2257,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a21450ec6dc3123ef",
+      "role": "lexicon 56-110",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a21450ec6dc3123ef",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 30,
+        "outputTokens": 28005,
+        "cacheReadTokens": 1351598,
+        "cacheWriteTokens": 108481,
+        "agentSeconds": 461,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a281e1c435ac1887e",
+      "role": "translator 1-165",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a281e1c435ac1887e",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 48,
+        "outputTokens": 32123,
+        "cacheReadTokens": 2464505,
+        "cacheWriteTokens": 178128,
+        "agentSeconds": 636,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a2a8d1b2c228d6130",
+      "role": "writer g3 epithets",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a2a8d1b2c228d6130",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 62,
+        "outputTokens": 8329,
+        "cacheReadTokens": 3358230,
+        "cacheWriteTokens": 133413,
+        "agentSeconds": 169,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a2d1e673f516daf3a",
+      "role": "translation conventions + consistency check",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a2d1e673f516daf3a",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 34,
+        "outputTokens": 10925,
+        "cacheReadTokens": 1914355,
+        "cacheWriteTokens": 149987,
+        "agentSeconds": 263,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a308d99898948a36b",
+      "role": "structure (scenes/speeches/days)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a308d99898948a36b",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 32,
+        "outputTokens": 2427,
+        "cacheReadTokens": 1179550,
+        "cacheWriteTokens": 69940,
+        "agentSeconds": 221,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a328d705968190ed3",
+      "role": "audit: integration (independent)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a328d705968190ed3",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 236,
+        "outputTokens": 30238,
+        "cacheReadTokens": 25082863,
+        "cacheWriteTokens": 278211,
+        "agentSeconds": 1670,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a3526d036cc3cdf66",
+      "role": "audit: sources (independent)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a3526d036cc3cdf66",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 338,
+        "outputTokens": 42496,
+        "cacheReadTokens": 67973032,
+        "cacheWriteTokens": 634444,
+        "agentSeconds": 1974,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a36d563d0b14916ac",
+      "role": "audit: index (independent)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a36d563d0b14916ac",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 376,
+        "outputTokens": 82333,
+        "cacheReadTokens": 52811279,
+        "cacheWriteTokens": 420116,
+        "agentSeconds": 2110,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a3948816f31c7e8e9",
+      "role": "source research (retry part 2)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a3948816f31c7e8e9",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 262,
+        "outputTokens": 33397,
+        "cacheReadTokens": 27749776,
+        "cacheWriteTokens": 340669,
+        "agentSeconds": 1578,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a4c6afe6b1e56723f",
+      "role": "audit: translation (independent)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a4c6afe6b1e56723f",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 44,
+        "outputTokens": 25309,
+        "cacheReadTokens": 2307696,
+        "cacheWriteTokens": 104892,
+        "agentSeconds": 353,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a51cac292044e6c6c",
+      "role": "translator 166-331",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a51cac292044e6c6c",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 36,
+        "outputTokens": 3506,
+        "cacheReadTokens": 1724089,
+        "cacheWriteTokens": 138105,
+        "agentSeconds": 586,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a52c43310e993f005",
+      "role": "writer g7 (retry)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a52c43310e993f005",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 236,
+        "outputTokens": 38159,
+        "cacheReadTokens": 30152472,
+        "cacheWriteTokens": 350792,
+        "agentSeconds": 1317,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a543469aee7fa0b2e",
+      "role": "lexicon 111-165",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a543469aee7fa0b2e",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 28,
+        "outputTokens": 27354,
+        "cacheReadTokens": 1190878,
+        "cacheWriteTokens": 107504,
+        "agentSeconds": 441,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a56699ef54263f9d9",
+      "role": "writer g4 terms",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a56699ef54263f9d9",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 52,
+        "outputTokens": 7930,
+        "cacheReadTokens": 2723856,
+        "cacheWriteTokens": 126269,
+        "agentSeconds": 238,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a6235b4a3cd752b63",
+      "role": "writer g2 gods/places",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a6235b4a3cd752b63",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 56,
+        "outputTokens": 4893,
+        "cacheReadTokens": 2896843,
+        "cacheWriteTokens": 118387,
+        "agentSeconds": 179,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a6919fc34947d911a",
+      "role": "translation conventions (retry)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a6919fc34947d911a",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 56,
+        "outputTokens": 25746,
+        "cacheReadTokens": 3951740,
+        "cacheWriteTokens": 172076,
+        "agentSeconds": 602,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a69cc56ea20d14868",
+      "role": "lexicon 221-275",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a69cc56ea20d14868",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 32,
+        "outputTokens": 22513,
+        "cacheReadTokens": 1490993,
+        "cacheWriteTokens": 113149,
+        "agentSeconds": 424,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a7e2e0920ac467669",
+      "role": "writer g2 (resume 3)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a7e2e0920ac467669",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 232,
+        "outputTokens": 30724,
+        "cacheReadTokens": 20516708,
+        "cacheWriteTokens": 250723,
+        "agentSeconds": 1182,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a7f4aa7ccec53988f",
+      "role": "candidate discovery (retry part 1)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a7f4aa7ccec53988f",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 108,
+        "outputTokens": 11863,
+        "cacheReadTokens": 10076236,
+        "cacheWriteTokens": 595164,
+        "agentSeconds": 1454,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a8118a823f0b91a55",
+      "role": "writer g2 (retry)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a8118a823f0b91a55",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 268,
+        "outputTokens": 37391,
+        "cacheReadTokens": 29883882,
+        "cacheWriteTokens": 319259,
+        "agentSeconds": 1336,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "a96be354e03adff5a",
+      "role": "writer g1 (resume 3)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-a96be354e03adff5a",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 288,
+        "outputTokens": 37076,
+        "cacheReadTokens": 32599356,
+        "cacheWriteTokens": 348978,
+        "agentSeconds": 1400,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "aa72c721a553d86a3",
+      "role": "writer g1 (retry)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-aa72c721a553d86a3",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 202,
+        "outputTokens": 27340,
+        "cacheReadTokens": 21663808,
+        "cacheWriteTokens": 334079,
+        "agentSeconds": 1331,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "aa7d198332676d297",
+      "role": "audit: lexicon (independent)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-aa7d198332676d297",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 60,
+        "outputTokens": 11142,
+        "cacheReadTokens": 4910217,
+        "cacheWriteTokens": 232898,
+        "agentSeconds": 450,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "aabaef5d80afe4229",
+      "role": "writer g3 (resume)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-aabaef5d80afe4229",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 260,
+        "outputTokens": 49219,
+        "cacheReadTokens": 25794618,
+        "cacheWriteTokens": 312226,
+        "agentSeconds": 1457,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "aabff56c4752d6030",
+      "role": "lexicon 1-55",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-aabff56c4752d6030",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 36,
+        "outputTokens": 4025,
+        "cacheReadTokens": 1648028,
+        "cacheWriteTokens": 108183,
+        "agentSeconds": 418,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "ab1dfde7c3a7e20c9",
+      "role": "writer g4 (resume 3)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-ab1dfde7c3a7e20c9",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 348,
+        "outputTokens": 30284,
+        "cacheReadTokens": 37001521,
+        "cacheWriteTokens": 302692,
+        "agentSeconds": 1387,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "acaeb6a3b54cc0d59",
+      "role": "writer g3 epithets (wave 2)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-acaeb6a3b54cc0d59",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 64,
+        "outputTokens": 12570,
+        "cacheReadTokens": 3317711,
+        "cacheWriteTokens": 119778,
+        "agentSeconds": 196,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "acd5329c6a210bab2",
+      "role": "writer g1 persons/peoples/stories",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-acd5329c6a210bab2",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 62,
+        "outputTokens": 6631,
+        "cacheReadTokens": 3858357,
+        "cacheWriteTokens": 173526,
+        "agentSeconds": 187,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "ad1a89d285ee47bb8",
+      "role": "writer g5 objects/animals",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-ad1a89d285ee47bb8",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 54,
+        "outputTokens": 6018,
+        "cacheReadTokens": 2824349,
+        "cacheWriteTokens": 127743,
+        "agentSeconds": 152,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "ad291e3cc53b143a3",
+      "role": "writer g5",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-ad291e3cc53b143a3",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 328,
+        "outputTokens": 42625,
+        "cacheReadTokens": 40073329,
+        "cacheWriteTokens": 353011,
+        "agentSeconds": 1658,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "ae1d65adb079791e9",
+      "role": "writer g8 reception/authors/notes",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-ae1d65adb079791e9",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 50,
+        "outputTokens": 5793,
+        "cacheReadTokens": 3019750,
+        "cacheWriteTokens": 156127,
+        "agentSeconds": 139,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "ae42752531b1df447",
+      "role": "writer g7 (resume 3)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-ae42752531b1df447",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 336,
+        "outputTokens": 36757,
+        "cacheReadTokens": 32805660,
+        "cacheWriteTokens": 290101,
+        "agentSeconds": 1336,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "ae4738f541c643972",
+      "role": "lexicon 166-220",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-ae4738f541c643972",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 28,
+        "outputTokens": 25852,
+        "cacheReadTokens": 1183988,
+        "cacheWriteTokens": 117370,
+        "agentSeconds": 491,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "ae8ae8d232e78c08d",
+      "role": "writer g4 (retry)",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-ae8ae8d232e78c08d",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 254,
+        "outputTokens": 34394,
+        "cacheReadTokens": 30387220,
+        "cacheWriteTokens": 345175,
+        "agentSeconds": 1326,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
+    },
+    {
+      "id": "ae9a80bacaef67e98",
+      "role": "lexicon 276-331",
+      "provider": "Anthropic",
+      "modelName": "Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "runtime": "Claude Code desktop app (Code tab), Claude Agent SDK; helpers started with the Agent tool",
+      "runtimeVersion": "Claude Code 2.1.286",
+      "sessionId": "32fc4ffc-8e54-4a2d-abb1-879fc33cde90/agent-ae9a80bacaef67e98",
+      "reasoningEffort": "high (inherited from the lead session; not shown per helper)",
+      "thinkingMode": "not-exposed",
+      "thinkingBudgetTokens": null,
+      "metrics": {
+        "inputTokens": 28,
+        "outputTokens": 23709,
+        "cacheReadTokens": 1228088,
+        "cacheWriteTokens": 108917,
+        "agentSeconds": 427,
+        "costUsd": null
+      },
+      "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately). thinkingBudgetTokens is null: Claude Code exposes an effort setting, not a thinking-token budget. thinkingMode is reported as not-exposed because the runtime does not show a thinking-mode setting. agentSeconds is the span from the first to the last transcript record."
     }
   ],
-  "subagentCount": 0,
+  "subagentCount": 40,
   "usage": {
     "startedAt": "2026-10-06T14:05:27.943Z",
-    "finishedAt": null,
-    "wallSeconds": null,
-    "inputTokens": null,
-    "outputTokens": null,
-    "cacheReadTokens": null,
-    "cacheWriteTokens": null,
-    "agentSeconds": null,
+    "finishedAt": "2026-10-07T06:09:20.000Z",
+    "wallSeconds": 57832,
+    "inputTokens": 6620,
+    "outputTokens": 1154281,
+    "cacheReadTokens": 747965640,
+    "cacheWriteTokens": 10562717,
+    "agentSeconds": 94509,
     "costUsd": null,
-    "measurementSource": "",
-    "unavailableReason": ""
+    "measurementSource": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/usage-measured.json",
+    "unavailableReason": "costUsd is null: the work ran on a Claude Pro subscription, which reports plan-usage percentages, not a per-request dollar cost. Token counts come from the usage fields of the Claude Code transcripts (Anthropic API convention: inputTokens excludes cache reads and cache writes, which are listed separately)."
   },
   "provenance": {
-    "statement": "",
-    "evidenceFiles": [],
-    "limitations": ""
+    "statement": "All research, translation, lexical analysis, structure, articles, notes, ledgers and audits in this submission were written by Anthropic Opus 5.5 (claude-opus-5-5) running in Claude Code: one lead session and 40 helper agents started from it. No other model wrote or reviewed any part. The human account holder (GitHub RawNuke) approved the claim and publication and did not write content.",
+    "evidenceFiles": [
+      "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/runtime.md",
+      "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/usage-measured.json",
+      "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/roster.tsv",
+      "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/interruptions.md"
+    ],
+    "limitations": "This is a self-report. The usage file is derived from local Claude Code transcripts, which a reviewer cannot authenticate; the transcripts themselves are not committed because they contain full prompts and tool output. Model identifiers come from the API response metadata recorded in those transcripts and from the app's session record. Records labeled <synthetic> in the transcripts are usage-limit error notices generated by the client, not model output. Research limitations (sources not opened, page numbers read from OCR headers) are listed in the evidence and audit reports."
   },
   "completeness": {
-    "overallPercent": 0,
-    "translatedLines": 0,
-    "analyzedTokens": 0,
-    "reviewedLines": 0,
+    "overallPercent": 100,
+    "translatedLines": 331,
+    "analyzedTokens": 2418,
+    "reviewedLines": 331,
     "remainingGaps": []
   },
   "research": {
@@ -65,12 +950,94 @@
     "sourcesFile": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/sources.json",
     "candidatesFile": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/candidates.json",
     "categoriesFile": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/categories.json",
-    "audits": []
+    "audits": [
+      {
+        "kind": "translation",
+        "agentId": "a4c6afe6b1e56723f",
+        "method": "independent-agent",
+        "report": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/audits/translation.md",
+        "result": "passed",
+        "issuesFound": 4,
+        "issuesResolved": 4
+      },
+      {
+        "kind": "lexicon",
+        "agentId": "aa7d198332676d297",
+        "method": "independent-agent",
+        "report": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/audits/lexicon.md",
+        "result": "passed",
+        "issuesFound": 11,
+        "issuesResolved": 11
+      },
+      {
+        "kind": "index",
+        "agentId": "a36d563d0b14916ac",
+        "method": "independent-agent",
+        "report": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/audits/index.md",
+        "result": "passed",
+        "issuesFound": 17,
+        "issuesResolved": 17
+      },
+      {
+        "kind": "sources",
+        "agentId": "a3526d036cc3cdf66",
+        "method": "independent-agent",
+        "report": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/audits/sources.md",
+        "result": "passed",
+        "issuesFound": 18,
+        "issuesResolved": 18
+      },
+      {
+        "kind": "integration",
+        "agentId": "a328d705968190ed3",
+        "method": "independent-agent",
+        "report": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/audits/integration.md",
+        "result": "passed",
+        "issuesFound": 10,
+        "issuesResolved": 10
+      }
+    ]
   },
-  "changes": "",
-  "validation": [],
+  "changes": "Odyssey Book 6, complete study. Greek: lines 1-331 of A. T. Murray's text from the pinned Perseus file (ceeb60d9), with editorial quotation marks at the 12 speech boundaries that the Perseus file marks. English: a new line-for-line translation of all 331 lines; formulas shared with the Iliad keep the Iliad's English; content/library/homer/odyssey/TRANSLATION.md records the conventions and the disputed constructions. Lexicon: 2,418 tokens, each with lemma, contextual gloss, part of speech, full morphology and notes where needed. Structure: 8 scenes, 11 speeches with speakers and addressees, and the narrative days (night of Day 31, Day 32). Index: 100 new articles (Nausicaa, Alcinous, Queen Arete, the Phaeacians, Scheria, Hypereia, Nausithous, the Cyclopes, the washing, the ball game, homophrosyne, the Artemis, lion, palm and gilding similes, the castaway's question, textual notes on 6.122-124, 6.242, 6.244-245 and 6.275-288, ancient and modern reception, and the commentators), 188 Book 6 notes, and 13 existing articles with corrected patterns (for example exclusions so that the Trojans and the chariot no longer claim τρώγειν, τρώχων, or the mule wagon). Research: 213 consulted sources (Perseus texts, LSJ, the Odyssey scholia in Dindorf 1855, Eustathius, Merry and Riddell 1886, the 1908 Oxford apparatus, Thucydides, Strabo, Pausanias, Athenaeus, Plutarch, Aristotle, Lucretius, Cicero, Pliny, BMCR and open-access scholarship), 334 candidate dispositions, 14 coverage blocks, and 18 category reviews. Five audits by separate Opus 5.5 helpers (translation 4/4, lexicon 11/11, index 17/17, sources 18/18, integration 10/10 issues found/resolved). Open item outside this contract: content/library/homer/odyssey/work.json still says that no Greek text or translation is imported; a research PR may not edit it, so the edition credits need a maintainer or infrastructure update.",
+  "validation": [
+    {
+      "command": "npm run quotes",
+      "result": "passed",
+      "log": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/logs/quotes.log"
+    },
+    {
+      "command": "npm run check",
+      "result": "passed",
+      "log": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/logs/check.log"
+    },
+    {
+      "command": "npm test",
+      "result": "passed",
+      "log": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/logs/test.log"
+    },
+    {
+      "command": "node scripts/checkquotes.mjs homer.odyssey",
+      "result": "passed",
+      "log": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/logs/checkquotes-odyssey.log"
+    },
+    {
+      "command": "node scripts/homographs.mjs 6",
+      "result": "passed",
+      "log": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/logs/homographs.log"
+    },
+    {
+      "command": "npm run validate -- --submission submissions/37d6a152-2178-41e6-8304-6f0cd3b20a7c.json",
+      "result": "passed",
+      "log": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/logs/validate.log"
+    },
+    {
+      "command": "npm run export",
+      "result": "passed",
+      "log": "research/odyssey-06/37d6a152-2178-41e6-8304-6f0cd3b20a7c/evidence/logs/export.log"
+    }
+  ],
   "payout": {
     "method": "arrange-after-acceptance",
-    "contact": ""
+    "contact": "RawNuke"
   }
 }

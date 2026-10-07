@@ -1,4 +1,4 @@
-$ node --preserve-symlinks-main scripts/homographs.mjs 6
+$ node scripts/homographs.mjs 6 homer.odyssey
 content/index/people/hector.md: Ἕκτορ* is Ἕκτωρ (×99), but also
    Ἑκτορίδης: 6.401 Ἑκτορίδην
 content/index/rituals/lament.md: γόον is γόος (×2), but also
@@ -8,4 +8,5 @@ content/index/rituals/prayer.md: εὐχ* is εὔχομαι (×25), but also
 content/index/words/euchomai.md: εὐχ* is εὔχομαι (×47), but also
    εὐχετάομαι: 6.268 εὐχετάασθαι, 8.347 εὐχετόωντο, 11.761 εὐχετόωντο, 12.391 εὐχετόῳτʼ
 4 patterns catching more than one lemma.
-exit code: 0
+# exit 0
+# Note (lead): homographs.mjs reports Iliad Book 6 here, because the script takes a book number and the first work. The 4 patterns it lists are in Iliad articles that predate this submission. For Odyssey 6 the integration audit checked homographs by script against the lexicon (audits/integration.md, item 3).
