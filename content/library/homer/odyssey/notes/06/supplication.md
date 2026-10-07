@@ -1,8 +1,8 @@
 ---
 summary: Odysseus, naked and alone, supplicates Nausicaa in words without the knee-clasp, and she accepts him as a suppliant (ἱκέτης). At the end of the book she tells him to complete the rite at her mother's knees.
-grc: [λίσσοιτο, λίσσοιτʼ, γουνοῦμαι, γοῦνα, γούνασι, ἱκέτην]
+grc: [λίσσοιτο, λίσσοιτʼ, γουνοῦμαι, ἱκέτην]
 en: [suppliant]
-refs: [6.148, 6.175]
+refs: [6.147, 6.148, 6.175, 6.310, 6.311]
 passages:
   - 6.141-149 | Words instead of the knees
   - 6.186-210 | Nausicaa accepts the suppliant
