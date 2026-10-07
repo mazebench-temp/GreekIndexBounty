@@ -7,7 +7,10 @@ summary: The women who serve in a household: handmaids (ἀμφίπολοι) who
 aliases: [handmaid, slave women, maidservants, housekeeper, nurse, amphipoloi, dmoai]
 # ἀμφίπολ* catches only the noun in the Iliad; when the Odyssey is added, its verb ἀμφιπολεύω
 # ("tend") will need "!ἀμφιπολευ*". τιθήνας at 6.132 are the nurses of Dionysus, not servants.
-grc: [ἀμφίπολ*, "=δμῳ*", ταμίη, τιθήνη, τιθήνης]
+# "=δμῳ*" is accent-sensitive, so that it keeps out the male δμῶες, δμώεσσιν. LSJ (s.v. δμῳή) notes that
+# the manuscripts write both δμῳή and δμωή, and the texts print both: δμωαὶ (Od. 6.307), δμωῇσι (9.658).
+# "=δμωα*" and "=δμωῇ*" catch the spellings without the iota subscript.
+grc: [ἀμφίπολ*, "=δμῳ*", "=δμωα*", "=δμωῇ*", ταμίη, τιθήνη, τιθήνης]
 en: [handmaids, handmaid, slave women, housekeeper, nurse]
 ---
 
