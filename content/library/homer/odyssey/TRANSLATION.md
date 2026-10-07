@@ -24,7 +24,7 @@ American spelling is used throughout ("gray-eyed Athena", "the gray sea").
    Iliad line for each shared formula in Book 6.
 3. **One Greek formula, one English formula.** A verse or phrase that repeats inside the
    Odyssey has the same English each time. Examples in Book 6: the verse 6.209 = 6.246, and the
-   phrases at 6.53 and 6.306, 6.79 and 6.215, 6.150 and 6.243.
+   phrases at 6.53 and 6.306, 6.79 and 6.215, 6.112 and 6.251, 6.150 and 6.243.
 4. **Key words keep their English word.** The table "Key words" gives the fixed English for the
    Odyssey vocabulary of hospitality, supplication, shame, marriage and the household. Where one
    Greek word has two senses, the table names both and gives the lines. Two senses do not get one
@@ -66,7 +66,7 @@ American spelling is used throughout ("gray-eyed Athena", "the gray sea").
 | μάκαρ, μακάρτατος | blessed, most blessed | of the gods (6.46) and of mortals: τρὶς μάκαρες "thrice blessed" (6.154–155), μακάρτατος (6.158) |
 | μίσγομαι, ἐπιμίσγομαι | mingle with | 6.136, 6.205, 6.241, 6.288 |
 | ἄστυ / πόλις, πτόλις | town / city | ἄστυ (6.178, 6.194, 6.296); πόλις (6.3, 6.9, 6.40, 6.114, 6.144, 6.177, 6.191, 6.195, 6.255, 6.262, 6.263, 6.298), πτόλις (6.294) |
-| εἵματα / ἐσθής | clothes / clothing | εἵματα "clothes" (6.26, 6.58, 6.59, 6.61, 6.64, 6.91, 6.98, 6.111, 6.144, 6.214, 6.228, 6.252); ἐσθής "clothing" (6.74, 6.83, 6.192); φᾶρος "cloak", χιτών "tunic" (6.214); ῥάκος "rag" (6.178) |
+| εἵματα / ἐσθής | clothes / clothing | εἵματα "clothes" (6.26, 6.58, 6.61, 6.64, 6.91, 6.98, 6.111, 6.144, 6.214, 6.228, 6.252); ἐσθής "clothing" (6.74, 6.83, 6.192); φᾶρος "cloak", χιτών "tunic" (6.214); ῥάκος "rag" (6.178) |
 | ἔλαιον / ἀλοιφή | olive oil / ointment | ἔλαιον "olive oil" (6.79, 6.96, 6.215, 6.219), as Il. 2.754 and 10.577; ἀλοιφή "ointment" (6.220) |
 | λούω / ἀπολούω / νίζω | bathe / wash off / wash | λούω (6.96, 6.210, 6.216, 6.221, 6.227); ἀπολούσομαι "wash … from" (6.219); νίζετο "washed" (6.224); πλύνω "wash" (clothes) (6.31, 6.59, 6.93) |
 | μάστιξ / ἱμάσθλη | whip / lash | 6.81, 6.316 / 6.320 |
@@ -214,6 +214,7 @@ These formulas have no example in the Iliad books of this library. Later books k
 | ἀλλὰ δότʼ, ἀμφίπολοι, ξείνῳ βρῶσίν τε πόσιν τε | But, handmaids, give the stranger food and drink | 209, 246 |
 | παρθένος ἀδμής | the unwed maiden | 109, 228 |
 | ῥεῖα … ἀρίγνωτος | easily known | 108, 300 |
+| ἄλλʼ ἐνόησε(ν) | thought of something else | 112, 251 |
 | ὀρέων αἰπεινὰ κάρηνα / πηγὰς ποταμῶν καὶ πίσεα ποιήεντα | the steep peaks of the mountains / the springs of rivers and the grassy meadows | 123–124 (6.124 = Il. 20.9, not yet in the library) |
 
 ## Book 6: disputed constructions
@@ -246,6 +247,7 @@ These formulas have no example in the Iliad books of this library. Later books k
 - **6.265**: ἐπίστιον, a ship-shed, a slip, or a station for each ship. Rendered "ship-shed", the sense in the scholia.
 - **6.266–267**: ἀγορή is the place, "place of assembly"; Ποσιδήιον is a noun here, "shrine of Poseidon" (an adjective at Il. 2.506). ῥυτοῖσιν λάεσσι κατωρυχέεσσι is "hauled stones bedded deep in the earth".
 - **6.274**: εἰσίν has no stated subject. Rendered "there are very overbearing men among the people", because 6.275 names one "baser man", not all Phaeacians.
+- **6.278**: Murray prints ἦ τινά που, "surely, I suppose", with ἤ "or" at 6.280. Some editors print ἤ … ἤ, "either … or". The English "Perhaps … or" renders ἦ … που as a guess and keeps 6.280 as the alternative. Both readings give this sense.
 - **6.300–303**: τοῖσι … οἷος is a correlation, and ἥρωος runs into 6.303. The English keeps the Greek order and leaves "the hero" on 6.303.
 - **6.308**: ποτικέκλιται αὐτῇ, against the same pillar (κίονι, 6.307) or beside the queen. Rendered "leans against it".
 - **6.329**: αἴδετο, the respect of a younger god for an elder kinsman. Rendered "stood in awe of", kept apart from "feel shame" (6.66, 6.221).

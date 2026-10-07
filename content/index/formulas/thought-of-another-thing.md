@@ -7,7 +7,7 @@ tags: [repetition, divine-will]
 summary: The turning formula “then in turn (so-and-so) thought of another thing”, after which a character, most often Athena, devises the next step of the plot. It is an Odyssey formula; the Iliad has it only twice, for Achilles at the funeral of Patroclus.
 aliases: [thought of something else, enoese, another plan]
 grc: ["=ἄλλʼ ἐνόησε", "=ἄλλʼ ἐνόησεν"]
-en: [thought of something else, thought of other things]
+en: [thought of something else]
 ---
 
 ## The pattern

@@ -3,7 +3,7 @@ summary: Nausicaa is “white-armed” three times in Book 6, always in the same
 grc: [λευκώλενοι]
 ---
 
-**Nausicaa.** The narrator calls her Ναυσικάα λευκώλενος three times (6.101, 6.186, 6.251). Each time the name and the epithet follow a short opening of one foot (τῇσι δέ, τὸν δʼ αὖ, αὐτάρ) and an action closes the verse. She “began the song and dance” among the girls at play (6.101), she “answered him face to face” after the supplication speech (6.186), and she “thought of other things” while Odysseus ate (6.251). The three lines mark her three moments of leadership: in the game, in speech, and in the plan for the journey to the city. See [[nausicaa]], [[then-answered]] and [[thought-of-another-thing]].
+**Nausicaa.** The narrator calls her Ναυσικάα λευκώλενος three times (6.101, 6.186, 6.251). Each time the name and the epithet follow a short opening of one foot (τῇσι δέ, τὸν δʼ αὖ, αὐτάρ) and an action closes the verse. She “began the song and dance” among the girls at play (6.101), she “answered him face to face” after the supplication speech (6.186), and she “thought of something else” while Odysseus ate (6.251). The three lines mark her three moments of leadership: in the game, in speech, and in the plan for the journey to the city. See [[nausicaa]], [[then-answered]] and [[thought-of-another-thing]].
 
 {{quote:befb9d90-806e-5582-a500-1e6273668991}}
 
