@@ -1,0 +1,6279 @@
+[
+ {
+  "title": "Athena",
+  "kind": "god",
+  "lines": [
+   2,
+   13,
+   20,
+   21,
+   22,
+   23,
+   24,
+   41,
+   47,
+   112,
+   139,
+   140,
+   229,
+   233,
+   291,
+   322,
+   323,
+   324,
+   328,
+   329
+  ],
+  "disposition": "expanded",
+  "entryId": "athena",
+  "reason": "Drives the whole book: plans the homecoming (14), enters the dream as the daughter of Dymas (22-24), gives Nausicaa daring (139-140), beautifies Odysseus (229-235), owns the grove (291, 322), hears the prayer but does not appear, from respect for Poseidon (328-331). Needs a Book 6 note."
+ },
+ {
+  "title": "Poseidon",
+  "kind": "god",
+  "lines": [
+   266,
+   326,
+   329,
+   330,
+   331
+  ],
+  "disposition": "expanded",
+  "entryId": "poseidon",
+  "reason": "The precinct Ποσιδήιον at the Phaeacian agora (266), \"the famous shaker of the earth\" who shattered Odysseus (326), Athena's \"father's brother\" whose anger lasts until Odysseus reaches home (330-331). Ποσιδήιον and πατροκασίγνητον are not matched by the existing patterns."
+ },
+ {
+  "title": "Zeus",
+  "kind": "god",
+  "lines": [
+   105,
+   151,
+   188,
+   189,
+   190,
+   207,
+   208,
+   229,
+   323,
+   324
+  ],
+  "disposition": "expanded",
+  "entryId": "zeus",
+  "reason": "Zeus as the giver of ὄλβος to good and bad (188-190) and the source of strangers and beggars (207-208): the Odyssey's Zeus of guests. Also father of Artemis, Athena and the nymphs. Book 6 note on these two statements."
+ },
+ {
+  "title": "Artemis",
+  "kind": "god",
+  "lines": [
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   151,
+   152
+  ],
+  "disposition": "expanded",
+  "entryId": "artemis",
+  "reason": "Vehicle of the main simile (102-109), with Taygetus, Erymanthus, the nymphs and Leto; Odysseus likens Nausicaa to her (151-152). Note on Artemis as the model of the unmarried girl."
+ },
+ {
+  "title": "Leto",
+  "kind": "god",
+  "lines": [
+   106
+  ],
+  "disposition": "covered",
+  "entryId": "leto",
+  "reason": "Named once inside the Artemis simile, glad in her heart. Pattern Λητώ matches; the existing article explains her as mother of Artemis. The simile article treats the image."
+ },
+ {
+  "title": "Apollo",
+  "kind": "god",
+  "lines": [
+   162
+  ],
+  "disposition": "covered",
+  "entryId": "apollo",
+  "reason": "Named only for his altar on Delos. Pattern matches. The new Delos, palm-tree and story articles explain the passage."
+ },
+ {
+  "title": "Hephaestus",
+  "kind": "god",
+  "lines": [
+   233
+  ],
+  "disposition": "covered",
+  "entryId": "hephaestus",
+  "reason": "Teacher of the craftsman in the gold-on-silver simile, beside Athena. Pattern matches; the simile article treats it."
+ },
+ {
+  "title": "The Graces",
+  "kind": "god",
+  "lines": [
+   18,
+   237
+  ],
+  "disposition": "covered",
+  "entryId": "graces",
+  "reason": "The handmaids \"have beauty from the Graces\" (18). Pattern matches 6.18. At 237 χάρισι is the common noun (charis). The existing article explains the Graces as givers of beauty."
+ },
+ {
+  "title": "Nymphs",
+  "kind": "god",
+  "lines": [
+   105,
+   106,
+   122,
+   123,
+   124
+  ],
+  "disposition": "expanded",
+  "entryId": "nymphs",
+  "reason": "The nymphs who play with Artemis, \"daughters of aegis-bearing Zeus\", ἀγρονόμοι (105-106), and Odysseus's guess that the cry came from nymphs of peaks, springs and meadows (122-124). Form νυμφάων (123) is not matched. ἀγρονόμος is treated here."
+ },
+ {
+  "title": "Eos (Dawn)",
+  "kind": "god",
+  "lines": [
+   31,
+   36,
+   48
+  ],
+  "disposition": "covered",
+  "entryId": "eos",
+  "reason": "Dawn wakes Nausicaa (48). Pattern Ἠώς matches. The epithet ἐΰθρονος and the dawn formulas are handled under of-the-fair-throne and dawn-line."
+ },
+ {
+  "title": "Helios (the sun)",
+  "kind": "god",
+  "lines": [
+   98,
+   321
+  ],
+  "disposition": "covered",
+  "entryId": "helios",
+  "reason": "The sun's rays dry the clothes (98); the sun sets (321). Routine; pattern matches; sunset-lines handles 321."
+ },
+ {
+  "title": "Hades",
+  "kind": "god",
+  "lines": [
+   11
+  ],
+  "disposition": "expanded",
+  "entryId": "hades",
+  "reason": "Nausithous \"had gone to Hades\" (Ἄϊδόσδε). The directional form is not matched by the existing patterns. Form addition only; no note needed beyond grc."
+ },
+ {
+  "title": "The blessed gods / Olympians",
+  "kind": "god",
+  "lines": [
+   46,
+   150,
+   240,
+   243
+  ],
+  "disposition": "covered",
+  "entryId": "olympians",
+  "reason": "μάκαρες θεοί on Olympus (46) matches; \"the gods who hold Olympus / wide heaven\" are routine. Existing article explains the Olympian gods."
+ },
+ {
+  "title": "Dream (personified)",
+  "kind": "god",
+  "lines": [
+   49
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Disproven lead. The pattern ὄνειρον of the entry dream claimed 6.49, where Nausicaa wonders at the dream that Athena sent. The personified Dream of Iliad 2 does not occur in Book 6. The entry dream now has except \"Odyssey 6.49\", and onar holds the common noun (see the onar and dream-scene notes)."
+ },
+ {
+  "title": "Odysseus",
+  "kind": "person",
+  "lines": [
+   1,
+   14,
+   113,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   212,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   237,
+   248,
+   249,
+   250,
+   254,
+   320,
+   322,
+   323,
+   324,
+   325,
+   326,
+   327,
+   328,
+   331
+  ],
+  "disposition": "expanded",
+  "entryId": "odysseus",
+  "reason": "Protagonist: sleeps, wakes, approaches the girls like a lion, supplicates Nausicaa by words only, bathes himself, is beautified, follows to the grove and prays. Major Book 6 note: his tact (κερδαλέος μῦθος), his withheld name, his epithets πολύτλας, δῖος, μεγαλήτωρ, ἀντίθεος."
+ },
+ {
+  "title": "Nausicaa",
+  "kind": "person",
+  "lines": [
+   17,
+   25,
+   49,
+   101,
+   109,
+   113,
+   139,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   213,
+   228,
+   237,
+   238,
+   239,
+   240,
+   241,
+   242,
+   243,
+   244,
+   245,
+   246,
+   251,
+   252,
+   253,
+   254,
+   255,
+   256,
+   257,
+   258,
+   259,
+   260,
+   261,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272,
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288,
+   289,
+   290,
+   291,
+   292,
+   293,
+   294,
+   295,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306,
+   307,
+   308,
+   309,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315,
+   316,
+   319,
+   320
+  ],
+  "disposition": "created",
+  "entryId": "nausicaa",
+  "reason": "Daughter of Alcinous and the central figure of the book: dream, laundry expedition, ball game, meeting with Odysseus, directions to the city. No existing article."
+ },
+ {
+  "title": "Alcinous",
+  "kind": "person",
+  "lines": [
+   12,
+   17,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   139,
+   196,
+   197,
+   213,
+   256,
+   290,
+   291,
+   292,
+   293,
+   299,
+   302,
+   303,
+   308,
+   309,
+   310
+  ],
+  "disposition": "created",
+  "entryId": "alcinous",
+  "reason": "King of the Phaeacians, \"who knew counsels from the gods\" (12), father who understands everything (67). His house, throne and estate. Also absorbs the short comparison \"drinks his wine like an immortal\" (309). No existing article."
+ },
+ {
+  "title": "Arete (the queen, unnamed in Book 6)",
+  "kind": "person",
+  "lines": [
+   25,
+   30,
+   51,
+   52,
+   53,
+   76,
+   79,
+   154,
+   287,
+   305,
+   306,
+   307,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315
+  ],
+  "disposition": "created",
+  "entryId": "queen-arete",
+  "reason": "Nausicaa's mother: spins sea-purple wool at the hearth, packs food and oil, and is the person Odysseus must supplicate (310-315). She is named only at 7.54. Id avoids the existing term \"arete\" (ἀρετή)."
+ },
+ {
+  "title": "Nausithous",
+  "kind": "person",
+  "lines": [
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "disposition": "created",
+  "entryId": "nausithous",
+  "reason": "Godlike founder who led the Phaeacians from Hypereia to Scheria and died before the story. Distinct from Nausithous son of Odysseus and Calypso (Hesiod, Theogony 1017); the article must state the homonym. Apollonius, Argonautica 4.539-551 gives him a later role."
+ },
+ {
+  "title": "Dymas, the Phaeacian",
+  "kind": "person",
+  "lines": [
+   22
+  ],
+  "disposition": "created",
+  "entryId": "dymas-the-phaeacian",
+  "reason": "Father of Nausicaa's friend, \"famous for ships\" (ναυσικλειτός). A homonym of Dymas the father of Hecuba (Iliad 16.718), so the id carries a qualifier."
+ },
+ {
+  "title": "The daughter of Dymas",
+  "kind": "person",
+  "lines": [
+   22,
+   23,
+   24
+  ],
+  "disposition": "created",
+  "entryId": "daughter-of-dymas",
+  "reason": "Identifiable unnamed figure: Nausicaa's age-mate and friend, whose likeness Athena takes in the dream. Separate referent from her father."
+ },
+ {
+  "title": "The sons of Alcinous",
+  "kind": "people",
+  "lines": [
+   62,
+   63,
+   64,
+   65,
+   155
+  ],
+  "disposition": "created",
+  "entryId": "sons-of-alcinous",
+  "reason": "Five sons, two married and three unmarried, who want fresh clothes for the dance (62-65); \"three times blessed\" brothers (155). Named in Odyssey 7-8 (Laodamas, Halius, Clytoneus)."
+ },
+ {
+  "title": "Nausicaa's handmaids",
+  "kind": "people",
+  "lines": [
+   18,
+   19,
+   52,
+   80,
+   84,
+   99,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   138,
+   198,
+   199,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   238,
+   239,
+   246,
+   247,
+   248,
+   260,
+   307,
+   320
+  ],
+  "disposition": "expanded",
+  "entryId": "handmaids",
+  "reason": "Two handmaids with beauty from the Graces sleep by the doors (18-19); the maids wash, play ball, flee, bathe and feed Odysseus; \"white-armed handmaids\" (239). Pattern \"=δμῳ*\" misses δμωαί at 307 (Murray prints no iota subscript). Book 6 note plus pattern fix."
+ },
+ {
+  "title": "The imagined \"baser man\" (κακώτερος)",
+  "kind": "person",
+  "lines": [
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285
+  ],
+  "disposition": "expanded",
+  "entryId": "tis-speech",
+  "reason": "Hypothetical speaker whose gossip Nausicaa imagines. He has no existence outside the speech, so he is treated in the tis-speech formula note (the imagined \"what someone will say\" speech), not as a person entry."
+ },
+ {
+  "title": "Nausicaa's suitors (ἀριστῆες … μνῶνται)",
+  "kind": "people",
+  "lines": [
+   34,
+   35,
+   284
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Unnamed collective mentioned twice inside speeches, with no action. Treated in the nausicaa article and the marriage note."
+ },
+ {
+  "title": "The other girl who \"mingles with men\" (286-288)",
+  "kind": "person",
+  "lines": [
+   286,
+   287,
+   288
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Hypothetical figure in Nausicaa's generalization; treated in the marriage note."
+ },
+ {
+  "title": "The bridegroom who \"leads you home\" (158-159)",
+  "kind": "person",
+  "lines": [
+   158,
+   159
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Hypothetical figure in Odysseus's makarismos; treated in the thrice-blessed formula and bride-price note."
+ },
+ {
+  "title": "The army that followed Odysseus to Delos (164)",
+  "kind": "people",
+  "lines": [
+   164
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Collective inside the Delos story; treated in odysseus-at-delos."
+ },
+ {
+  "title": "Calypso",
+  "kind": "person",
+  "lines": [
+   172
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Not named or referred to. Line 172 names only the island; the ogygia article links her."
+ },
+ {
+  "title": "Polyphemus (the Cyclops)",
+  "kind": "person",
+  "lines": [
+   5,
+   6
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Not named in Book 6. The existing polyphemus is the Lapith (a homonym). The Cyclopes appear only as a people (cyclopes)."
+ },
+ {
+  "title": "Male slaves of Alcinous (δμῶες)",
+  "kind": "people",
+  "lines": [
+   69,
+   71
+  ],
+  "disposition": "expanded",
+  "entryId": "doulios",
+  "reason": "Alcinous orders the δμῶες to prepare the wagon. The doulios article already says δμώς is Homer's ordinary word for slave but has no δμώς patterns. Extend it with δμῶες, δμώεσσιν; female δμῳαί stay with handmaids."
+ },
+ {
+  "title": "The Phaeacian kings and council",
+  "kind": "people",
+  "lines": [
+   54,
+   55
+  ],
+  "disposition": "expanded",
+  "entryId": "kings",
+  "reason": "Alcinous goes to council \"with the famous kings\" (κλειτοὺς βασιλῆας). Pattern βασιλῆας matches. The kings article already cites the Phaeacian twelve kings (Od. 8.390); a short Book 6 note links the council."
+ },
+ {
+  "title": "Phaeacians",
+  "kind": "people",
+  "lines": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   35,
+   55,
+   114,
+   195,
+   196,
+   197,
+   201,
+   202,
+   203,
+   204,
+   205,
+   241,
+   257,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272,
+   284,
+   298,
+   302,
+   327
+  ],
+  "disposition": "created",
+  "entryId": "phaeacians",
+  "reason": "The people of Scheria: migration, remoteness (ἔσχατοι), closeness to the gods, seafaring, overbearing townsmen. No existing article. Also hosts Athenaeus 1.16e on 6.203."
+ },
+ {
+  "title": "Cyclopes",
+  "kind": "creature",
+  "lines": [
+   5,
+   6
+  ],
+  "disposition": "created",
+  "entryId": "cyclopes",
+  "reason": "The \"overweening men\" who harmed the Phaeacians in Hypereia. First mention of the Cyclopes in the corpus. Kind creature; distinct from Polyphemus the Lapith."
+ },
+ {
+  "title": "Scheria",
+  "kind": "place",
+  "lines": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   177,
+   191,
+   195,
+   202,
+   203,
+   204,
+   205,
+   259,
+   260,
+   261,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272,
+   291,
+   292,
+   293,
+   294,
+   298
+  ],
+  "disposition": "created",
+  "entryId": "scheria",
+  "reason": "The Phaeacian island and its city: wall, two harbors, narrow entrance, ship-sheds, agora (262-272). Also hosts the city plan, the harbors and the \"utopia\" reading, so these get no separate articles."
+ },
+ {
+  "title": "Hypereia (the Phaeacians' first home)",
+  "kind": "place",
+  "lines": [
+   4
+  ],
+  "disposition": "created",
+  "entryId": "hypereia-of-the-phaeacians",
+  "reason": "Homonym of the existing hypereia (a Thessalian spring), which already says the Odyssey's Hypereia is a different place. Scholia identify it with Camarina in Sicily or an island near the Cyclopes."
+ },
+ {
+  "title": "Olympus",
+  "kind": "place",
+  "lines": [
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   240
+  ],
+  "disposition": "expanded",
+  "entryId": "olympus",
+  "reason": "The great description of the gods' seat (42-46): no wind, rain or snow, cloudless sky, white gleam. Narrator's φασί \"they say\" (42). Rhianus read αἰθήρ (44) and τῇ (46). Book 6 note required; Οὔλυμπόνδʼ matches."
+ },
+ {
+  "title": "Delos",
+  "kind": "place",
+  "lines": [
+   162,
+   163,
+   164,
+   165,
+   166,
+   167
+  ],
+  "disposition": "created",
+  "entryId": "delos",
+  "reason": "Apollo's altar and the young palm on Delos. First mention in the corpus."
+ },
+ {
+  "title": "Taygetus",
+  "kind": "place",
+  "lines": [
+   103
+  ],
+  "disposition": "created",
+  "entryId": "taygetus",
+  "reason": "Laconian range where Artemis hunts; Ionic Τηΰγετος, \"towering\" (περιμήκετος). The epithet περιμήκετος is treated here."
+ },
+ {
+  "title": "Erymanthus",
+  "kind": "place",
+  "lines": [
+   103
+  ],
+  "disposition": "created",
+  "entryId": "erymanthus",
+  "reason": "Arcadian mountain where Artemis hunts boar and deer. Scholion notes the boars and deer of the place."
+ },
+ {
+  "title": "Ogygia",
+  "kind": "place",
+  "lines": [
+   172
+  ],
+  "disposition": "created",
+  "entryId": "ogygia",
+  "reason": "Calypso's island, from which Odysseus sailed twenty days before. First mention in the corpus."
+ },
+ {
+  "title": "The river of Scheria",
+  "kind": "place",
+  "lines": [
+   59,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   116,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   224,
+   317
+  ],
+  "disposition": "created",
+  "entryId": "river-of-scheria",
+  "reason": "The river where Odysseus landed (Book 5) and the girls wash, with ever-flowing pits, eddies and a sea mouth. Used through the book as a setting."
+ },
+ {
+  "title": "The grove of Athena",
+  "kind": "place",
+  "lines": [
+   291,
+   292,
+   293,
+   294,
+   295,
+   321,
+   322
+  ],
+  "disposition": "created",
+  "entryId": "grove-of-athena",
+  "reason": "Poplar grove holy to Athena near the road, with spring and meadow, a shout from the city. Odysseus prays there. Also covers the cult of Athena on Scheria and the poplars, spring and meadow."
+ },
+ {
+  "title": "The Posideion",
+  "kind": "place",
+  "lines": [
+   266,
+   267
+  ],
+  "disposition": "created",
+  "entryId": "posideion",
+  "reason": "The precinct of Poseidon at the Phaeacian agora, set with hauled stones sunk in the earth."
+ },
+ {
+  "title": "The house of Alcinous",
+  "kind": "place",
+  "lines": [
+   13,
+   15,
+   50,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306,
+   307,
+   308,
+   309
+  ],
+  "disposition": "created",
+  "entryId": "house-of-alcinous",
+  "reason": "Easily known among the Phaeacian houses; courtyard, hall, hearth, pillar, throne (299-309). Book 7 gives the full description. Also covers the pillar and the chamber."
+ },
+ {
+  "title": "The shore and jutting beaches",
+  "kind": "place",
+  "lines": [
+   94,
+   95,
+   138,
+   236
+  ],
+  "disposition": "covered",
+  "entryId": "shore",
+  "reason": "θίς ἁλός (94, 236) matches shore; ἠιόνας προὐχούσας (138) matches eionae. Routine use."
+ },
+ {
+  "title": "Sea, sky, earth",
+  "kind": "place",
+  "lines": [
+   94,
+   95,
+   150,
+   153,
+   170,
+   204,
+   226,
+   236,
+   243,
+   272
+  ],
+  "disposition": "covered",
+  "entryId": "sea",
+  "reason": "Routine. Patterns for sea, sky and earth match."
+ },
+ {
+  "title": "Corcyra",
+  "kind": "place",
+  "lines": [
+   3,
+   8
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Not named in Homer. The ancient identification with Scheria goes into the anecdote corcyra-and-the-phaeacians and the scheria article."
+ },
+ {
+  "title": "The city wall and harbors of the Phaeacians",
+  "kind": "place",
+  "lines": [
+   9,
+   262,
+   263,
+   264,
+   265
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Part of the city plan; treated in scheria. Homeric harbors in general already have deep-harbor."
+ },
+ {
+  "title": "Camarina",
+  "kind": "place",
+  "lines": [
+   4
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Only an ancient guess for Hypereia (scholia); treated in hypereia-of-the-phaeacians."
+ },
+ {
+  "title": "Ithaca (implicit, \"your native land\")",
+  "kind": "place",
+  "lines": [
+   315
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Not named; dear-native-land covers the formula."
+ },
+ {
+  "title": "Mules",
+  "kind": "animal",
+  "lines": [
+   37,
+   68,
+   72,
+   73,
+   82,
+   83,
+   88,
+   89,
+   90,
+   111,
+   253,
+   260,
+   316,
+   317,
+   318,
+   319,
+   320
+  ],
+  "disposition": "expanded",
+  "entryId": "mules",
+  "reason": "The mule team: yoked, driven at a clatter (dual ἡμιόνοιιν), grazing honey-sweet grass, \"strong-hoofed\", stepping out (πλίσσοντο, disputed; Callistratus read τρεχέτην at 318). Existing patterns only catch οὐρῆας; ἡμίονος forms are missing."
+ },
+ {
+  "title": "Lion",
+  "kind": "animal",
+  "lines": [
+   130
+  ],
+  "disposition": "covered",
+  "entryId": "lion",
+  "reason": "Pattern λέων matches 6.130. The simile gets its own article (the-lion-and-the-girls)."
+ },
+ {
+  "title": "Deer",
+  "kind": "animal",
+  "lines": [
+   104,
+   133
+  ],
+  "disposition": "expanded",
+  "entryId": "deer",
+  "reason": "ἐλάφοισι (104) and ἐλάφους (133) are not matched by ἐλάφοιο. Form addition."
+ },
+ {
+  "title": "Boar",
+  "kind": "animal",
+  "lines": [
+   104
+  ],
+  "disposition": "expanded",
+  "entryId": "boar",
+  "reason": "κάπροισι (104): the article lists κάπρος as an alias but has no κάπρ- pattern. Form addition."
+ },
+ {
+  "title": "Cattle",
+  "kind": "animal",
+  "lines": [
+   132
+  ],
+  "disposition": "expanded",
+  "entryId": "cattle",
+  "reason": "βουσί (132) is not matched. Form addition."
+ },
+ {
+  "title": "Sheep",
+  "kind": "animal",
+  "lines": [
+   132,
+   134
+  ],
+  "disposition": "expanded",
+  "entryId": "sheep",
+  "reason": "ὀίεσσιν (132) and μήλων (134) are not matched. Form addition."
+ },
+ {
+  "title": "Goats (αἴγειος, goatskin)",
+  "kind": "animal",
+  "lines": [
+   78
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Only the adjective \"of goat\" for the wineskin; treated in wineskin."
+ },
+ {
+  "title": "Wagon (ἀπήνη, ἄμαξα)",
+  "kind": "object",
+  "lines": [
+   37,
+   39,
+   57,
+   58,
+   69,
+   70,
+   72,
+   73,
+   75,
+   78,
+   81,
+   82,
+   88,
+   90,
+   252,
+   253,
+   260,
+   316,
+   319,
+   320
+  ],
+  "disposition": "created",
+  "entryId": "wagon",
+  "reason": "The high, well-wheeled mule wagon with an upper frame (ὑπερτερίη); whip and reins. No existing article (chariot is ἅρμα). Also covers whip, reins and the upper frame."
+ },
+ {
+  "title": "Clothes (εἵματα, ἐσθής)",
+  "kind": "object",
+  "lines": [
+   26,
+   38,
+   58,
+   59,
+   61,
+   64,
+   74,
+   83,
+   91,
+   93,
+   94,
+   98,
+   111,
+   144,
+   178,
+   179,
+   192,
+   214,
+   228,
+   252
+  ],
+  "disposition": "created",
+  "entryId": "clothes",
+  "reason": "Clothes are the hinge of the plot: laundry before marriage, clothing for a naked suppliant. Also covers ζῶστρα, ῥάκος, εἴλυμα."
+ },
+ {
+  "title": "Robe (πέπλος)",
+  "kind": "object",
+  "lines": [
+   38
+  ],
+  "disposition": "expanded",
+  "entryId": "robe",
+  "reason": "πέπλους (38) among the laundry. The robe article is ἑανός only; extend it to πέπλος (the-robe-and-the-panathenaea note already treats the Iliad 6 πέπλος)."
+ },
+ {
+  "title": "Coverlets (ῥήγεα)",
+  "kind": "object",
+  "lines": [
+   38
+  ],
+  "disposition": "created",
+  "entryId": "coverlets",
+  "reason": "Glossy coverlets for beds, a recurring Odyssey object (beds made for guests). No existing article."
+ },
+ {
+  "title": "Cloak (φᾶρος)",
+  "kind": "object",
+  "lines": [
+   214
+  ],
+  "disposition": "covered",
+  "entryId": "cloak",
+  "reason": "φᾶρος matches the cloak patterns; the cloak article already cites the Phaeacian φᾶρος."
+ },
+ {
+  "title": "Tunic",
+  "kind": "object",
+  "lines": [
+   214
+  ],
+  "disposition": "covered",
+  "entryId": "tunic",
+  "reason": "χιτῶνα matches; routine."
+ },
+ {
+  "title": "Veil (κρήδεμνα)",
+  "kind": "object",
+  "lines": [
+   100
+  ],
+  "disposition": "expanded",
+  "entryId": "veil",
+  "reason": "The girls throw off their κρήδεμνα to play. The veil article names κρήδεμνον as an alias but has no pattern. Form and Book 6 note."
+ },
+ {
+  "title": "Olive oil (ἔλαιον)",
+  "kind": "object",
+  "lines": [
+   79,
+   80,
+   96,
+   215,
+   219,
+   220,
+   227
+  ],
+  "disposition": "created",
+  "entryId": "olive-oil",
+  "reason": "Liquid olive oil in a golden flask (λήκυθος), for anointing after bathing. Also covers the golden flask (Homer's only λήκυθος) and ἀλοιφή."
+ },
+ {
+  "title": "Golden flask (λήκυθος)",
+  "kind": "object",
+  "lines": [
+   79,
+   215
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Inseparable from olive-oil; treated there."
+ },
+ {
+  "title": "Food chest (κίστη) and relishes (ὄψα)",
+  "kind": "object",
+  "lines": [
+   76,
+   77
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Routine provisions; lexicon gives the senses."
+ },
+ {
+  "title": "Wine",
+  "kind": "object",
+  "lines": [
+   77,
+   309
+  ],
+  "disposition": "expanded",
+  "entryId": "wine",
+  "reason": "οἶνον (77) is not matched by the wine patterns. Form addition only."
+ },
+ {
+  "title": "Wineskin (ἀσκός)",
+  "kind": "object",
+  "lines": [
+   78
+  ],
+  "disposition": "created",
+  "entryId": "wineskin",
+  "reason": "Goatskin of wine packed by the queen. The wineskin recurs in Odyssey 5, 9 and 10. No existing article."
+ },
+ {
+  "title": "Bed (δέμνια), chamber (θάλαμος), doors and doorposts",
+  "kind": "object",
+  "lines": [
+   15,
+   19,
+   20,
+   74
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Routine furnishings; house-of-alcinous and the intricately-worked epithet cover them."
+ },
+ {
+  "title": "Hearth (ἐσχάρη)",
+  "kind": "object",
+  "lines": [
+   52,
+   305
+  ],
+  "disposition": "created",
+  "entryId": "hearth",
+  "reason": "The queen sits at the hearth in the firelight. The hearth is the suppliant's goal in Book 7. No existing article."
+ },
+ {
+  "title": "Distaff and spinning (ἠλακάτη)",
+  "kind": "object",
+  "lines": [
+   53,
+   306
+  ],
+  "disposition": "created",
+  "entryId": "distaff",
+  "reason": "The queen spins sea-purple wool. No existing article; weaving covers the loom only."
+ },
+ {
+  "title": "Pillar (κίων)",
+  "kind": "object",
+  "lines": [
+   307
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in house-of-alcinous; the simile like-a-pillar is unrelated."
+ },
+ {
+  "title": "Throne",
+  "kind": "object",
+  "lines": [
+   308
+  ],
+  "disposition": "expanded",
+  "entryId": "throne",
+  "reason": "θρόνος (308) is not matched by θρόνου, χρυσόθρονος. Form addition."
+ },
+ {
+  "title": "Ships",
+  "kind": "object",
+  "lines": [
+   264,
+   265,
+   268,
+   269,
+   270,
+   271,
+   272,
+   278
+  ],
+  "disposition": "expanded",
+  "entryId": "ships",
+  "reason": "Phaeacian seafaring: curving ships drawn up, ship-sheds, tackle, balanced ships. Pattern νηός correctly takes 278 (ship); νεῶν matches 271. Book 6 note on Phaeacian ships."
+ },
+ {
+  "title": "Oars",
+  "kind": "object",
+  "lines": [
+   269,
+   271
+  ],
+  "disposition": "expanded",
+  "entryId": "oars",
+  "reason": "ἐρετμά (269, 271) not matched. Form addition."
+ },
+ {
+  "title": "Mast",
+  "kind": "object",
+  "lines": [
+   271
+  ],
+  "disposition": "expanded",
+  "entryId": "mast",
+  "reason": "ἱστοί (271) not matched; add with an except on loom."
+ },
+ {
+  "title": "Ship tackle (πείσματα, σπεῖρα)",
+  "kind": "object",
+  "lines": [
+   268,
+   269
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in ships. σπεῖρα at 269 (rigging) and σπείρων at 179 (cloths) are homographs; lexicon distinguishes them."
+ },
+ {
+  "title": "Bow (βιός)",
+  "kind": "object",
+  "lines": [
+   270
+  ],
+  "disposition": "expanded",
+  "entryId": "bow",
+  "reason": "βιός (270) is not matched by βιοῖο. Phaeacians have no use for bow or quiver. Form addition; accent-sensitive against βίος \"life\"."
+ },
+ {
+  "title": "Quiver",
+  "kind": "object",
+  "lines": [
+   270
+  ],
+  "disposition": "expanded",
+  "entryId": "quiver",
+  "reason": "φαρέτρη (270) not matched by the phrase pattern. Form addition."
+ },
+ {
+  "title": "Temple",
+  "kind": "object",
+  "lines": [
+   10
+  ],
+  "disposition": "expanded",
+  "entryId": "temple",
+  "reason": "νηοὺς ποίησε θεῶν (10): Nausithous builds temples. νηούς not matched. Do not add νηός (it is ship at 278)."
+ },
+ {
+  "title": "Altar",
+  "kind": "object",
+  "lines": [
+   162
+  ],
+  "disposition": "expanded",
+  "entryId": "altar",
+  "reason": "βωμῷ (162) not matched by βωμόν. Form addition."
+ },
+ {
+  "title": "Palm tree (φοῖνιξ)",
+  "kind": "object",
+  "lines": [
+   163,
+   166,
+   167
+  ],
+  "disposition": "created",
+  "entryId": "palm-tree",
+  "reason": "The young palm by Apollo's altar. Homograph of φοῖνιξ \"purple\" and the name Phoenix; patterns must use the lowercase form φοίνικος only."
+ },
+ {
+  "title": "Hair",
+  "kind": "object",
+  "lines": [
+   231
+  ],
+  "disposition": "expanded",
+  "entryId": "hair",
+  "reason": "κόμας (231) not matched. Form addition; the hyacinth curls go to the simile."
+ },
+ {
+  "title": "Branch, thickets, forest (πτόρθος, θάμνοι, ὕλη)",
+  "kind": "object",
+  "lines": [
+   127,
+   128
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Routine. ὕλη is not caught by Hyle (pattern ^Ὕλην)."
+ },
+ {
+  "title": "Poplars, spring, meadow, orchard (αἴγειροι, κρήνη, λειμών, ἀλωή)",
+  "kind": "object",
+  "lines": [
+   292,
+   293
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in grove-of-athena and temenos."
+ },
+ {
+  "title": "Hauled stones (ῥυτοὶ λᾶες)",
+  "kind": "object",
+  "lines": [
+   267
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in posideion. λάεσσι is not caught by Laas (^Λάαν)."
+ },
+ {
+  "title": "Hyacinth flower",
+  "kind": "object",
+  "lines": [
+   231
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in the simile like-the-hyacinth-flower."
+ },
+ {
+  "title": "House (δῶμα, οἶκος)",
+  "kind": "object",
+  "lines": [
+   13,
+   50,
+   181,
+   183,
+   256,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   315
+  ],
+  "disposition": "covered",
+  "entryId": "house",
+  "reason": "Patterns match. The specific house is house-of-alcinous."
+ },
+ {
+  "title": "Washing clothes and the washing pits (πλύνω, πλυνοί)",
+  "kind": "ritual",
+  "lines": [
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   40,
+   59,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   98,
+   111
+  ],
+  "disposition": "created",
+  "entryId": "washing-clothes",
+  "reason": "Laundry at ever-flowing pits by the river, treading the clothes in rivalry, drying on the shingle. A woman's task tied to the coming marriage. Also covers the washing pits (πλυνοί) as objects and ἐπηετανός."
+ },
+ {
+  "title": "Bathing and anointing",
+  "kind": "ritual",
+  "lines": [
+   80,
+   96,
+   210,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227
+  ],
+  "disposition": "expanded",
+  "entryId": "bathing",
+  "reason": "The girls bathe and anoint; Odysseus refuses to bathe in front of the maids (221-222), a reversal of the bath scene where women bathe the guest. Patterns match; Book 6 note needed."
+ },
+ {
+  "title": "Supplication",
+  "kind": "ritual",
+  "lines": [
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   168,
+   169,
+   175,
+   193,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315
+  ],
+  "disposition": "expanded",
+  "entryId": "supplication",
+  "reason": "Odysseus supplicates \"with soothing words, standing apart\" instead of clasping the knees; Nausicaa names him ἱκέτης (193); he is told to clasp the queen's knees. γουνοῦμαι, γοῦνα, γούνασι, ἱκέτην are not matched."
+ },
+ {
+  "title": "Hospitality (ξεῖνος)",
+  "kind": "term",
+  "lines": [
+   119,
+   120,
+   121,
+   187,
+   191,
+   192,
+   193,
+   206,
+   207,
+   208,
+   209,
+   210,
+   246,
+   255,
+   277,
+   289
+  ],
+  "disposition": "expanded",
+  "entryId": "xenia",
+  "reason": "Nausicaa's reception of the stranger: food, drink, bath, clothes, escort. Zeus as source of strangers. ξειν* matches. Book 6 note required."
+ },
+ {
+  "title": "Marriage",
+  "kind": "ritual",
+  "lines": [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   66,
+   158,
+   159,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   244,
+   245,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288
+  ],
+  "disposition": "expanded",
+  "entryId": "marriage",
+  "reason": "The near marriage of Nausicaa, the suitors, bride-gifts, the \"public marriage\" (ἀμφάδιον γάμον, 288). The existing patterns (κουριδίη ἄλοχος) catch nothing here. Also absorbs μνάομαι, ὀπυίω, ἠίθεος and Nausicaa's rule at 286-288."
+ },
+ {
+  "title": "Bride-price (ἕδνα)",
+  "kind": "ritual",
+  "lines": [
+   159
+  ],
+  "disposition": "expanded",
+  "entryId": "bride-price",
+  "reason": "ἐέδνοισι βρίσας \"prevailing with his bride-gifts\" (159). Form not matched. Note on the competitive bride-price."
+ },
+ {
+  "title": "Prayer",
+  "kind": "ritual",
+  "lines": [
+   280,
+   323,
+   324,
+   325,
+   326,
+   327,
+   328
+  ],
+  "disposition": "expanded",
+  "entryId": "prayer",
+  "reason": "Odysseus's reproachful prayer to Athena (324-327) and the imagined girl's prayer for a husband (280). εὐξαμένῃ, εὐχόμενος match. Book 6 note."
+ },
+ {
+  "title": "Ball-play (σφαῖρα)",
+  "kind": "ritual",
+  "lines": [
+   100,
+   101,
+   115,
+   116,
+   117
+  ],
+  "disposition": "created",
+  "entryId": "ball-play",
+  "reason": "The girls' ball game that wakes Odysseus. Only Homeric heroine shown playing ball (Athenaeus 1.14d). Also covers the ball as object and Aristarchus's reading σφαίρῃ ταὶ δʼ ἄρʼ at 100. The simile like-a-ball (Iliad 13) is a different subject."
+ },
+ {
+  "title": "Dance and song (χορός, μολπή)",
+  "kind": "ritual",
+  "lines": [
+   65,
+   101,
+   157
+  ],
+  "disposition": "expanded",
+  "entryId": "dance",
+  "reason": "The brothers go to the dance (65); Nausicaa leads the μολπή (101); the girl entering the dance (157). χορόν matches; μολπῆς does not."
+ },
+ {
+  "title": "Assembly place (ἀγορή)",
+  "kind": "ritual",
+  "lines": [
+   266
+  ],
+  "disposition": "expanded",
+  "entryId": "assembly",
+  "reason": "The Phaeacian agora as a built space around the Posideion. Pattern matches; short note."
+ },
+ {
+  "title": "Founding a city (Nausithous)",
+  "kind": "ritual",
+  "lines": [
+   7,
+   8,
+   9,
+   10
+  ],
+  "disposition": "created",
+  "entryId": "the-phaeacians-leave-hypereia",
+  "reason": "Wall, houses, temples, division of land: the founder's acts. Treated in the story article, not as a separate ritual entry."
+ },
+ {
+  "title": "The cult of Athena on Scheria",
+  "kind": "ritual",
+  "lines": [
+   291,
+   321,
+   322
+  ],
+  "disposition": "created",
+  "entryId": "grove-of-athena",
+  "reason": "Treated in the grove article."
+ },
+ {
+  "title": "The riverside meal",
+  "kind": "ritual",
+  "lines": [
+   97,
+   99,
+   246,
+   247,
+   248,
+   249,
+   250
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Routine meal; lexicon and the food-and-drink formula cover it."
+ },
+ {
+  "title": "φιλόξεινος, θεουδής, ὑβριστής, δίκαιος (the castaway's question)",
+  "kind": "term",
+  "lines": [
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126
+  ],
+  "disposition": "created",
+  "entryId": "to-the-land-of-what-mortals",
+  "reason": "The four moral terms belong to a recurring three-line question (6.119-121 = 9.175-176 = 13.200-202). One formula article treats them together; separate term articles would repeat it."
+ },
+ {
+  "title": "ὕβρις (ὑβριστής)",
+  "kind": "term",
+  "lines": [
+   120
+  ],
+  "disposition": "expanded",
+  "entryId": "hybris",
+  "reason": "ὑβρισταί (120) is not matched. Form and cross-reference."
+ },
+ {
+  "title": "αἰδώς, αἴδομαι",
+  "kind": "term",
+  "lines": [
+   66,
+   221,
+   329
+  ],
+  "disposition": "expanded",
+  "entryId": "aidos",
+  "reason": "Three uses: Nausicaa's shame to name marriage, Odysseus's shame to strip, Athena's respect for Poseidon. Variant ἄζετο at 329 (scholia). Forms αἴδετο, αἰδέομαι not matched."
+ },
+ {
+  "title": "νέμεσις, νεμεσάω",
+  "kind": "term",
+  "lines": [
+   286
+  ],
+  "disposition": "expanded",
+  "entryId": "nemesis",
+  "reason": "Nausicaa's social disapproval of girls who meet men before marriage. Pattern matches; short note."
+ },
+ {
+  "title": "χάρις",
+  "kind": "term",
+  "lines": [
+   18,
+   23,
+   235,
+   236,
+   237
+  ],
+  "disposition": "expanded",
+  "entryId": "charis",
+  "reason": "Athena \"poured grace\" on Odysseus (235), \"gleaming with beauty and graces\" (237); κεχάριστο (23). Only χάριν matches."
+ },
+ {
+  "title": "ὁμοφροσύνη",
+  "kind": "term",
+  "lines": [
+   181,
+   182,
+   183,
+   184
+  ],
+  "disposition": "created",
+  "entryId": "homophrosyne",
+  "reason": "Like-mindedness of husband and wife, the Odyssey's marriage ideal (also ὁμοφρονέοντε 183). No existing article."
+ },
+ {
+  "title": "ἄνασσα",
+  "kind": "term",
+  "lines": [
+   149,
+   175
+  ],
+  "disposition": "expanded",
+  "entryId": "anax",
+  "reason": "Odysseus addresses Nausicaa as ἄνασσα, a title otherwise for goddesses. Extend anax with the feminine."
+ },
+ {
+  "title": "βασίλεια",
+  "kind": "term",
+  "lines": [
+   115
+  ],
+  "disposition": "expanded",
+  "entryId": "basileus",
+  "reason": "Nausicaa called βασίλεια (115). Extend basileus with the feminine."
+ },
+ {
+  "title": "ὄλβος",
+  "kind": "term",
+  "lines": [
+   188
+  ],
+  "disposition": "created",
+  "entryId": "olbos",
+  "reason": "Prosperity that Zeus deals out to good and bad. No existing article. Key term for the saying zeus-deals-out-prosperity."
+ },
+ {
+  "title": "θέμις",
+  "kind": "term",
+  "lines": [
+   1
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Not attested in Book 6 (no θεμ- word in the Greek). The idea of what is fitting appears as ἐπέοικε (193), treated in supplication."
+ },
+ {
+  "title": "ἀλφηστής",
+  "kind": "term",
+  "lines": [
+   8
+  ],
+  "disposition": "created",
+  "entryId": "alphestes",
+  "reason": "\"Grain-eating\" men, a rare epithet of mortals; ancient alternative \"inventive\" (scholion H). No existing article."
+ },
+ {
+  "title": "διερός",
+  "kind": "term",
+  "lines": [
+   201
+  ],
+  "disposition": "created",
+  "entryId": "dieros",
+  "reason": "Disputed word: Aristarchus \"living\"; Callistratus read δυερός \"wretched\"; Lehrs reports a gloss \"hostile, a raider\". Also \"swift\" at 9.43. Holds the textual note on 201."
+ },
+ {
+  "title": "ἐπίστιον",
+  "kind": "term",
+  "lines": [
+   265
+  ],
+  "disposition": "created",
+  "entryId": "epistion",
+  "reason": "Uncertain \"berth, slip, ship-shed\" (scholia: ἐποίκιον, σκηνή, νεώριον). The lexicon glosses \"berth\" and the translation \"ship-shed\"; the article must settle the gloss."
+ },
+ {
+  "title": "φῆμις, φάτις (public talk)",
+  "kind": "term",
+  "lines": [
+   29,
+   273
+  ],
+  "disposition": "created",
+  "entryId": "phemis",
+  "reason": "Good report (φάτις, 29) and unkind talk (φῆμις ἀδευκής, 273): the vocabulary of reputation. No existing article. Also absorbs ἀδευκής and μωμεύω."
+ },
+ {
+  "title": "πομπή",
+  "kind": "term",
+  "lines": [
+   290
+  ],
+  "disposition": "created",
+  "entryId": "pompe",
+  "reason": "The Phaeacian \"escort\" home, first promised here; the Phaeacians' defining service. No existing article."
+ },
+ {
+  "title": "παρθένος",
+  "kind": "term",
+  "lines": [
+   33,
+   109,
+   228
+  ],
+  "disposition": "created",
+  "entryId": "parthenos",
+  "reason": "Unmarried girl (παρθένος ἀδμής); Nausicaa will not be a παρθένος much longer (33). No existing article; κούρη is treated here."
+ },
+ {
+  "title": "τέμενος",
+  "kind": "term",
+  "lines": [
+   293
+  ],
+  "disposition": "created",
+  "entryId": "temenos",
+  "reason": "Alcinous's estate beside Athena's grove; Thucydides 3.70.4 names a precinct of Alcinous at Corcyra. No existing article."
+ },
+ {
+  "title": "πτωχός",
+  "kind": "term",
+  "lines": [
+   208
+  ],
+  "disposition": "created",
+  "entryId": "ptochos",
+  "reason": "Beggar, linked with ξεῖνος under Zeus (208). Central to Odyssey 13-22. No existing article. Also absorbs ἀλώμενος and δύστηνος."
+ },
+ {
+  "title": "γαστήρ (the belly)",
+  "kind": "term",
+  "lines": [
+   133
+  ],
+  "disposition": "created",
+  "entryId": "gaster",
+  "reason": "The lion's \"belly bids him\" (133): first instance of the Odyssey's theme of the belly. No existing article."
+ },
+ {
+  "title": "νόστος, νόστιμον ἦμαρ",
+  "kind": "term",
+  "lines": [
+   14,
+   290,
+   311
+  ],
+  "disposition": "expanded",
+  "entryId": "nostos",
+  "reason": "νόστον, νόστοιο, νόστιμον are not matched by the existing patterns. Form addition and short note."
+ },
+ {
+  "title": "πόλις, ἄστυ",
+  "kind": "term",
+  "lines": [
+   3,
+   9,
+   40,
+   114,
+   144,
+   177,
+   178,
+   191,
+   194,
+   195,
+   255,
+   262,
+   263,
+   294,
+   296,
+   298
+  ],
+  "disposition": "expanded",
+  "entryId": "polis",
+  "reason": "The translation distinguishes ἄστυ \"town\" (178, 194, 296) from πόλις \"city\". Only πόλιν matches. Add ἄστυ, πόληος, πόλινδε forms."
+ },
+ {
+  "title": "κασίγνητος, πατροκασίγνητος",
+  "kind": "term",
+  "lines": [
+   155,
+   330
+  ],
+  "disposition": "expanded",
+  "entryId": "kasignetos",
+  "reason": "πατροκασίγνητον (330) \"father's brother\" is not matched by κασιγνητ*. Form addition."
+ },
+ {
+  "title": "πόσις (husband) vs πόσις (drink)",
+  "kind": "term",
+  "lines": [
+   244,
+   277,
+   282,
+   209,
+   246,
+   248
+  ],
+  "disposition": "expanded",
+  "entryId": "posis",
+  "reason": "Homograph error: \"=πόσιν\" claims πόσιν \"drink\" at 209, 246, 248 (same accent). Add except for Odyssey 6.209, 6.246, 6.248. Husband at 244, 277, 282."
+ },
+ {
+  "title": "νήπιος (infant)",
+  "kind": "term",
+  "lines": [
+   301
+  ],
+  "disposition": "expanded",
+  "entryId": "nepios",
+  "reason": "πάϊς νήπιος \"an infant\" (301): the literal sense. Pattern matches; short note on sense."
+ },
+ {
+  "title": "ὄναρ / ὄνειρος",
+  "kind": "term",
+  "lines": [
+   49
+  ],
+  "disposition": "expanded",
+  "entryId": "onar",
+  "reason": "Nausicaa wonders at the ὄνειρος (49). Take over the form from dream (god)."
+ },
+ {
+  "title": "ἔρις (washing rivalry)",
+  "kind": "term",
+  "lines": [
+   92
+  ],
+  "disposition": "expanded",
+  "entryId": "eris",
+  "reason": "ἔριδα προφέρουσαι \"bringing on a rivalry\" in the washing: the good, competitive strife (cf. hesiods-two-strifes). ἔριδα not matched."
+ },
+ {
+  "title": "θάμβος, τέθηπα, θαῦμα",
+  "kind": "term",
+  "lines": [
+   166,
+   168,
+   306
+  ],
+  "disposition": "expanded",
+  "entryId": "thambos",
+  "reason": "ἐτεθήπεα, τέθηπα (same root) and θαῦμα ἰδέσθαι (306). Not matched. Short note on wonder."
+ },
+ {
+  "title": "κήρ (doom)",
+  "kind": "term",
+  "lines": [
+   11
+  ],
+  "disposition": "expanded",
+  "entryId": "ker-doom",
+  "reason": "κηρὶ δαμείς (11). Accent-sensitive against κῆρι \"heart\" (158). Not matched."
+ },
+ {
+  "title": "κῆρ (heart)",
+  "kind": "term",
+  "lines": [
+   158
+  ],
+  "disposition": "expanded",
+  "entryId": "ker-heart",
+  "reason": "περὶ κῆρι (158). Not matched. Add accent-sensitive pattern."
+ },
+ {
+  "title": "γούνατα (knees)",
+  "kind": "term",
+  "lines": [
+   142,
+   147,
+   169,
+   310
+  ],
+  "disposition": "expanded",
+  "entryId": "gounata",
+  "reason": "γοῦνα, γούνασι not matched (γούνων matches). Form addition."
+ },
+ {
+  "title": "ὕπνος",
+  "kind": "term",
+  "lines": [
+   2
+  ],
+  "disposition": "expanded",
+  "entryId": "hypnos",
+  "reason": "ὕπνῳ (2) not matched. Form addition only."
+ },
+ {
+  "title": "ἀλκή",
+  "kind": "term",
+  "lines": [
+   130
+  ],
+  "disposition": "expanded",
+  "entryId": "alke",
+  "reason": "ἀλκὶ πεποιθώς (130). The article already cites 6.130 but the dative ἀλκί is not matched."
+ },
+ {
+  "title": "ἀϋτή",
+  "kind": "term",
+  "lines": [
+   122
+  ],
+  "disposition": "expanded",
+  "entryId": "aute",
+  "reason": "θῆλυς ἀυτή \"a female cry\" (122): non-martial sense. Not matched."
+ },
+ {
+  "title": "κέρδος, κερδαλέος",
+  "kind": "term",
+  "lines": [
+   145,
+   148
+  ],
+  "disposition": "covered",
+  "entryId": "kerdos",
+  "reason": "The article already discusses κέρδιον and Odysseus's \"soothing and shrewd word\" (6.148)."
+ },
+ {
+  "title": "θάρσος, δέος",
+  "kind": "term",
+  "lines": [
+   140
+  ],
+  "disposition": "covered",
+  "entryId": "tharsos",
+  "reason": "The article already cites Athena putting θάρσος in Nausicaa's heart (6.140). deos also matches."
+ },
+ {
+  "title": "εἶδος",
+  "kind": "term",
+  "lines": [
+   16,
+   22,
+   24,
+   152
+  ],
+  "disposition": "covered",
+  "entryId": "eidos",
+  "reason": "Patterns match, including εἰδομένη and ἐεισαμένη for Athena's likeness."
+ },
+ {
+  "title": "σέβας",
+  "kind": "term",
+  "lines": [
+   161
+  ],
+  "disposition": "covered",
+  "entryId": "sebas",
+  "reason": "σέβας μʼ ἔχει εἰσορόωντα; the article already cites the Odyssey use. Index audit added the form σέβας to the entry, which matched only σέβεσθε, so that 6.161 is listed."
+ },
+ {
+  "title": "Other routine terms (θυμός, φρένες, νόος, μῦθος, ἔπος, φίλος, πατήρ, μήτηρ, δῆμος, λαός, θεός, δαίμων, πένθος, ἄλγος, κράτος, ἄριστος, ἥρως, ὄνειδος, πεῖρα, εὔχομαι, βουλή)",
+  "kind": "term",
+  "lines": [
+   3,
+   21,
+   23,
+   34,
+   55,
+   61,
+   67,
+   118,
+   121,
+   126,
+   148,
+   155,
+   164,
+   166,
+   172,
+   184,
+   194,
+   197,
+   203,
+   257,
+   274,
+   283,
+   285,
+   303,
+   313,
+   320
+  ],
+  "disposition": "covered",
+  "entryId": "thymos",
+  "reason": "Patterns match and the existing articles explain the senses; no Book 6 note needed. Ids: thymos, phrenes, noos, mythos, epos, philos, pater, meter, demos, laos, theos, daimon, penthos, algos, kratos, aristos, heros, oneidos, peira, euchomai, boule."
+ },
+ {
+  "title": "μήδεα \"genitals\" vs μήδεα \"plans\"",
+  "kind": "term",
+  "lines": [
+   12,
+   129
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Homograph handled in the lexicon (12 plans, 129 genitals); no article."
+ },
+ {
+  "title": "συνέριθος, μεθήμων, ἀρημένος, ἀπινύσσω, ἐπιζαφελῶς, πλίσσομαι",
+  "kind": "term",
+  "lines": [
+   2,
+   25,
+   32,
+   258,
+   318,
+   330
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Rare words fully handled in the lexicon notes; variant readings go to the author notes (Aristarchus, Callistratus)."
+ },
+ {
+  "title": "εἰσίθμη",
+  "kind": "term",
+  "lines": [
+   264
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Hapax \"entrance\"; lexicon note plus scheria; Aristophanes' reading ἴσθμη goes to aristophanes-of-byzantium."
+ },
+ {
+  "title": "μνάομαι, ὀπυίω, ἠίθεος",
+  "kind": "term",
+  "lines": [
+   34,
+   63,
+   284
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated inside the marriage note and sons-of-alcinous."
+ },
+ {
+  "title": "ἀτιμάζω, μωμεύω, ἀδευκής",
+  "kind": "term",
+  "lines": [
+   273,
+   274,
+   283
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in phemis and praise-and-blame."
+ },
+ {
+  "title": "Shame and reputation",
+  "kind": "theme",
+  "lines": [
+   27,
+   28,
+   29,
+   30,
+   66,
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288
+  ],
+  "disposition": "expanded",
+  "entryId": "praise-and-blame",
+  "reason": "Nausicaa's concern for good report and fear of blame extends a theme so far written for Iliadic warriors. Book 6 note; links phemis, aidos, oneidos, tis-speech."
+ },
+ {
+  "title": "Women and gossip",
+  "kind": "theme",
+  "lines": [
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288
+  ],
+  "disposition": "expanded",
+  "entryId": "praise-and-blame",
+  "reason": "The imagined gossip of the townsmen about a girl and a stranger. Same target as above; one note."
+ },
+ {
+  "title": "Recognition",
+  "kind": "theme",
+  "lines": [
+   1
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "No recognition in Book 6: Odysseus stays unnamed (his name comes at 9.19). The withheld name is noted in odysseus and nausicaa."
+ },
+ {
+  "title": "Divine disguise",
+  "kind": "theme",
+  "lines": [
+   20,
+   21,
+   22,
+   23,
+   24,
+   329
+  ],
+  "disposition": "expanded",
+  "entryId": "seeing-the-gods",
+  "reason": "Athena in the likeness of Dymas' daughter; she does not appear \"face to face\" (329). Book 6 note."
+ },
+ {
+  "title": "Divine beautification",
+  "kind": "theme",
+  "lines": [
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   237,
+   242,
+   243
+  ],
+  "disposition": "created",
+  "entryId": "divine-beautification",
+  "reason": "Athena makes Odysseus taller, sturdier, curly-haired (229-235); repeated 23.156-162 and with Penelope 18.190-196. No existing article."
+ },
+ {
+  "title": "Scheria as an ideal land (utopia)",
+  "kind": "theme",
+  "lines": [
+   8,
+   201,
+   202,
+   203,
+   204,
+   205,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272
+  ],
+  "disposition": "created",
+  "entryId": "scheria",
+  "reason": "Treated as a section of the scheria article, with the phaeacians article, rather than a separate theme."
+ },
+ {
+  "title": "Nakedness",
+  "kind": "theme",
+  "lines": [
+   127,
+   128,
+   129,
+   136,
+   178,
+   179,
+   221,
+   222
+  ],
+  "disposition": "created",
+  "entryId": "nakedness",
+  "reason": "Odysseus naked before the girls, covering himself, ashamed to strip. No existing article."
+ },
+ {
+  "title": "Fathers and daughters",
+  "kind": "theme",
+  "lines": [
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   287
+  ],
+  "disposition": "expanded",
+  "entryId": "fathers-and-daughters",
+  "reason": "\"Papa dear\" (πάππα, 57) and the father who \"understood everything\" (67). The article is Iliad-only so far. Also absorbs πάππα."
+ },
+ {
+  "title": "Husbands and wives",
+  "kind": "theme",
+  "lines": [
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   244
+  ],
+  "disposition": "expanded",
+  "entryId": "husbands-and-wives",
+  "reason": "The ὁμοφροσύνη blessing. Book 6 note."
+ },
+ {
+  "title": "Pity",
+  "kind": "theme",
+  "lines": [
+   175,
+   327
+  ],
+  "disposition": "expanded",
+  "entryId": "pity",
+  "reason": "ἐλέαιρε (matches) and ἐλεεινόν (327, not matched). Short note."
+ },
+ {
+  "title": "Exile and refuge",
+  "kind": "theme",
+  "lines": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   206
+  ],
+  "disposition": "expanded",
+  "entryId": "exile-and-refuge",
+  "reason": "The Phaeacian migration from Hypereia, and the wanderer at 206. Book 6 note."
+ },
+ {
+  "title": "Gold and silver",
+  "kind": "theme",
+  "lines": [
+   232
+  ],
+  "disposition": "expanded",
+  "entryId": "gold-and-silver",
+  "reason": "The gilding simile. χρυσόν, ἀργύρῳ not matched by its patterns. Cross-reference to the simile."
+ },
+ {
+  "title": "Wandering (ἀλάομαι)",
+  "kind": "theme",
+  "lines": [
+   206
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "One occurrence; treated in ptochos and odysseus. An Odyssey-wide theme can be built later."
+ },
+ {
+  "title": "Endurance (τλῆναι)",
+  "kind": "theme",
+  "lines": [
+   1,
+   190,
+   249
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in the much-enduring epithet note (πολύτλας, τετλάμεν 190)."
+ },
+ {
+  "title": "Gods and mortals (likeness to gods)",
+  "kind": "theme",
+  "lines": [
+   16,
+   149,
+   150,
+   151,
+   152,
+   153,
+   243,
+   309
+  ],
+  "disposition": "expanded",
+  "entryId": "gods-and-mortals",
+  "reason": "Comparisons of mortals with gods (16, 149-153, 203, 243, 309). The general article does not cite Book 6, so index audit added a short Book 6 note that links the lines to god-or-mortal, like-the-goddesses, divine-beautification and seeing-the-gods."
+ },
+ {
+  "title": "δῖος \"brilliant\" (Odysseus)",
+  "kind": "epithet",
+  "lines": [
+   1,
+   117,
+   127,
+   217,
+   224,
+   249,
+   322
+  ],
+  "disposition": "covered",
+  "entryId": "brilliant",
+  "reason": "Pattern =δῖος matches all seven."
+ },
+ {
+  "title": "γλαυκῶπις",
+  "kind": "epithet",
+  "lines": [
+   13,
+   24,
+   41,
+   47,
+   112
+  ],
+  "disposition": "covered",
+  "entryId": "gray-eyed",
+  "reason": "Matches all five."
+ },
+ {
+  "title": "ὀρεσίτροφος",
+  "kind": "epithet",
+  "lines": [
+   130
+  ],
+  "disposition": "covered",
+  "entryId": "mountain-bred",
+  "reason": "Matches; article already cites 6.130."
+ },
+ {
+  "title": "ἰοχέαιρα",
+  "kind": "epithet",
+  "lines": [
+   102
+  ],
+  "disposition": "covered",
+  "entryId": "of-the-showering-arrows",
+  "reason": "Matches."
+ },
+ {
+  "title": "αἰγίοχος",
+  "kind": "epithet",
+  "lines": [
+   105,
+   324
+  ],
+  "disposition": "covered",
+  "entryId": "aegis-bearing",
+  "reason": "Matches."
+ },
+ {
+  "title": "αἰγιόχοιο Διὸς τέκος",
+  "kind": "epithet",
+  "lines": [
+   324
+  ],
+  "disposition": "covered",
+  "entryId": "child-of-aegis-bearing-zeus",
+  "reason": "Matches."
+ },
+ {
+  "title": "ὑπερηνορέων",
+  "kind": "epithet",
+  "lines": [
+   5
+  ],
+  "disposition": "covered",
+  "entryId": "overweening",
+  "reason": "Matches ὑπερηνορεόντων; article already cites the Cyclopes."
+ },
+ {
+  "title": "σιγαλόεις",
+  "kind": "epithet",
+  "lines": [
+   26,
+   38,
+   81
+  ],
+  "disposition": "covered",
+  "entryId": "glossy",
+  "reason": "Matches."
+ },
+ {
+  "title": "πότνια μήτηρ",
+  "kind": "epithet",
+  "lines": [
+   30,
+   154
+  ],
+  "disposition": "covered",
+  "entryId": "queenly",
+  "reason": "Matches."
+ },
+ {
+  "title": "ἀγαυός",
+  "kind": "epithet",
+  "lines": [
+   55
+  ],
+  "disposition": "covered",
+  "entryId": "noble",
+  "reason": "Matches."
+ },
+ {
+  "title": "θαλερός",
+  "kind": "epithet",
+  "lines": [
+   66
+  ],
+  "disposition": "covered",
+  "entryId": "flourishing",
+  "reason": "Matches; article already cites Nausicaa's θαλερὸς γάμος."
+ },
+ {
+  "title": "ἐΰτροχος",
+  "kind": "epithet",
+  "lines": [
+   72
+  ],
+  "disposition": "covered",
+  "entryId": "well-wheeled",
+  "reason": "Matches; article already cites the wagon."
+ },
+ {
+  "title": "δαΐφρων",
+  "kind": "epithet",
+  "lines": [
+   256
+  ],
+  "disposition": "covered",
+  "entryId": "wise-hearted",
+  "reason": "Matches."
+ },
+ {
+  "title": "οἶνοψ",
+  "kind": "epithet",
+  "lines": [
+   170
+  ],
+  "disposition": "covered",
+  "entryId": "wine-dark",
+  "reason": "Matches."
+ },
+ {
+  "title": "ἀτρύγετος",
+  "kind": "epithet",
+  "lines": [
+   226
+  ],
+  "disposition": "covered",
+  "entryId": "barren-sea",
+  "reason": "Matches."
+ },
+ {
+  "title": "κρατερῶνυξ",
+  "kind": "epithet",
+  "lines": [
+   253
+  ],
+  "disposition": "covered",
+  "entryId": "strong-hoofed",
+  "reason": "Matches; article already cites the mules."
+ },
+ {
+  "title": "αἰπεινός",
+  "kind": "epithet",
+  "lines": [
+   123
+  ],
+  "disposition": "covered",
+  "entryId": "steep",
+  "reason": "Matches."
+ },
+ {
+  "title": "περικαλλής",
+  "kind": "epithet",
+  "lines": [
+   85
+  ],
+  "disposition": "covered",
+  "entryId": "perikalles",
+  "reason": "Matches."
+ },
+ {
+  "title": "ἀγλαός",
+  "kind": "epithet",
+  "lines": [
+   291
+  ],
+  "disposition": "covered",
+  "entryId": "splendid",
+  "reason": "Matches."
+ },
+ {
+  "title": "ἐϋκτίμενος",
+  "kind": "epithet",
+  "lines": [
+   315
+  ],
+  "disposition": "covered",
+  "entryId": "well-built",
+  "reason": "Matches."
+ },
+ {
+  "title": "ἐννοσίγαιος",
+  "kind": "epithet",
+  "lines": [
+   326
+  ],
+  "disposition": "covered",
+  "entryId": "shaker-of-the-earth",
+  "reason": "Matches."
+ },
+ {
+  "title": "Ἀτρυτώνη",
+  "kind": "epithet",
+  "lines": [
+   324
+  ],
+  "disposition": "covered",
+  "entryId": "atrytone",
+  "reason": "Matches."
+ },
+ {
+  "title": "Παλλάς",
+  "kind": "epithet",
+  "lines": [
+   233,
+   328
+  ],
+  "disposition": "covered",
+  "entryId": "pallas",
+  "reason": "Matches."
+ },
+ {
+  "title": "Ὀλύμπιος",
+  "kind": "epithet",
+  "lines": [
+   188
+  ],
+  "disposition": "covered",
+  "entryId": "olympian",
+  "reason": "Matches."
+ },
+ {
+  "title": "μάκαρες θεοί",
+  "kind": "epithet",
+  "lines": [
+   46
+  ],
+  "disposition": "covered",
+  "entryId": "blessed-gods",
+  "reason": "Matches."
+ },
+ {
+  "title": "ὑπερφίαλος",
+  "kind": "epithet",
+  "lines": [
+   274
+  ],
+  "disposition": "covered",
+  "entryId": "overbearing",
+  "reason": "Matches."
+ },
+ {
+  "title": "οὐρανὸς εὐρύς",
+  "kind": "epithet",
+  "lines": [
+   150,
+   243
+  ],
+  "disposition": "covered",
+  "entryId": "wide-sky",
+  "reason": "Matches."
+ },
+ {
+  "title": "Ἀθηναίη Διὸς ἐκγεγαυῖα",
+  "kind": "epithet",
+  "lines": [
+   229
+  ],
+  "disposition": "covered",
+  "entryId": "daughter-of-zeus",
+  "reason": "Matches at 229 (see the expansion for 151, 323)."
+ },
+ {
+  "title": "πολύτλας",
+  "kind": "epithet",
+  "lines": [
+   1,
+   249
+  ],
+  "disposition": "expanded",
+  "entryId": "much-enduring",
+  "reason": "The article's headword is πολύτλας but the only pattern is πολυτλήμων. Add πολύτλας; note τετλάμεν (190)."
+ },
+ {
+  "title": "μεγαλήτωρ",
+  "kind": "epithet",
+  "lines": [
+   14,
+   17,
+   196,
+   213,
+   299
+  ],
+  "disposition": "expanded",
+  "entryId": "great-hearted",
+  "reason": "The article names μεγαλήτωρ as a synonym but has no pattern. Five Book 6 uses (Odysseus, Alcinous)."
+ },
+ {
+  "title": "εὐρύχορος",
+  "kind": "epithet",
+  "lines": [
+   4
+  ],
+  "disposition": "expanded",
+  "entryId": "with-wide-dancing-floors",
+  "reason": "εὐρυχόρῳ (two-ending, with a feminine noun) not matched."
+ },
+ {
+  "title": "θεοειδής",
+  "kind": "epithet",
+  "lines": [
+   7
+  ],
+  "disposition": "expanded",
+  "entryId": "godlike",
+  "reason": "The article names θεοειδής but has no pattern. Nausithous θεοειδής."
+ },
+ {
+  "title": "πολυδαίδαλος",
+  "kind": "epithet",
+  "lines": [
+   15
+  ],
+  "disposition": "expanded",
+  "entryId": "intricately-worked",
+  "reason": "πολυδαίδαλον (Nausicaa's chamber) not matched."
+ },
+ {
+  "title": "κλειτός",
+  "kind": "epithet",
+  "lines": [
+   54
+  ],
+  "disposition": "expanded",
+  "entryId": "famous",
+  "reason": "κλειτούς not matched."
+ },
+ {
+  "title": "ἐΰθρονος (throne or flowers?)",
+  "kind": "epithet",
+  "lines": [
+   48
+  ],
+  "disposition": "expanded",
+  "entryId": "of-the-fair-throne",
+  "reason": "ἐύθρονος (nominative) not matched. Add the ancient dispute: θρόνος \"seat, chariot seat\" (scholion E.P.V.) against θρόνα \"flowers\". Holds the textual note on 48."
+ },
+ {
+  "title": "ἐΰπεπλος",
+  "kind": "epithet",
+  "lines": [
+   49
+  ],
+  "disposition": "expanded",
+  "entryId": "well-robed",
+  "reason": "ἐύπεπλον not matched; the article already cites Od. 6.49 in prose."
+ },
+ {
+  "title": "ἐΰκυκλος",
+  "kind": "epithet",
+  "lines": [
+   58,
+   70
+  ],
+  "disposition": "expanded",
+  "entryId": "well-rounded",
+  "reason": "ἐύκυκλον not matched; the article already cites the wagon in prose."
+ },
+ {
+  "title": "ἐΰξεστος (with ἐΰξοος)",
+  "kind": "epithet",
+  "lines": [
+   75
+  ],
+  "disposition": "expanded",
+  "entryId": "polished",
+  "reason": "ἐυξέστῳ ἐπʼ ἀπήνῃ: a synonym of ἐΰξοος. Extend the article to ἐΰξεστος, as great-hearted lists a synonym."
+ },
+ {
+  "title": "μενοεικής",
+  "kind": "epithet",
+  "lines": [
+   76
+  ],
+  "disposition": "expanded",
+  "entryId": "satisfying",
+  "reason": "μενοεικέʼ not matched."
+ },
+ {
+  "title": "δινήεις",
+  "kind": "epithet",
+  "lines": [
+   89
+  ],
+  "disposition": "expanded",
+  "entryId": "eddying",
+  "reason": "δινήεντα not matched."
+ },
+ {
+  "title": "ἐϋπλόκαμος",
+  "kind": "epithet",
+  "lines": [
+   135,
+   198,
+   222,
+   238
+  ],
+  "disposition": "expanded",
+  "entryId": "with-lovely-tresses",
+  "reason": "ἐυπλοκάμοισι(ν) not matched (four uses, two-ending with feminine nouns)."
+ },
+ {
+  "title": "μειλίχιος",
+  "kind": "epithet",
+  "lines": [
+   143,
+   146,
+   148
+  ],
+  "disposition": "expanded",
+  "entryId": "soothing-words",
+  "reason": "μειλιχίοισι, μειλίχιον not matched; 148 is \"a soothing and shrewd word\"."
+ },
+ {
+  "title": "ἀδμής",
+  "kind": "epithet",
+  "lines": [
+   109,
+   228
+  ],
+  "disposition": "expanded",
+  "entryId": "unbroken",
+  "reason": "παρθένος ἀδμής twice; the article cites 6.109 in prose but ἀδμής is not matched."
+ },
+ {
+  "title": "ἀντίθεος",
+  "kind": "epithet",
+  "lines": [
+   241,
+   331
+  ],
+  "disposition": "expanded",
+  "entryId": "antitheos",
+  "reason": "ἀντιθέοισι (of the Phaeacians!) and ἀντιθέῳ not matched."
+ },
+ {
+  "title": "ἀμφιέλισσα",
+  "kind": "epithet",
+  "lines": [
+   264
+  ],
+  "disposition": "expanded",
+  "entryId": "curving",
+  "reason": "ἀμφιέλισσαι not matched."
+ },
+ {
+  "title": "μέλαινα νηῦς",
+  "kind": "epithet",
+  "lines": [
+   268
+  ],
+  "disposition": "expanded",
+  "entryId": "black-ships",
+  "reason": "μελαινάων not matched."
+ },
+ {
+  "title": "νῆες ἐΐσαι",
+  "kind": "epithet",
+  "lines": [
+   271
+  ],
+  "disposition": "expanded",
+  "entryId": "balanced-ships",
+  "reason": "ἐῖσαι not matched."
+ },
+ {
+  "title": "πολιὴ θάλασσα",
+  "kind": "epithet",
+  "lines": [
+   272
+  ],
+  "disposition": "expanded",
+  "entryId": "gray-sea",
+  "reason": "πολιήν not matched."
+ },
+ {
+  "title": "φαεινός",
+  "kind": "epithet",
+  "lines": [
+   19,
+   74,
+   316
+  ],
+  "disposition": "expanded",
+  "entryId": "phaeinos",
+  "reason": "φαειναί, φαεινήν, φαεινῇ not matched."
+ },
+ {
+  "title": "ἀγρότερος",
+  "kind": "epithet",
+  "lines": [
+   133
+  ],
+  "disposition": "expanded",
+  "entryId": "wild",
+  "reason": "ἀγροτέρας not matched."
+ },
+ {
+  "title": "ποιήεις",
+  "kind": "epithet",
+  "lines": [
+   124
+  ],
+  "disposition": "expanded",
+  "entryId": "grassy",
+  "reason": "ποιήεντα not matched; line 124 = Iliad 20.9."
+ },
+ {
+  "title": "οὖλος \"curly\"",
+  "kind": "epithet",
+  "lines": [
+   231
+  ],
+  "disposition": "expanded",
+  "entryId": "thick-and-woolly",
+  "reason": "οὔλας κόμας not matched; the article already mentions curly hair in the Odyssey."
+ },
+ {
+  "title": "ἱερός",
+  "kind": "epithet",
+  "lines": [
+   322
+  ],
+  "disposition": "expanded",
+  "entryId": "hieros",
+  "reason": "ἱρόν (Ionic ἱρός) not matched."
+ },
+ {
+  "title": "Διὸς κούρη μεγάλοιο",
+  "kind": "epithet",
+  "lines": [
+   151,
+   323
+  ],
+  "disposition": "expanded",
+  "entryId": "daughter-of-zeus",
+  "reason": "Add the phrase Διὸς κούρῃ μεγάλοιο (Artemis 151, Athena 323)."
+ },
+ {
+  "title": "λευκώλενος (of handmaids)",
+  "kind": "epithet",
+  "lines": [
+   101,
+   186,
+   239,
+   251
+  ],
+  "disposition": "expanded",
+  "entryId": "white-armed",
+  "reason": "λευκώλενοι (239) not matched; the only use of the epithet for servants. Note."
+ },
+ {
+  "title": "\"Like the goddesses\" (ἀθανάτῃσι φυὴν καὶ εἶδος ὁμοίη)",
+  "kind": "epithet",
+  "lines": [
+   16
+  ],
+  "disposition": "expanded",
+  "entryId": "like-the-goddesses",
+  "reason": "The article cites Nausicaa but 6.16 uses a different phrase; note the variant."
+ },
+ {
+  "title": "\"Who hold Olympus\" (οἳ Ὄλυμπον ἔχουσιν)",
+  "kind": "epithet",
+  "lines": [
+   240
+  ],
+  "disposition": "expanded",
+  "entryId": "homes-on-olympus",
+  "reason": "Sister formula at verse end; add as variant."
+ },
+ {
+  "title": "σὴν ἐς πατρίδα γαῖαν",
+  "kind": "epithet",
+  "lines": [
+   315
+  ],
+  "disposition": "expanded",
+  "entryId": "dear-native-land",
+  "reason": "Variant with σήν for φίλην; add the phrase."
+ },
+ {
+  "title": "ναυσικλειτός",
+  "kind": "epithet",
+  "lines": [
+   22
+  ],
+  "disposition": "created",
+  "entryId": "famous-for-ships",
+  "reason": "Epithet of Dymas; elsewhere of Euboea (Hymn to Apollo 31, 219). Fits the Phaeacian ship names. No existing article."
+ },
+ {
+  "title": "ἁλιπόρφυρος",
+  "kind": "epithet",
+  "lines": [
+   53,
+   306
+  ],
+  "disposition": "created",
+  "entryId": "sea-purple",
+  "reason": "Sea-purple wool of the queen; also the nymphs' webs (13.108). No existing article; purple (φοῖνιξ, πορφύρεος) is a different word."
+ },
+ {
+  "title": "ἐϋῶπις",
+  "kind": "epithet",
+  "lines": [
+   113,
+   142
+  ],
+  "disposition": "created",
+  "entryId": "fair-faced",
+  "reason": "\"Fair-faced\" girl; Odyssey-only epithet. No existing article."
+ },
+ {
+  "title": "ταλαπείριος",
+  "kind": "epithet",
+  "lines": [
+   193
+  ],
+  "disposition": "created",
+  "entryId": "much-tried",
+  "reason": "\"Much-tried\" suppliant; also 7.24, 17.84, 19.379. No existing article."
+ },
+ {
+  "title": "κλυτός",
+  "kind": "epithet",
+  "lines": [
+   36,
+   58,
+   321,
+   326
+  ],
+  "disposition": "expanded",
+  "entryId": "famous",
+  "reason": "Famous father, glorious clothes, famous grove, famous earth-shaker: four uses. Index audit: the submission had created a separate entry klytos, but the existing entry famous already treats κλυτός (its summary names κλυτός in the family, and its Iliad notes for Books 2, 5, 8, 11 and 13 claim κλυτός forms), so seven Iliad tokens were claimed by both. The klytos article and its Book 6 note were merged into famous, which now claims κλυτός, κλυτόν, κλυτά."
+ },
+ {
+  "title": "πολύκλυστος",
+  "kind": "epithet",
+  "lines": [
+   204
+  ],
+  "disposition": "created",
+  "entryId": "much-surging",
+  "reason": "The \"much-surging\" sea around the Phaeacians; also 4.354, 19.277. No existing article."
+ },
+ {
+  "title": "πολυάρητος",
+  "kind": "epithet",
+  "lines": [
+   280
+  ],
+  "disposition": "created",
+  "entryId": "much-prayed-for",
+  "reason": "The \"much-prayed-for god\" of the gossip; also 19.404 (Odysseus's naming). No existing article."
+ },
+ {
+  "title": "μελιηδής",
+  "kind": "epithet",
+  "lines": [
+   90
+  ],
+  "disposition": "expanded",
+  "entryId": "honey-sweet",
+  "reason": "μελιηδέα (90), of the mules' fodder. Index audit: the submission had created a separate entry sweet-as-honey, but the existing entry honey-sweet already claims μελιηδής through its Iliad notes (Books 4, 6, 8, 10, 12), so six tokens were claimed by both. The article was merged into honey-sweet as a section on μελιηδής, and the Book 6 note moved to honey-sweet."
+ },
+ {
+  "title": "ἀρίγνωτος",
+  "kind": "epithet",
+  "lines": [
+   108,
+   300
+  ],
+  "disposition": "created",
+  "entryId": "easily-known",
+  "reason": "Artemis is easily known among the nymphs; the house of Alcinous among the houses: a verbal echo. No existing article."
+ },
+ {
+  "title": "περιμήκετος",
+  "kind": "epithet",
+  "lines": [
+   103
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "One use (Taygetus); treated in taygetus."
+ },
+ {
+  "title": "ἀγρονόμος",
+  "kind": "epithet",
+  "lines": [
+   106
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "One use (the nymphs); treated in nymphs."
+ },
+ {
+  "title": "ἐπηετανός",
+  "kind": "epithet",
+  "lines": [
+   86
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Descriptive adjective of the ever-flowing pits; treated in washing-clothes."
+ },
+ {
+  "title": "σμερδαλέος",
+  "kind": "epithet",
+  "lines": [
+   137
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Common descriptive adjective handled by the lexicon; Zenodotus's ἀργαλέος and the λευγαλέος variant go to zenodotus."
+ },
+ {
+  "title": "αὐδήεις",
+  "kind": "epithet",
+  "lines": [
+   125
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in to-the-land-of-what-mortals (\"humans who have speech\")."
+ },
+ {
+  "title": "ὑγρός, χρύσεος (liquid oil, golden flask)",
+  "kind": "epithet",
+  "lines": [
+   79,
+   215
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in olive-oil."
+ },
+ {
+  "title": "Dream scene (Athena at Nausicaa's bed)",
+  "kind": "formula",
+  "lines": [
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   47,
+   48,
+   49
+  ],
+  "disposition": "expanded",
+  "entryId": "dream-scene",
+  "reason": "στῆ δʼ ἄρʼ ὑπὲρ κεφαλῆς (21) matches. The dream-figure takes a friend's likeness, as Dream takes Nestor's in Iliad 2. Also absorbs the Athena-Dymas disguise as a story."
+ },
+ {
+  "title": "Dawn formulas (ἅμʼ ἠοῖ φαινομένηφι, ἠῶθι πρό, Ἠὼς ἐΰθρονος)",
+  "kind": "formula",
+  "lines": [
+   31,
+   36,
+   48
+  ],
+  "disposition": "expanded",
+  "entryId": "dawn-line",
+  "reason": "Three dawn expressions; none matched by the existing patterns."
+ },
+ {
+  "title": "Sunset line (δύσετό τʼ ἠέλιος)",
+  "kind": "formula",
+  "lines": [
+   321
+  ],
+  "disposition": "expanded",
+  "entryId": "sunset-lines",
+  "reason": "Common Odyssey sunset half-line; not matched."
+ },
+ {
+  "title": "Driving the team (μάστιξεν δʼ ἐλάαν)",
+  "kind": "formula",
+  "lines": [
+   81,
+   82,
+   83,
+   84,
+   316,
+   317,
+   318,
+   319,
+   320
+  ],
+  "disposition": "expanded",
+  "entryId": "chariot-journey",
+  "reason": "μάστιξεν δʼ ἐλάαν (82) is the head of the existing formula; the patterns catch only its other parts. Mule-wagon variant."
+ },
+ {
+  "title": "Hear me (κλῦθί μευ, κλῦτέ μευ)",
+  "kind": "formula",
+  "lines": [
+   239,
+   324
+  ],
+  "disposition": "expanded",
+  "entryId": "hear-me",
+  "reason": "324 matches; the plural κλῦτέ μευ (239, Nausicaa to her maids) does not."
+ },
+ {
+  "title": "Prayer scene",
+  "kind": "formula",
+  "lines": [
+   323,
+   324,
+   325,
+   326,
+   327,
+   328
+  ],
+  "disposition": "expanded",
+  "entryId": "prayer-type-scene",
+  "reason": "Line 328 = the prayer-closing formula with Παλλὰς Ἀθήνη. Note the reproach and the god who hears but does not show herself."
+ },
+ {
+  "title": "Supplication scene (without clasping)",
+  "kind": "formula",
+  "lines": [
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185
+  ],
+  "disposition": "expanded",
+  "entryId": "supplication-type-scene",
+  "reason": "Odysseus weighs and rejects the knee-clasp: a marked variant of the type-scene."
+ },
+ {
+  "title": "Decision scene",
+  "kind": "formula",
+  "lines": [
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147
+  ],
+  "disposition": "expanded",
+  "entryId": "decision-scene",
+  "reason": "ἢ … ἦ alternatives; 145 = Iliad 13.458 (ὣς ἄρα οἱ φρονέοντι δοάσσατο κέρδιον εἶναι). Athenocles suspected 144."
+ },
+ {
+  "title": "Pondering in mind and heart",
+  "kind": "formula",
+  "lines": [
+   118
+  ],
+  "disposition": "covered",
+  "entryId": "pondering-two-ways",
+  "reason": "ὥρμαινε κατὰ φρένα καὶ κατὰ θυμόν matches."
+ },
+ {
+  "title": "Called him by name (ἔκ τʼ ὀνόμαζεν)",
+  "kind": "formula",
+  "lines": [
+   254
+  ],
+  "disposition": "expanded",
+  "entryId": "called-him-by-name",
+  "reason": "Not matched (final ν). Note: Nausicaa does not know his name, so the formula means \"addressed him\"; the translation \"called him by name\" needs revision."
+ },
+ {
+  "title": "What someone will say (τις-speech)",
+  "kind": "formula",
+  "lines": [
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285
+  ],
+  "disposition": "expanded",
+  "entryId": "tis-speech",
+  "reason": "Nausicaa imagines a \"baser man's\" gossip, a feminine and civic variant of the Iliadic τις-speech. Not matched (τις εἴπῃσι). Absorbs the imagined speaker."
+ },
+ {
+  "title": "Litotes",
+  "kind": "formula",
+  "lines": [
+   240
+  ],
+  "disposition": "expanded",
+  "entryId": "litotes",
+  "reason": "οὐ πάντων ἀέκητι θεῶν (240). The general article cites no Odyssey use, so index audit added a short Book 6 note with the scholion's positive sense."
+ },
+ {
+  "title": "Visit scene (Athena enters the chamber)",
+  "kind": "formula",
+  "lines": [
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21
+  ],
+  "disposition": "expanded",
+  "entryId": "visit-scene",
+  "reason": "The visitor finds the girl in a chamber with attendants at the doors. Book 6 variant."
+ },
+ {
+  "title": "Answering formula (ἀντίον ηὔδα)",
+  "kind": "formula",
+  "lines": [
+   186
+  ],
+  "disposition": "expanded",
+  "entryId": "then-answered",
+  "reason": "τὸν δʼ αὖ Ναυσικάα λευκώλενος ἀντίον ηὔδα: add the variant."
+ },
+ {
+  "title": "So he spoke",
+  "kind": "formula",
+  "lines": [
+   66,
+   71,
+   127,
+   316,
+   328
+  ],
+  "disposition": "covered",
+  "entryId": "so-he-spoke",
+  "reason": "Matches."
+ },
+ {
+  "title": "Other speech introductions (21, 24, 56, 148, 198, 217, 238)",
+  "kind": "formula",
+  "lines": [
+   21,
+   24,
+   56,
+   148,
+   198,
+   217,
+   238
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Routine introductions; lexicon and so-he-spoke cover them."
+ },
+ {
+  "title": "The seat of the gods, firm forever (θεῶν ἕδος ἀσφαλὲς αἰεί)",
+  "kind": "formula",
+  "lines": [
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47
+  ],
+  "disposition": "created",
+  "entryId": "seat-firm-forever",
+  "reason": "Shared with Hesiod, Theogony 117-118 and 128. Frames the Olympus description; with Rhianus's variants (αἰθήρ 44, τῇ 46) and the narrator's φασί."
+ },
+ {
+  "title": "God or mortal?",
+  "kind": "formula",
+  "lines": [
+   149,
+   150,
+   151,
+   152,
+   153
+  ],
+  "disposition": "created",
+  "entryId": "god-or-mortal",
+  "reason": "θεός νύ τις ἦ βροτός ἐσσι: the address to an unknown who may be divine (cf. Iliad 6.123-129). Holds the accent dispute ἦ/ἢ βροτός (Ptolemy of Ascalon, scholion P)."
+ },
+ {
+  "title": "Thrice blessed (makarismos)",
+  "kind": "formula",
+  "lines": [
+   154,
+   155,
+   156,
+   157,
+   158,
+   159
+  ],
+  "disposition": "created",
+  "entryId": "thrice-blessed",
+  "reason": "τρὶς μάκαρες … μακάρτατος: blessing of the parents, brothers and future husband. Cf. 5.306. No existing article (three-times-and-a-fourth is a different figure)."
+ },
+ {
+  "title": "\"To the land of what mortals have I come?\"",
+  "kind": "formula",
+  "lines": [
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126
+  ],
+  "disposition": "created",
+  "entryId": "to-the-land-of-what-mortals",
+  "reason": "Three-line castaway's question, repeated at 9.175-176 and 13.200-202, with ὑβρισταί, ἄγριοι, δίκαιοι, φιλόξεινοι, θεουδής, and here the nymph alternative and αὐδήεις."
+ },
+ {
+  "title": "Then she thought of another thing (ἄλλʼ ἐνόησε)",
+  "kind": "formula",
+  "lines": [
+   112,
+   251
+  ],
+  "disposition": "created",
+  "entryId": "thought-of-another-thing",
+  "reason": "Plot-turning formula (cf. 2.382, 2.393, 4.795, 18.187, 23.242, 23.344). Twice in Book 6."
+ },
+ {
+  "title": "As far as a shout carries",
+  "kind": "formula",
+  "lines": [
+   294
+  ],
+  "disposition": "created",
+  "entryId": "within-shouting-distance",
+  "reason": "ὅσσον τε γέγωνε βοήσας: distance formula (5.400, 9.473, 12.181)."
+ },
+ {
+  "title": "Dear and pitied (φίλον ἐλθεῖν ἠδʼ ἐλεεινόν)",
+  "kind": "formula",
+  "lines": [
+   327
+  ],
+  "disposition": "created",
+  "entryId": "dear-and-pitied",
+  "reason": "Line 327 = Iliad 24.309 (Priam's prayer before going to Achilles)."
+ },
+ {
+  "title": "The day of homecoming (νόστιμον ἦμαρ)",
+  "kind": "formula",
+  "lines": [
+   311
+  ],
+  "disposition": "created",
+  "entryId": "day-of-homecoming",
+  "reason": "Odyssey formula (1.9, 1.168, 3.233 …)."
+ },
+ {
+  "title": "Food and drink (βρῶσίν τε πόσιν τε)",
+  "kind": "formula",
+  "lines": [
+   209,
+   246,
+   248
+  ],
+  "disposition": "created",
+  "entryId": "food-and-drink",
+  "reason": "Three uses in Book 6; also the reason posis must exclude these lines."
+ },
+ {
+  "title": "So he … meanwhile (ὣς ὁ μὲν … αὐτάρ)",
+  "kind": "formula",
+  "lines": [
+   1,
+   2
+  ],
+  "disposition": "created",
+  "entryId": "meanwhile-transition",
+  "reason": "Book-opening transition that joins Books 5 and 6 (cf. 7.1)."
+ },
+ {
+  "title": "Anacoluthon",
+  "kind": "formula",
+  "lines": [
+   187,
+   188,
+   189,
+   190,
+   191,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272
+  ],
+  "disposition": "created",
+  "entryId": "anacoluthon",
+  "reason": "Two broken constructions in Nausicaa's speeches (187-191, 262-272) noted in the lexicon. No existing article for the figure."
+ },
+ {
+  "title": "Satisfied with food (σίτου τάρφθεν)",
+  "kind": "formula",
+  "lines": [
+   99
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Variant of a common meal line; desire-for-drink-and-food covers the type, and the lexicon explains the form."
+ },
+ {
+  "title": "Like a breath of wind",
+  "kind": "simile",
+  "lines": [
+   20
+  ],
+  "disposition": "created",
+  "entryId": "like-a-breath-of-wind",
+  "reason": "Athena rushes \"like a breath of wind\" to the bed (ἀνέμου ὡς πνοιή)."
+ },
+ {
+  "title": "Artemis among her nymphs",
+  "kind": "simile",
+  "lines": [
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   151,
+   152
+  ],
+  "disposition": "created",
+  "entryId": "artemis-among-her-nymphs",
+  "reason": "Nausicaa among her maids like Artemis on Taygetus or Erymanthus. Imitated by Virgil, Aeneid 1.498-502 (Dido). Holds the variant κατʼ οὔρεος/οὔρεα (102) and the scholion citing Aristotle on lions."
+ },
+ {
+  "title": "The lion and the girls",
+  "kind": "simile",
+  "lines": [
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136
+  ],
+  "disposition": "created",
+  "entryId": "the-lion-and-the-girls",
+  "reason": "Odysseus goes toward the girls like a rain-beaten mountain lion driven by its belly. Shares lines with Iliad 12.299-306."
+ },
+ {
+  "title": "The mountain lion and the fold (Iliad 12)",
+  "kind": "simile",
+  "lines": [
+   130,
+   134
+  ],
+  "disposition": "expanded",
+  "entryId": "the-mountain-lion-and-the-fold",
+  "reason": "Shares its opening and 134 with Od. 6.130-134; add a cross-reference to the new Odyssey simile."
+ },
+ {
+  "title": "The palm shoot on Delos",
+  "kind": "simile",
+  "lines": [
+   157,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169
+  ],
+  "disposition": "created",
+  "entryId": "the-palm-shoot-on-delos",
+  "reason": "Odysseus compares his wonder at Nausicaa to his wonder at the young palm by Apollo's altar; θάλος (157) prepares it."
+ },
+ {
+  "title": "Like the hyacinth flower",
+  "kind": "simile",
+  "lines": [
+   231
+  ],
+  "disposition": "created",
+  "entryId": "like-the-hyacinth-flower",
+  "reason": "Curling locks \"like the hyacinth flower\"; repeated 23.158."
+ },
+ {
+  "title": "Gold poured over silver",
+  "kind": "simile",
+  "lines": [
+   232,
+   233,
+   234,
+   235
+  ],
+  "disposition": "created",
+  "entryId": "gold-poured-on-silver",
+  "reason": "The craftsman taught by Hephaestus and Athena; repeated 23.159-162."
+ },
+ {
+  "title": "Drinks his wine like an immortal",
+  "kind": "simile",
+  "lines": [
+   309
+  ],
+  "disposition": "created",
+  "entryId": "alcinous",
+  "reason": "Short comparison (ἀθάνατος ὥς); treated in the alcinous article."
+ },
+ {
+  "title": "Nothing better than like-mindedness",
+  "kind": "saying",
+  "lines": [
+   180,
+   181,
+   182,
+   183,
+   184,
+   185
+  ],
+  "disposition": "created",
+  "entryId": "nothing-better-than-like-mindedness",
+  "reason": "Odysseus's blessing on marriage; the sense of ἔκλυον (185) is disputed."
+ },
+ {
+  "title": "Zeus deals out prosperity",
+  "kind": "saying",
+  "lines": [
+   187,
+   188,
+   189,
+   190
+  ],
+  "disposition": "created",
+  "entryId": "zeus-deals-out-prosperity",
+  "reason": "Ζεὺς δʼ αὐτὸς νέμει ὄλβον … ἐσθλοῖς ἠδὲ κακοῖσιν. Cf. 4.236-237 and the jars of Zeus (Iliad 24.527-533)."
+ },
+ {
+  "title": "Strangers and beggars are from Zeus",
+  "kind": "saying",
+  "lines": [
+   207,
+   208
+  ],
+  "disposition": "created",
+  "entryId": "strangers-and-beggars-are-from-zeus",
+  "reason": "\"A small gift is a dear one\"; repeated by Eumaeus at 14.57-58."
+ },
+ {
+  "title": "\"From these things good report goes up\" (29-30)",
+  "kind": "saying",
+  "lines": [
+   29,
+   30
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in phemis. The scholion records a variant ἀνθρώπων for ἀνθρώπους (Callistratus)."
+ },
+ {
+  "title": "\"We are very dear to the immortals\" (201-205)",
+  "kind": "saying",
+  "lines": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Characterization of the Phaeacians; treated in phaeacians, with Athenaeus 1.16e."
+ },
+ {
+  "title": "Nausicaa's rule about girls (286-288)",
+  "kind": "saying",
+  "lines": [
+   286,
+   287,
+   288
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Treated in marriage and in the note on the athetesis of 275-288."
+ },
+ {
+  "title": "The Phaeacians leave Hypereia",
+  "kind": "story",
+  "lines": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "disposition": "created",
+  "entryId": "the-phaeacians-leave-hypereia",
+  "reason": "Backstory: harassment by the Cyclopes, migration under Nausithous, foundation of the city, Nausithous's death, Alcinous's rule."
+ },
+ {
+  "title": "Odysseus at Delos",
+  "kind": "story",
+  "lines": [
+   162,
+   163,
+   164,
+   165,
+   166,
+   167
+  ],
+  "disposition": "created",
+  "entryId": "odysseus-at-delos",
+  "reason": "Told by Odysseus: he came to Delos with a great army \"on that journey on which evil sorrows were to come\". Unknown elsewhere in Homer."
+ },
+ {
+  "title": "Nausicaa meets Odysseus",
+  "kind": "story",
+  "lines": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   237,
+   238,
+   239,
+   240,
+   241,
+   242,
+   243,
+   244,
+   245,
+   246,
+   247,
+   248,
+   249,
+   250,
+   251,
+   252,
+   253,
+   254,
+   255,
+   256,
+   257,
+   258,
+   259,
+   260,
+   261,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272,
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288,
+   289,
+   290,
+   291,
+   292,
+   293,
+   294,
+   295,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306,
+   307,
+   308,
+   309,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315,
+   316,
+   317,
+   318,
+   319,
+   320,
+   321,
+   322,
+   323,
+   324,
+   325,
+   326,
+   327,
+   328,
+   329,
+   330,
+   331
+  ],
+  "disposition": "created",
+  "entryId": "nausicaa-meets-odysseus",
+  "reason": "The narrated episode of the book, like the Iliad's episode stories (hector-and-andromache)."
+ },
+ {
+  "title": "The wrath of Poseidon",
+  "kind": "story",
+  "lines": [
+   326,
+   329,
+   330,
+   331
+  ],
+  "disposition": "created",
+  "entryId": "the-wrath-of-poseidon",
+  "reason": "Foreshadowing and allusion: Poseidon \"shattered\" Odysseus and will rage until he reaches home."
+ },
+ {
+  "title": "Athena disguised as the daughter of Dymas",
+  "kind": "story",
+  "lines": [
+   22,
+   23,
+   24
+  ],
+  "disposition": "expanded",
+  "entryId": "dream-scene",
+  "reason": "Treated in the dream-scene note and daughter-of-dymas, not as a separate story."
+ },
+ {
+  "title": "The voyage from Ogygia and the shipwreck",
+  "kind": "story",
+  "lines": [
+   170,
+   171,
+   172
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Narrated in Book 5, not yet in the corpus; Book 6 only alludes. Treated in odysseus and ogygia."
+ },
+ {
+  "title": "Sophocles plays Nausicaa",
+  "kind": "anecdote",
+  "lines": [
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117
+  ],
+  "disposition": "created",
+  "entryId": "sophocles-nausicaa",
+  "reason": "Athenaeus 1.20f: Sophocles played ball superbly when he staged his Nausicaa; Eustathius names the satyr-play Πλύντριαι. Verified in the Athenaeus text."
+ },
+ {
+  "title": "Athenaeus on Homeric ball games",
+  "kind": "anecdote",
+  "lines": [
+   100,
+   101,
+   115,
+   116,
+   117
+  ],
+  "disposition": "created",
+  "entryId": "athenaeus-ball-games",
+  "reason": "Athenaeus 1.14d-15: only Nausicaa among heroines plays ball; Agallis of Corcyra credits her with inventing it. Eustathius on ἐφετίνδα. Verified in the Athenaeus text."
+ },
+ {
+  "title": "Nausicaa in Greek art",
+  "kind": "anecdote",
+  "lines": [
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138
+  ],
+  "disposition": "created",
+  "entryId": "nausicaa-in-greek-art",
+  "reason": "Pausanias 1.22.6: Polygnotus painted Odysseus approaching Nausicaa and the washing girls; 5.19.9: girls on a mule cart on the chest of Cypselus. Both verified in the Pausanias text. Vase paintings as leads."
+ },
+ {
+  "title": "Corcyra and the Phaeacians",
+  "kind": "anecdote",
+  "lines": [
+   3,
+   8,
+   201,
+   202,
+   203,
+   204,
+   205,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272
+  ],
+  "disposition": "created",
+  "entryId": "corcyra-and-the-phaeacians",
+  "reason": "Thucydides 1.25.4 (Corcyraean naval pride from the Phaeacians) and 3.70.4 (precinct of Alcinous), scholion E on 6.3, Pliny NH 4.52 (Scheria, Drepane), Strabo. Thucydides passages verified."
+ },
+ {
+  "title": "The palm of Delos",
+  "kind": "anecdote",
+  "lines": [
+   162,
+   163,
+   164,
+   165,
+   166,
+   167
+  ],
+  "disposition": "created",
+  "entryId": "the-palm-of-delos",
+  "reason": "Cicero, De legibus 1.2 and Pliny NH 16.240 say the palm was still shown; the Hymn to Apollo 117 has Leto clasp a palm. Cicero De legibus is not in the downloaded sources (the file is De natura deorum); Pliny reference from Merry-Riddell."
+ },
+ {
+  "title": "Plutarch (and Ephorus) on Nausicaa's wish",
+  "kind": "anecdote",
+  "lines": [
+   244,
+   245
+  ],
+  "disposition": "created",
+  "entryId": "plutarch-on-nausicaas-wish",
+  "reason": "Plutarch, De audiendis poetis 27a-b judges the wish; scholion Q.T. reports Ephorus praising it. Plutarch passage located in the downloaded text."
+ },
+ {
+  "title": "The seat of the gods in Lucretius and Tennyson",
+  "kind": "anecdote",
+  "lines": [
+   42,
+   43,
+   44,
+   45,
+   46
+  ],
+  "disposition": "created",
+  "entryId": "lucretius-seats-of-the-gods",
+  "reason": "Lucretius 3.18-24 renders 6.42-46 for the Epicurean gods; Tennyson echoes it (\"Lucretius\"; Avilion in \"The Passing of Arthur\")."
+ },
+ {
+  "title": "The Phaeacians in Apollonius",
+  "kind": "anecdote",
+  "lines": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   100,
+   101
+  ],
+  "disposition": "created",
+  "entryId": "apollonius-drepane",
+  "reason": "Argonautica 4: Nausithous and Macris (4.539-551), Drepane, Alcinous and Arete; Nereids play ball \"like girls on a beach\" (4.948-955). Verified in the downloaded text."
+ },
+ {
+  "title": "Aristotle on lions in Greece (scholion on 103-104)",
+  "kind": "anecdote",
+  "lines": [
+   103,
+   104
+  ],
+  "disposition": "created",
+  "entryId": "aristotle-lions-of-europe",
+  "reason": "Scholion: Homer gives Artemis boars and deer, not lions, in Taygetus and Erymanthus, because lions are not born there, citing Aristotle (Historia animalium 6.31, 579b). Secondhand; verify the Aristotle text."
+ },
+ {
+  "title": "Alcman adapts 6.244",
+  "kind": "anecdote",
+  "lines": [
+   244
+  ],
+  "disposition": "created",
+  "entryId": "nausicaas-wish-244-245",
+  "reason": "Scholion: Alcman made girls say \"Father Zeus, if only he were my husband\". Treated inside the textual note."
+ },
+ {
+  "title": "Samuel Butler, The Authoress of the Odyssey",
+  "kind": "anecdote",
+  "lines": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   237,
+   238,
+   239,
+   240,
+   241,
+   242,
+   243,
+   244,
+   245,
+   246,
+   247,
+   248,
+   249,
+   250,
+   251,
+   252,
+   253,
+   254,
+   255,
+   256,
+   257,
+   258,
+   259,
+   260,
+   261,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272,
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288,
+   289,
+   290,
+   291,
+   292,
+   293,
+   294,
+   295,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306,
+   307,
+   308,
+   309,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315,
+   316,
+   317,
+   318,
+   319,
+   320,
+   321,
+   322,
+   323,
+   324,
+   325,
+   326,
+   327,
+   328,
+   329,
+   330,
+   331
+  ],
+  "disposition": "created",
+  "entryId": "butler-authoress-of-the-odyssey",
+  "reason": "Butler (1897) argued that a young woman of Trapani wrote the Odyssey and portrayed herself as Nausicaa. Text in the downloaded sources."
+ },
+ {
+  "title": "Joyce, Ulysses, \"Nausicaa\"",
+  "kind": "anecdote",
+  "lines": [
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140
+  ],
+  "disposition": "created",
+  "entryId": "joyce-nausicaa",
+  "reason": "Episode 13 of Ulysses (Gerty MacDowell on Sandymount strand)."
+ },
+ {
+  "title": "Goethe's Nausikaa",
+  "kind": "anecdote",
+  "lines": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   237,
+   238,
+   239,
+   240,
+   241,
+   242,
+   243,
+   244,
+   245,
+   246,
+   247,
+   248,
+   249,
+   250,
+   251,
+   252,
+   253,
+   254,
+   255,
+   256,
+   257,
+   258,
+   259,
+   260,
+   261,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272,
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288,
+   289,
+   290,
+   291,
+   292,
+   293,
+   294,
+   295,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306,
+   307,
+   308,
+   309,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315,
+   316,
+   317,
+   318,
+   319,
+   320,
+   321,
+   322,
+   323,
+   324,
+   325,
+   326,
+   327,
+   328,
+   329,
+   330,
+   331
+  ],
+  "disposition": "created",
+  "entryId": "goethe-nausikaa",
+  "reason": "Goethe's unfinished tragedy (1787), planned in Sicily."
+ },
+ {
+  "title": "Nausicaä of the Valley of the Wind (Miyazaki)",
+  "kind": "anecdote",
+  "lines": [
+   1
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Borrowing of the name only, with no use of the Homeric scene; can be a sentence in nausicaa under Outside Homer."
+ },
+ {
+  "title": "Athenaeus on Phaeacian luxury (1.16e, quoting 6.203)",
+  "kind": "anecdote",
+  "lines": [
+   203
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Passing quotation; treated in phaeacians."
+ },
+ {
+  "title": "Pliny NH 35.101: Protogenes' painting \"which some call Nausicaa\"",
+  "kind": "anecdote",
+  "lines": [
+   1
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "A ship painting named Nausicaa, not a reception of the scene. Recorded as a disproven lead."
+ },
+ {
+  "title": "Aristarchus",
+  "kind": "author",
+  "lines": [
+   89,
+   100,
+   201,
+   242,
+   244,
+   245,
+   287,
+   289,
+   330
+  ],
+  "disposition": "expanded",
+  "entryId": "aristarchus",
+  "reason": "Book 6 readings: athetesis of 244-245, διερός \"living\", δόατʼ at 242, ἠδʼ at 287, σὺ δʼ ὦκʼ at 289, accent of ἐπιζαφελῶς, anastrophe at 89, σφαίρῃ ταὶ δʼ ἄρʼ at 100."
+ },
+ {
+  "title": "Zenodotus",
+  "kind": "author",
+  "lines": [
+   1,
+   137,
+   290
+  ],
+  "disposition": "expanded",
+  "entryId": "zenodotus",
+  "reason": "Readings: καθεῦδε accent (1), ἀργαλέος for σμερδαλέος (137), ἐμέειο (290)."
+ },
+ {
+  "title": "Aristophanes of Byzantium",
+  "kind": "author",
+  "lines": [
+   74,
+   75,
+   264,
+   297
+  ],
+  "disposition": "created",
+  "entryId": "aristophanes-of-byzantium",
+  "reason": "Readings: φέρον / κατέθηκαν (74-75), ἴσθμη for εἰσίθμη (264), at 297. No existing author article."
+ },
+ {
+  "title": "Callistratus",
+  "kind": "author",
+  "lines": [
+   29,
+   201,
+   207,
+   310,
+   318
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Known only through scholia variants (δυερός 201, τρεχέτην 318 …); readings recorded in dieros, mules and the source log."
+ },
+ {
+  "title": "Rhianus",
+  "kind": "author",
+  "lines": [
+   44,
+   46
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Two variants (αἰθήρ, τῇ); recorded in seat-firm-forever and olympus."
+ },
+ {
+  "title": "Athenocles",
+  "kind": "author",
+  "lines": [
+   144
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "One suspicion of line 144; recorded in the decision-scene note."
+ },
+ {
+  "title": "Ptolemy of Ascalon",
+  "kind": "author",
+  "lines": [
+   149
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "One accent decision; recorded in god-or-mortal."
+ },
+ {
+  "title": "Ephorus, Agallis of Corcyra, Dicaearchus",
+  "kind": "author",
+  "lines": [
+   244,
+   245,
+   100
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Cited once each via scholia or Athenaeus; recorded inside the anecdotes."
+ },
+ {
+  "title": "Alcman",
+  "kind": "author",
+  "lines": [
+   244
+  ],
+  "disposition": "created",
+  "entryId": "alcman",
+  "reason": "Lyric poet who adapted 6.244 (scholion); first appearance in the corpus."
+ },
+ {
+  "title": "Pausanias",
+  "kind": "author",
+  "lines": [
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138
+  ],
+  "disposition": "created",
+  "entryId": "pausanias",
+  "reason": "Periegete; source for Polygnotus and the chest of Cypselus. No existing author article."
+ },
+ {
+  "title": "Polygnotus",
+  "kind": "author",
+  "lines": [
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138
+  ],
+  "disposition": "created",
+  "entryId": "polygnotus",
+  "reason": "Painter of Odysseus and Nausicaa in the Athenian Propylaea (Pausanias 1.22.6). The authors kind includes artists (phidias)."
+ },
+ {
+  "title": "Pliny the Elder",
+  "kind": "author",
+  "lines": [
+   8,
+   163
+  ],
+  "disposition": "created",
+  "entryId": "pliny-the-elder",
+  "reason": "Natural History 4.52 (Scheria = Corcyra) and 16.240 (the Delian palm)."
+ },
+ {
+  "title": "Lucretius",
+  "kind": "author",
+  "lines": [
+   42,
+   43,
+   44,
+   45,
+   46
+  ],
+  "disposition": "created",
+  "entryId": "lucretius",
+  "reason": "De rerum natura 3.18-24 imitates the Olympus description."
+ },
+ {
+  "title": "Eustathius",
+  "kind": "author",
+  "lines": [
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117
+  ],
+  "disposition": "created",
+  "entryId": "eustathius",
+  "reason": "Commentary on the Odyssey: ball games, Sophocles' Πλύντριαι. Will recur in every Odyssey book."
+ },
+ {
+  "title": "The scholia",
+  "kind": "author",
+  "lines": [
+   3,
+   4,
+   8,
+   48,
+   103,
+   144,
+   201,
+   244,
+   275
+  ],
+  "disposition": "created",
+  "entryId": "homeric-scholia",
+  "reason": "The Odyssey scholia (Dindorf) are the source for most textual notes here. No existing article."
+ },
+ {
+  "title": "James Joyce",
+  "kind": "author",
+  "lines": [
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140
+  ],
+  "disposition": "created",
+  "entryId": "joyce",
+  "reason": "Author of Ulysses; will recur across the Odyssey."
+ },
+ {
+  "title": "Samuel Butler, Goethe, Miyazaki, Callimachus",
+  "kind": "author",
+  "lines": [
+   1
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Carried by their anecdotes only."
+ },
+ {
+  "title": "Sophocles",
+  "kind": "author",
+  "lines": [
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117
+  ],
+  "disposition": "expanded",
+  "entryId": "sophocles",
+  "reason": "Add the lost Nausicaa / Πλύντριαι to his works; link sophocles-nausicaa."
+ },
+ {
+  "title": "Athenaeus, Plutarch, Thucydides, Cicero, Apollonius, Aristotle, Tennyson, Hesiod",
+  "kind": "author",
+  "lines": [
+   1
+  ],
+  "disposition": "covered",
+  "entryId": "athenaeus",
+  "reason": "Existing author articles; the new anecdotes link them. Ids: athenaeus, plutarch, thucydides, cicero, apollonius, aristotle, tennyson, hesiod."
+ },
+ {
+  "title": "Nausicaa's wish (244-245): athetesis",
+  "kind": "note",
+  "lines": [
+   244,
+   245
+  ],
+  "disposition": "created",
+  "entryId": "nausicaas-wish-244-245",
+  "reason": "Aristarchus obelized both lines but hesitated over 244, since Alcman adapted it (scholion). Plutarch and Ephorus judge the lines."
+ },
+ {
+  "title": "The gossip lines (275-288): athetesis",
+  "kind": "note",
+  "lines": [
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288
+  ],
+  "disposition": "created",
+  "entryId": "the-gossip-lines-275-288",
+  "reason": "Scholia H.Q.: fourteen lines athetized as unfitting to the speaker. Major textual problem of the book."
+ },
+ {
+  "title": "δέατʼ or δόατʼ? (242)",
+  "kind": "note",
+  "lines": [
+   242
+  ],
+  "disposition": "created",
+  "entryId": "deato-or-doato",
+  "reason": "δέατʼ occurs only here; Aristarchus read δόατʼ (cf. δοάσσατο 145)."
+ },
+ {
+  "title": "The nymphs' cry (122-124)",
+  "kind": "note",
+  "lines": [
+   122,
+   123,
+   124
+  ],
+  "disposition": "created",
+  "entryId": "the-nymphs-cry-122-124",
+  "reason": "ὥς τε \"as if\" or exclamatory \"how\"; 124 = Iliad 20.9; modern editors suspected 123-124 (Nitzsch, Bothe)."
+ },
+ {
+  "title": "The suspected line 144",
+  "kind": "note",
+  "lines": [
+   144
+  ],
+  "disposition": "expanded",
+  "entryId": "decision-scene",
+  "reason": "Athenocles (pupil of Aristarchus) suspected 144 as redundant (scholion H.P.). Treated in the decision-scene note, since the objection concerns the structure of the decision."
+ },
+ {
+  "title": "The title of Odyssey 6",
+  "kind": "note",
+  "lines": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   237,
+   238,
+   239,
+   240,
+   241,
+   242,
+   243,
+   244,
+   245,
+   246,
+   247,
+   248,
+   249,
+   250,
+   251,
+   252,
+   253,
+   254,
+   255,
+   256,
+   257,
+   258,
+   259,
+   260,
+   261,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272,
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288,
+   289,
+   290,
+   291,
+   292,
+   293,
+   294,
+   295,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306,
+   307,
+   308,
+   309,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315,
+   316,
+   317,
+   318,
+   319,
+   320,
+   321,
+   322,
+   323,
+   324,
+   325,
+   326,
+   327,
+   328,
+   329,
+   330,
+   331
+  ],
+  "disposition": "created",
+  "entryId": "title-of-odyssey-6",
+  "reason": "Ancient book title (scholia hypothesis; Aelian VH 13.14 lists Odyssey episode titles). Parallels the Iliad title notes. Title wording to be verified."
+ },
+ {
+  "title": "ἐΰθρονος: throne or flowers? (48)",
+  "kind": "note",
+  "lines": [
+   48
+  ],
+  "disposition": "expanded",
+  "entryId": "of-the-fair-throne",
+  "reason": "Treated in the epithet article rather than a separate note (inseparable)."
+ },
+ {
+  "title": "διερός (201): textual note",
+  "kind": "note",
+  "lines": [
+   201
+  ],
+  "disposition": "created",
+  "entryId": "dieros",
+  "reason": "Treated in the term article (Aristarchus, Callistratus δυερός, Lehrs)."
+ },
+ {
+  "title": "κατʼ οὔρεος or κατʼ οὔρεα (102)",
+  "kind": "note",
+  "lines": [
+   102
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Variant recorded in artemis-among-her-nymphs; Murray prints οὔρεα."
+ },
+ {
+  "title": "σφαίρῃ ταὶ δʼ ἄρʼ / πᾶσαι (100)",
+  "kind": "note",
+  "lines": [
+   100
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Particle-order variant recorded in ball-play and aristarchus."
+ },
+ {
+  "title": "ἀνθρώπους or ἀνθρώπων (29)",
+  "kind": "note",
+  "lines": [
+   29
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Minor case variant; recorded in phemis and the source log."
+ },
+ {
+  "title": "ἐρέεσθαι or ἔρχεσθαι (298); ἥ τʼ or ἠδʼ (287); ἐυφροσύνῃσιν or ἐν εὐφροσύνῃσιν (156)",
+  "kind": "note",
+  "lines": [
+   156,
+   287,
+   298
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Minor variants with no effect on sense; recorded in the source log and the Aristarchus note."
+ },
+ {
+  "title": "αἴδετο or ἄζετο (329)",
+  "kind": "note",
+  "lines": [
+   329
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Recorded in aidos."
+ },
+ {
+  "title": "Index homographs (τρώγειν, τρώχων; πόσιν; ὄνειρον; κηρί/κῆρι; νηός; ἱστοί; σπεῖρα)",
+  "kind": "note",
+  "lines": [
+   10,
+   11,
+   49,
+   90,
+   158,
+   179,
+   209,
+   246,
+   248,
+   269,
+   271,
+   278,
+   318
+  ],
+  "disposition": "omitted",
+  "entryId": null,
+  "reason": "Index fixes, not articles; listed in blocks-draft and in the expanded entries (trojans, posis, dream, ker-doom, ker-heart, temple, mast/loom)."
+ },
+ {
+  "title": "Trojans: false matches τρώγειν, τρώχων",
+  "kind": "people",
+  "lines": [
+   90,
+   318
+  ],
+  "disposition": "expanded",
+  "entryId": "trojans",
+  "reason": "Pattern Τρώ* claimed τρώγειν \"to graze\" (90) and τρώχων \"ran\" (318). Index audit applied the exclusions !τρωγ* and !τρωχ* in the entry; Trojans no longer occur in Book 6."
+ },
+ {
+  "title": "Handmaids of Nausicaa (the group at the river)",
+  "kind": "people",
+  "lines": [
+   18,
+   19,
+   80,
+   84,
+   99,
+   109,
+   115,
+   116,
+   117,
+   122,
+   135,
+   136,
+   137,
+   138,
+   198,
+   199,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   222,
+   223,
+   238,
+   239,
+   246,
+   247,
+   248,
+   260,
+   319,
+   320
+  ],
+  "disposition": "created",
+  "entryId": "handmaids-of-nausicaa",
+  "reason": "Index audit: the entry exists in the submission but had no candidate record. It is the collective character of the book (door guards, washers, ball players, attendants of the stranger); the general class of serving women stays in handmaids."
+ },
+ {
+  "title": "Chariot: false matches for the mule wagon's whip and reins",
+  "kind": "object",
+  "lines": [
+   81,
+   82,
+   316,
+   319,
+   320
+  ],
+  "disposition": "expanded",
+  "entryId": "chariot",
+  "reason": "Index audit: patterns from Iliad notes (μάστιγα, ἡνία, μάστιξεν, ἵμασεν, ἡνιόχευεν, ἱμάσθλην) claimed the driving words of Nausicaa's mule wagon. The war chariot does not occur in Book 6. The entry now lists Odyssey 6.81-82 and 6.316-320 under except; the lines stay with wagon and chariot-journey."
+ }
+]

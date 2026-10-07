@@ -1,0 +1,21 @@
+---
+summary: Athena herself comes to the sleeping Nausicaa as a dream. She enters the closed chamber like a breath of wind, stands above her head in the likeness of the daughter of Dymas, reproaches her for the clothes lying unwashed, and goes back to Olympus; at dawn the girl wakes and wonders at the dream.
+refs: [6.13-24, 6.41, 6.47-50]
+passages:
+  - 6.13-41 | Athena at Nausicaa's bed
+  - 6.48-50 | Nausicaa wakes
+---
+
+All the parts of the scene are here (see the entry), in the order of the Iliad's first dream, but the visitor is the goddess and not an image she has made.
+
+1. **The sleeper.** Nausicaa sleeps in an intricately worked chamber, “like the immortal goddesses in build and in looks”, with two handmaids by the doorposts and the shining doors closed (6.15–19; see [[nausicaa]] and [[handmaids]]). The closed doors matter for the next verse.
+2. **The entry.** “And she, like a breath of wind, rushed to the girl's bed” (ἡ δʼ ἀνέμου ὡς πνοιὴ ἐπέσσυτο δέμνια κούρης, 6.20; see [[like-a-breath-of-wind]]). A scholion explains how she came in: the goddess must be understood to have slipped in past the thong of the bolt, as the dream-image of Penelope's sister did (schol. P.Q. on 6.20, Dindorf p. 295; Od. 4.802).
+3. **The station.** στῆ δʼ ἄρʼ ὑπὲρ κεφαλῆς, καί μιν πρὸς μῦθον ἔειπεν, “and stood above her head and spoke to her” (6.21), the whole verse of 4.803 and Iliad 23.68, 24.682.
+4. **The likeness.** She takes the shape of the daughter of Dymas, “famous for ships”, a girl of Nausicaa's own age and dear to her heart (6.22–23; see [[daughter-of-dymas]] and [[famous-for-ships]]). The verses repeat the Iliad's pattern closely. The Dream stood above Agamemnon's head “like the son of Neleus, Nestor, whom Agamemnon honored most of the elders; in his likeness the divine Dream spoke to him” (Iliad 2.20–22). Here: “who was of the same age as she, and was dear to her heart. / In her likeness gray-eyed Athena spoke to her” (τῇ μιν ἐεισαμένη προσέφη, 6.23–24). A king is visited by the counselor he trusts, a girl by the friend she loves.
+5. **The speech.** The opening is a reproach, as in the scene's fixed εὕδεις, “you are asleep”, but it is the reproach of a girl to a girl: “Nausicaa, why did your mother bear you so slack?” (6.25). The message follows: her fine clothes lie uncared for, her marriage is near, the best men of the Phaeacians are courting her, and she must ask her father for the mules and the wagon and go to wash at dawn (6.25–40; see [[marriage]] and [[washing-clothes]]). The divine purpose is hidden from the sleeper. The narrator has said why Athena came: she was “planning a homecoming for great-hearted Odysseus” (6.14).
+6. **The departure.** “So saying, gray-eyed Athena went away / to Olympus”, the verse with which she leaves Diomedes (Iliad 5.133), and the narrator follows her there with the description of the gods' untroubled seat (6.41–47; see [[seat-firm-forever]] and [[olympus]]).
+7. **The waking.** Dawn comes at once and wakes her, “and immediately she wondered at the dream” (ἄφαρ δʼ ἀπεθαύμασʼ ὄνειρον, 6.49), and she goes through the house to tell her parents (6.48–51; see [[dawn-line]]).
+
+**Dream or goddess?** In Book 4 Athena sends Penelope an εἴδωλον, an image “like in form to a woman”, her sister Iphthime (4.795–798). The image enters past the bolt-thong, stands above her head, speaks, and slips out again “into the breaths of the winds” (4.802–803, 4.838–839), and Penelope's heart is warmed, “so clear was the dream that rushed (ἐπέσσυτο) to her in the dead of night” (4.840–841). In Book 6 the narrator names Athena as the speaker throughout (6.13, 6.24, 6.41, 6.47), yet the girl wakes from what she and the narrator call an ὄνειρος (6.49). The Book 6 scene thus joins the two forms that the entry describes: a dream as the sleeper experiences it, and a god's visit in person as the narrator tells it. The same wind-word and the same verb of rushing are used for the image in Book 4 and for the goddess here. See [[dream]] and [[onar]].
+
+The disguise is the first of three in the Phaeacian episode. Athena meets Odysseus at the city as a young girl carrying a pitcher (7.19–20), and at the games in the likeness of a man who sets the marker for his throw (8.193–194).

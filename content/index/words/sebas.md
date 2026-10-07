@@ -5,8 +5,8 @@ kind: term
 tags: [shame, divine-will]
 summary: The awe that makes a person stop and draw back before something great, holy or shameful. The verb σέβομαι comes once in the Iliad, when Agamemnon asks the Argives who hang back, “have you no shame?”
 aliases: [sebas, sebomai, sebazomai, awe, reverence]
-grc: [σέβεσθε]
-en: [have you no shame]
+grc: [σέβεσθε, σέβας]
+en: [have you no shame, awe]
 ---
 
 ## Meaning

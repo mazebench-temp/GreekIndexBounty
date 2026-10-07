@@ -6,7 +6,10 @@ tags: [woman]
 summary: Husband. πόσις is an old Indo-European word for “master, lord”, the same as Sanskrit *páti-*, “lord, husband”, and related to Latin *potis*, “able”, and to Greek δεσπότης and πότνια.
 aliases: [posis, husband]
 # =: ποσίν "feet" (8.339) differs only in accent.
-grc: ["=πόσιν", πόσις]
+# !=πόσιν τε: πόσιν "drink" has the same accent, in the formula βρῶσίν τε πόσιν τε "food and drink"
+# (Odyssey 1.191, 6.209, 6.246, 6.248, 15.490). When Odyssey 4 arrives, add "+θάλαμόν τε πόσιν τε"
+# for the husband at 4.263; when Odyssey 13 arrives, add "!=πόσιν καὶ βρῶσιν" for 13.72.
+grc: ["=πόσιν", πόσις, "!=πόσιν τε"]
 en: [husband]
 ---
 

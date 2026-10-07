@@ -1,0 +1,5 @@
+$ npm run validate -- --submission submissions/37d6a152-2178-41e6-8304-6f0cd3b20a7c.json
+# run 2026-10-07T06:10:10Z through /Users/raunaqsharma/greekidx (symlink; the repo path has spaces)
+GreekIndexBounty: 2690 entries (2690 articles), 110 stories, 2197 quotes, 8757 lines, 5412 lemmas — 31728 ms
+Validation passed: submissions/37d6a152-2178-41e6-8304-6f0cd3b20a7c.json.
+# exit 0

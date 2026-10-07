@@ -1,0 +1,4 @@
+$ node --preserve-symlinks-main /Users/raunaqsharma/greekidx/scripts/build.mjs --dry --verbose
+# run 2026-10-07T06:04:56Z through /Users/raunaqsharma/greekidx (a symlink to the repo; the repo path has spaces, which disables the scripts' main-module check)
+GreekIndexBounty: 2690 entries (2690 articles), 110 stories, 2197 quotes, 8757 lines, 5412 lemmas — 31058 ms
+# exit 0

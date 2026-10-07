@@ -1,0 +1,12 @@
+---
+summary: The comparison closes the praise in Odysseus' supplication and turns it back to his fear. It grows out of the word θάλος, “young shoot”, in 6.157, recalls the voyage to Troy in two verses, and ends on the knees he dares not touch.
+refs: [6.157]
+---
+
+**Within the speech.** The comparison is the last part of the praise with which Odysseus opens his appeal (6.149–169; see [[supplication-type-scene]]). It moves in three steps. He likens her to Artemis if she is a goddess (6.149–152; see [[god-or-mortal]]). He blesses her family, who watch “such a young shoot going into the dance” (6.157), and her future husband (6.154–159; see [[thrice-blessed]]). Then he says what the sight does to him: “awe holds me as I look on you” (6.161), and he explains the awe by the palm (6.162–169). The image of the young plant thus passes from the family's eyes to his own.
+
+**The two verses about Troy.** “For I went there too, and a great army followed me, / on that journey on which evil sorrows were to come upon me” (6.164–165). The stranger has not named himself, and he will not do so until Book 9. These two verses tell Nausicaa only that he once led many men and that the journey brought him sorrows. A scholion notes the effect: he presents himself as a man of rank, not a merchant or a rower (schol. E.P.Q.V. on 6.164, Dindorf p. 308). Another scholion identifies the occasion with a visit of Menelaus and Odysseus to Delos to fetch the daughters of Anius, a story it attributes to Simonides (schol. E, Dindorf p. 308). Homer does not say when he went. Merry and Riddell place the visit on the voyage from Aulis to Troy (note on 6.162, p. 266). See [[odysseus-at-delos]].
+
+**The end.** The simile closes on its own tenor: “as I admire you, lady, and stand amazed, and I am terribly afraid / to touch your knees” (6.168–169). The amazement at a holy thing becomes the reason for the distance that the narrator had explained in other terms, “lest the girl be angry” (6.147). The next words turn to his suffering: “and a harsh grief has come upon me” (6.169).
+
+**A second sight of wonder.** Later in the book Nausicaa looks at Odysseus in turn. After Athena has made him taller and poured grace on him, he sits on the shore, “gleaming with beauty and graces; and the girl gazed at him” (θηεῖτο, 6.237; see [[gold-poured-on-silver]]). Each sees the other as more than mortal: she says he is now “like the gods who hold the wide sky” (6.243).

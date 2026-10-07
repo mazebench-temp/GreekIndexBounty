@@ -5,7 +5,7 @@ kind: term
 tags: [warrior]
 summary: A warrior of noble standing. In Homer ἥρως is a title of respect for fighting men, living and dead, not yet the demigod of later cult.
 aliases: [hērōs, heros, heroes]
-grc: [ἡρώων, ἥρως]
+grc: [ἡρώων, ἥρως, ἥρωος]
 en: [hero, heroes]
 ---
 

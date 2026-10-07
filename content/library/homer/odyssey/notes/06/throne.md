@@ -1,0 +1,6 @@
+---
+summary: Alcinous' throne leans against the pillar at the hearth, beside the queen at her spinning. There he sits drinking his wine like an immortal, and the suppliant must pass him by.
+grc: [θρόνος]
+---
+
+In Nausicaa's directions the hall of Alcinous has two seats at the hearth. The queen spins leaning against a pillar, “and there my father's throne leans against it, on which he sits and drinks his wine like an immortal” (6.307–309; see [[hearth]], [[queen-arete]] and [[wine]]). ποτικέκλιται αὐτῇ, “leans against it”, may refer to the pillar (κίονι, 6.307) or to the queen herself; the translation takes the pillar (see the translation notes on 6.308). An ancient variant read αὐγῇ, “the light”, for αὐτῇ. A scholion (V) explains it as “surrounded by the light, that is, lit up” by the fire, and Dindorf's note cites Eustathius (p. 1564.25) for both readings (Dindorf p. 319). Odysseus is to go past the throne and clasp the mother's knees (6.310). In Book 7 the king raises the suppliant from the ashes and seats him on a shining θρόνος beside himself, telling his son Laodamas to give up his place (7.167–171). The book also has the epithet ἐύθρονος, “of the fair throne”, for Dawn (6.48; see [[of-the-fair-throne]]).

@@ -1,0 +1,48 @@
+$ node --test tests/content.test.mjs tests/lib.test.mjs tests/navigation.test.mjs tests/submission.test.mjs
+# run 2026-10-07T06:05:27Z through /Users/raunaqsharma/greekidx (a symlink to the repo; the repo path has spaces, which disables the scripts' main-module check)
+✔ the build has no errors (0.68375ms)
+✔ every capitalized Greek word is indexed (0.058625ms)
+✔ every [[link]] points to an entry (0.0575ms)
+✔ every Greek line has a translation (37.563333ms)
+✔ every quote in the registry resolves to real lines (0.101875ms)
+✔ speeches in the structure files match the quotation marks of the Greek (34.915125ms)
+✔ scenes cover every line exactly once, in order (34.500125ms)
+✔ tokenize keeps elision marks and strips punctuation (1.066166ms)
+✔ token offsets point back into the line (0.091584ms)
+✔ normalize strips accents, breathings, iota subscripts, elision; unifies sigma (0.1325ms)
+✔ browser normalize matches the build normalize on Greek fixtures (0.118209ms)
+✔ romanize (1.998667ms)
+✔ isCapitalized marks proper names in the OCT text (0.108541ms)
+✔ uuidv5 matches the RFC 4122 test vector (0.392667ms)
+✔ browser quote ids equal build quote ids (3.305333ms)
+✔ references parse, format and expand (0.635625ms)
+✔ front matter: inline lists, block lists, folded text, wiki-link values (0.439459ms)
+✔ markdown: headings, links, quotes, tabs, footnotes, tables (1.780625ms)
+✔ concordance: words, stems, phrases, accent-sensitive and capitalized-only forms (2.878917ms)
+✔ source files contain no invisible control or combining characters (7.183417ms)
+(node:61142) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ reading shortcuts follow the displayed book before a remembered study scope (0.972792ms)
+✔ scoped notes without a matching line show a book label, never line 99999 (0.685417ms)
+✔ eligible model, explicit unavailable metrics, and a complete evidence record pass metadata checks (4.251541ms)
+✔ drafts, ineligible writers, false totals, absent evidence, and misnamed independent audits fail (8.534292ms)
+✔ aggregate usage is the sum across actual agents, including cached token categories (1.682458ms)
+✔ evidence paths cannot escape the repository, including through symlinks (1.453458ms)
+✔ Greek completeness, token alignment, morphology, and scene coverage fail independently (0.680042ms)
+✔ documented indirect witnesses may restore base gaps; silent inserted verses may not (0.261292ms)
+✔ research cannot edit its eligibility checks, other books, or prior manifests (0.402708ms)
+✔ generated PR body carries one exact manifest marker and key disclosures (1.88775ms)
+✔ PR body links a recorded platform listing without attaching a bounty to infrastructure (2.13225ms)
+✔ unsafe Markdown protocols are rejected without rendering an executable link (1.120583ms)
+✔ scaffolding refuses overwrites and its placeholders cannot pass acceptance (162.090167ms)
+✔ complete synthetic research passes the full CLI; missing coverage then fails (142.530125ms)
+✔ trusted validator rejects proposed policy/script changes that try to permit another model (237.426833ms)
+ℹ tests 35
+ℹ suites 0
+ℹ pass 35
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 31251.635833
+# exit 0

@@ -1,0 +1,830 @@
+{
+  "work": "homer.odyssey",
+  "quotes": [
+    {
+      "id": "21dbeeba-bce5-5819-a8c0-d9e8713300dc",
+      "ref": "6.1-2",
+      "title": "Odysseus asleep"
+    },
+    {
+      "id": "822875ef-711d-5bc6-a70b-616945d38b4a",
+      "ref": "6.1-3",
+      "title": "Asleep on Scheria"
+    },
+    {
+      "id": "d2dbfc3c-5e8c-51e1-bd91-3d95a93a7d18",
+      "ref": "6.1-3",
+      "title": "So he lay sleeping there"
+    },
+    {
+      "id": "b880326a-5152-50b6-8d7d-a0dcfcc4af72",
+      "ref": "6.3-12",
+      "title": "The Phaeacians leave Hypereia"
+    },
+    {
+      "id": "8beadafd-04f7-507e-876c-de35016ba430",
+      "ref": "6.4-6",
+      "title": "Near the Cyclopes"
+    },
+    {
+      "id": "eb0e85e3-fde4-5f9a-8a62-d2d5528e5fb5",
+      "ref": "6.4-8",
+      "title": "The Phaeacians leave Hypereia"
+    },
+    {
+      "id": "a2403b75-3dac-564a-8c8d-67a8bacc728e",
+      "ref": "6.4-10",
+      "title": "From Hypereia to Scheria"
+    },
+    {
+      "id": "3c9add8e-d383-5a0e-9cbe-abd9da1582f1",
+      "ref": "6.4-10",
+      "title": "Nausithous founds the city"
+    },
+    {
+      "id": "11ca5a3c-83f5-5cc8-bb57-e835a04ae5c1",
+      "ref": "6.7-8",
+      "title": "Far from grain-eating men"
+    },
+    {
+      "id": "5c86b7e6-8311-53b1-8972-99ba7eedd3fb",
+      "ref": "6.7-12",
+      "title": "Nausithous founds the city"
+    },
+    {
+      "id": "db2136f8-e096-53cc-b6bd-9f710fe22b49",
+      "ref": "6.9-10",
+      "title": "The founding"
+    },
+    {
+      "id": "a702dc5b-ed7e-55ec-b9ae-afb558795b03",
+      "ref": "6.11-12",
+      "title": "Nausithous dead, Alcinous king"
+    },
+    {
+      "id": "83630815-1de1-555a-9de3-198c88c8b27e",
+      "ref": "6.15-21",
+      "title": "Like a breath of wind"
+    },
+    {
+      "id": "33f62be4-1749-5282-8541-c2509340bf46",
+      "ref": "6.20-24",
+      "title": "In the likeness of Dymas' daughter"
+    },
+    {
+      "id": "2d2f0962-a5f2-5167-b3cd-f993d5327e04",
+      "ref": "6.25-28",
+      "title": "The dream"
+    },
+    {
+      "id": "faddb0f2-13e4-5378-be77-a2d29ddcd81c",
+      "ref": "6.25-28",
+      "title": "Why did your mother bear you so slack?"
+    },
+    {
+      "id": "c0f24c7a-9302-52f1-b18f-3fd076fae2f8",
+      "ref": "6.25-28",
+      "title": "Your glossy clothes lie uncared for"
+    },
+    {
+      "id": "18560c07-5dbc-56c2-ae35-cee4c27f1d85",
+      "ref": "6.25-35",
+      "title": "Athena rebukes Nausicaa"
+    },
+    {
+      "id": "f10d3915-75c0-51ae-adad-db5ba5a17c91",
+      "ref": "6.25-35",
+      "title": "Athena's instructions"
+    },
+    {
+      "id": "bafa2490-0abf-5062-99cb-bfd5fddb926f",
+      "ref": "6.29-30",
+      "title": "A good report"
+    },
+    {
+      "id": "fc2d8497-1890-5462-ba79-668139ec4dc4",
+      "ref": "6.33-35",
+      "title": "Not a maiden much longer"
+    },
+    {
+      "id": "9518a939-cb9d-5989-8d8b-8c3676786f55",
+      "ref": "6.41-47",
+      "title": "Olympus"
+    },
+    {
+      "id": "fc51951d-31f8-578a-b1e7-a88bf1fe3343",
+      "ref": "6.41-47",
+      "title": "The seat of the gods"
+    },
+    {
+      "id": "317cb6d2-c2b8-535b-b227-010058027ed8",
+      "ref": "6.48-50",
+      "title": "Dawn wakes Nausicaa"
+    },
+    {
+      "id": "b531fcc7-b61b-557b-88e3-144b631983cd",
+      "ref": "6.48-51",
+      "title": "She wondered at the dream"
+    },
+    {
+      "id": "86040299-a999-55e5-9ab9-7a18330586eb",
+      "ref": "6.50-55",
+      "title": "The queen at her spinning"
+    },
+    {
+      "id": "5c6e6536-c7fc-5bd7-939b-eed90a625946",
+      "ref": "6.56-70",
+      "title": "Papa dear"
+    },
+    {
+      "id": "176e1fbc-c4da-528e-b576-9c7db980cce2",
+      "ref": "6.57-59",
+      "title": "The glorious clothes"
+    },
+    {
+      "id": "ed6e7fdb-536e-5184-8080-2a8187e4fcad",
+      "ref": "6.62-65",
+      "title": "Five dear sons"
+    },
+    {
+      "id": "72608f54-21c7-5656-9a43-f39e74f1440a",
+      "ref": "6.66-67",
+      "title": "She felt shame to name her marriage"
+    },
+    {
+      "id": "0f948969-970f-5b8a-b667-f7a36c198ca8",
+      "ref": "6.66-67",
+      "title": "She felt shame to name the marriage"
+    },
+    {
+      "id": "e3302cb8-e22c-5a0d-bb1a-3ffefa1361f6",
+      "ref": "6.66-70",
+      "title": "He understood everything"
+    },
+    {
+      "id": "ede9e502-b1ee-51b3-814d-ef6b1d20ce45",
+      "ref": "6.68-70",
+      "title": "The father grants the wagon"
+    },
+    {
+      "id": "9d646784-394f-5f69-bb1f-73b1515ea45d",
+      "ref": "6.69-73",
+      "title": "The wagon made ready"
+    },
+    {
+      "id": "de6033d5-4571-502b-88da-33832c41bd1d",
+      "ref": "6.81-84",
+      "title": "Nausicaa drives to the river"
+    },
+    {
+      "id": "4e4d74e8-ee8a-5586-87ec-309d520047c9",
+      "ref": "6.85-87",
+      "title": "The washing pools"
+    },
+    {
+      "id": "8f7abbb1-e0d0-5c60-9886-51165c1d4b51",
+      "ref": "6.85-90",
+      "title": "The mules are loosed"
+    },
+    {
+      "id": "640fcd02-7ddf-5ad1-b6eb-61fcd6d3d865",
+      "ref": "6.85-95",
+      "title": "At the washing pits"
+    },
+    {
+      "id": "861266ba-4b90-53a8-bdb9-25071d72e43e",
+      "ref": "6.88-92",
+      "title": "The mules at the river"
+    },
+    {
+      "id": "1e62176c-1606-52a9-ba31-2cc49a0ed3e3",
+      "ref": "6.90-92",
+      "title": "The washing contest"
+    },
+    {
+      "id": "32aba9b4-09f4-59d4-9814-52eaf087b306",
+      "ref": "6.90-98",
+      "title": "The washing"
+    },
+    {
+      "id": "f87c9aea-e448-5ed4-a0d7-667e8c59b309",
+      "ref": "6.99-101",
+      "title": "The ball game"
+    },
+    {
+      "id": "f5162c78-150f-5d94-8ee3-86ab6d2c653c",
+      "ref": "6.99-101",
+      "title": "The girls play at ball"
+    },
+    {
+      "id": "5e0bf317-7a55-5595-8595-4ce8c7caa748",
+      "ref": "6.102-104",
+      "title": "Artemis on the mountains"
+    },
+    {
+      "id": "e782403c-e446-5763-80f0-de37e83064c1",
+      "ref": "6.102-109",
+      "title": "Artemis among her nymphs"
+    },
+    {
+      "id": "83f4c3bb-b5cc-5021-a107-1a4f0ef9d4f7",
+      "ref": "6.105-106",
+      "title": "The nymphs play with Artemis"
+    },
+    {
+      "id": "c06c785b-576b-51e2-b3c6-0d94002ee1af",
+      "ref": "6.107-109",
+      "title": "The unwed maiden among her handmaids"
+    },
+    {
+      "id": "fd5891d0-f075-5135-a9c7-7cf8848c2281",
+      "ref": "6.110-117",
+      "title": "Athena thinks of something else"
+    },
+    {
+      "id": "28f2e443-4146-5bde-a02c-7d05a8baf195",
+      "ref": "6.112-114",
+      "title": "That Odysseus should see the fair-faced girl"
+    },
+    {
+      "id": "3446578d-c997-561d-bd76-e1b2b700f887",
+      "ref": "6.112-117",
+      "title": "The ball goes astray"
+    },
+    {
+      "id": "3e8d7271-973b-5b1c-b718-f412519e94e9",
+      "ref": "6.115-117",
+      "title": "The missed throw"
+    },
+    {
+      "id": "ab47a82e-3ebb-5ad8-a570-f31de9b49b18",
+      "ref": "6.119-121",
+      "title": "The castaway's question"
+    },
+    {
+      "id": "7bc065fe-0821-5429-9832-0017f65ab725",
+      "ref": "6.119-121",
+      "title": "To the land of what mortals?"
+    },
+    {
+      "id": "e0e57fc4-9b06-5108-be74-04170f7888ec",
+      "ref": "6.119-126",
+      "title": "Odysseus wakes"
+    },
+    {
+      "id": "29dc485b-8ea5-5219-89fb-454ec48066ec",
+      "ref": "6.122-124",
+      "title": "A female cry"
+    },
+    {
+      "id": "55c22fab-c15c-50bb-b70d-046e887f4b26",
+      "ref": "6.122-124",
+      "title": "Nymphs or girls?"
+    },
+    {
+      "id": "1f266cfc-7549-55ec-ba73-ae010ac4ddc9",
+      "ref": "6.122-126",
+      "title": "Nymphs or human beings?"
+    },
+    {
+      "id": "459846f4-cdcc-58be-99ca-660a3d21a3ae",
+      "ref": "6.130-131",
+      "title": "Trusting in his courage"
+    },
+    {
+      "id": "2ac03d54-1715-5acf-a800-bb1aa9afc461",
+      "ref": "6.130-136",
+      "title": "Like a mountain-bred lion"
+    },
+    {
+      "id": "f184502e-9a0f-5afd-9689-ad3b3721b3e2",
+      "ref": "6.133-134",
+      "title": "His belly bids him"
+    },
+    {
+      "id": "c37aecba-e8e5-5bdf-9c9a-957d0e1ea624",
+      "ref": "6.133-136",
+      "title": "The belly bids him"
+    },
+    {
+      "id": "48b2ac1d-d92f-5e01-bc50-9131ecc127ea",
+      "ref": "6.135-136",
+      "title": "Naked among the girls"
+    },
+    {
+      "id": "7a30d896-a7c6-510b-8e24-9cf7495262a0",
+      "ref": "6.135-138",
+      "title": "The girls scatter"
+    },
+    {
+      "id": "ba260eff-d6de-56b2-8327-54d73f6d7f97",
+      "ref": "6.139-141",
+      "title": "Only the daughter of Alcinous stayed"
+    },
+    {
+      "id": "efa5178b-f16f-5f26-9c45-ea422a14086f",
+      "ref": "6.141-147",
+      "title": "Knees or words?"
+    },
+    {
+      "id": "05259c8d-f59e-5c4e-a831-001f646432cc",
+      "ref": "6.141-148",
+      "title": "Words instead of knees"
+    },
+    {
+      "id": "cdbcfdd1-54e0-5493-9373-43690713efc8",
+      "ref": "6.141-149",
+      "title": "Words instead of the knees"
+    },
+    {
+      "id": "c768eb1b-e367-5df9-b908-8fe0f7424281",
+      "ref": "6.149-152",
+      "title": "Goddess or mortal?"
+    },
+    {
+      "id": "5b7aa4ca-c041-54b1-99e2-e54c25f9c9b5",
+      "ref": "6.149-152",
+      "title": "Odysseus likens her to Artemis"
+    },
+    {
+      "id": "6c7ac194-62d6-5913-aff1-9c58cee4e1f7",
+      "ref": "6.149-152",
+      "title": "Odysseus likens Nausicaa to Artemis"
+    },
+    {
+      "id": "836e45ef-5d1f-584a-a095-6ec9fdf953c1",
+      "ref": "6.149-152",
+      "title": "The daughter of great Zeus"
+    },
+    {
+      "id": "b04344ec-9346-5cb1-9810-86c46bdf8895",
+      "ref": "6.149-153",
+      "title": "Goddess or mortal?"
+    },
+    {
+      "id": "a8e7a03b-dc5c-565e-9e69-de7aa61e4a78",
+      "ref": "6.153-159",
+      "title": "Thrice blessed"
+    },
+    {
+      "id": "845dfd15-a796-593d-b8e3-b4ba1a848957",
+      "ref": "6.158-159",
+      "title": "Most blessed in his heart"
+    },
+    {
+      "id": "50ee1022-2bd5-5137-8846-c68793189974",
+      "ref": "6.158-159",
+      "title": "The most blessed man"
+    },
+    {
+      "id": "cce21978-9643-551a-977c-0935538adf0c",
+      "ref": "6.160-169",
+      "title": "The palm on Delos"
+    },
+    {
+      "id": "344acaa9-ae36-515a-b00b-ee7924d72105",
+      "ref": "6.162-163",
+      "title": "The young palm"
+    },
+    {
+      "id": "f0f2c797-b271-5366-b6d5-7f16bb64b1ea",
+      "ref": "6.162-167",
+      "title": "Once on Delos"
+    },
+    {
+      "id": "98ef01c6-4c5d-5d36-90f0-8c501001b7bd",
+      "ref": "6.162-167",
+      "title": "The palm by Apollo's altar"
+    },
+    {
+      "id": "71f816d8-07ec-5099-929e-19dc77109d7a",
+      "ref": "6.162-167",
+      "title": "The palm on Delos"
+    },
+    {
+      "id": "3216b509-4ea4-5eb5-8b57-f7504b56e7b0",
+      "ref": "6.166-169",
+      "title": "Amazed at the palm, amazed at her"
+    },
+    {
+      "id": "ba29b792-d950-5813-b022-956433591cf6",
+      "ref": "6.170-172",
+      "title": "Twenty days from Ogygia"
+    },
+    {
+      "id": "97219079-02f3-5369-abbf-74a2ce172ac9",
+      "ref": "6.180-185",
+      "title": "Odysseus' blessing"
+    },
+    {
+      "id": "befb9d90-806e-5582-a500-1e6273668991",
+      "ref": "6.186-187",
+      "title": "White-armed Nausicaa answers"
+    },
+    {
+      "id": "458f2ede-61a2-5484-b9f5-d8b355c9c8cf",
+      "ref": "6.187-190",
+      "title": "Nausicaa answers the stranger"
+    },
+    {
+      "id": "14e68d90-3fd5-5d55-bb82-a096b6ba05af",
+      "ref": "6.187-190",
+      "title": "Nausicaa answers the suppliant"
+    },
+    {
+      "id": "47b5e8f8-2b7c-55d6-870c-b0fe68248da2",
+      "ref": "6.187-190",
+      "title": "Zeus deals out prosperity"
+    },
+    {
+      "id": "9d86fb3d-28ee-580c-8593-cc6dbaf604dc",
+      "ref": "6.187-192",
+      "title": "Since you seem …"
+    },
+    {
+      "id": "3a3cd818-803d-5ea7-b904-d5ac12f30680",
+      "ref": "6.191-194",
+      "title": "What befits a much-tried suppliant"
+    },
+    {
+      "id": "c7d8654d-6728-579a-a4dc-5b27390aec0a",
+      "ref": "6.195-197",
+      "title": "Nausicaa names her people and her father"
+    },
+    {
+      "id": "4d4a9638-ed42-58ab-b285-4db7f6f94a59",
+      "ref": "6.196-197",
+      "title": "The daughter of great-hearted Alcinous"
+    },
+    {
+      "id": "095bf690-7ada-5a5b-a9e2-8df6a7f921b1",
+      "ref": "6.199-203",
+      "title": "Stand still for me, handmaids"
+    },
+    {
+      "id": "f197a4d1-0e42-57e9-8a73-16e8a16bb7e3",
+      "ref": "6.199-205",
+      "title": "No living mortal"
+    },
+    {
+      "id": "80e5f4be-a413-57de-bbfa-55131a2f8717",
+      "ref": "6.201-205",
+      "title": "Far apart in the much-surging sea"
+    },
+    {
+      "id": "d95f40a9-2e2a-5705-900a-ce32370daed0",
+      "ref": "6.201-205",
+      "title": "The farthest away"
+    },
+    {
+      "id": "4f4d1d34-e5d6-5824-a72c-ec2b691d730d",
+      "ref": "6.201-205",
+      "title": "We are very dear to the immortals"
+    },
+    {
+      "id": "eb180c85-7074-5e00-aaa5-5a091a0c0a5e",
+      "ref": "6.204-205",
+      "title": "The farthest away"
+    },
+    {
+      "id": "435b9acc-47c3-55d3-875f-6b3a3b7b414d",
+      "ref": "6.206-208",
+      "title": "Strangers and beggars are from Zeus"
+    },
+    {
+      "id": "3c2d2bbf-7e1d-591e-aace-968a8791ea9e",
+      "ref": "6.206-210",
+      "title": "Nausicaa's orders to the handmaids"
+    },
+    {
+      "id": "869fa133-9198-58ce-a931-3bb72ec459b6",
+      "ref": "6.206-210",
+      "title": "Strangers and beggars are from Zeus"
+    },
+    {
+      "id": "f7c57e65-8721-563c-8d76-39d17b749eeb",
+      "ref": "6.211-216",
+      "title": "Clothes for the stranger"
+    },
+    {
+      "id": "9af1555f-53ba-55e2-9285-8741702f71ab",
+      "ref": "6.214-222",
+      "title": "Oil for the stranger"
+    },
+    {
+      "id": "d67ba611-d5ff-51a8-99cc-6b6af4a5a5f0",
+      "ref": "6.218-222",
+      "title": "Ashamed to strip"
+    },
+    {
+      "id": "3677d826-be38-5218-8387-7420679052d2",
+      "ref": "6.218-222",
+      "title": "Odysseus will not be bathed"
+    },
+    {
+      "id": "a6b4e309-307d-5df6-b788-6f0d44aed753",
+      "ref": "6.221-222",
+      "title": "I will not bathe in front of you"
+    },
+    {
+      "id": "f92693a0-e62c-5405-abb5-b58f6d545e4c",
+      "ref": "6.229-231",
+      "title": "Curling locks like the hyacinth flower"
+    },
+    {
+      "id": "45dbc0d6-7cdb-5501-a61f-4c115beb80bf",
+      "ref": "6.229-237",
+      "title": "Athena pours grace on Odysseus"
+    },
+    {
+      "id": "fe3b2497-f81f-5580-8973-fdd324b734e3",
+      "ref": "6.232-235",
+      "title": "As when a man pours gold around silver"
+    },
+    {
+      "id": "c2263c9a-2f84-5503-8b30-4508b520d5b2",
+      "ref": "6.232-235",
+      "title": "Gold poured on silver"
+    },
+    {
+      "id": "4a68f10e-7d60-5d79-b35a-8e8d5c8c0e83",
+      "ref": "6.239-243",
+      "title": "Godlike Phaeacians, a godlike stranger"
+    },
+    {
+      "id": "de0a3383-9b2e-51e6-853e-542958ee37c5",
+      "ref": "6.239-245",
+      "title": "Nausicaa to her handmaids"
+    },
+    {
+      "id": "de153701-8912-5ce1-832a-125f512a073c",
+      "ref": "6.242-243",
+      "title": "Before and now"
+    },
+    {
+      "id": "b8bb3b1a-d931-5a56-bc12-a5fe7b158fa9",
+      "ref": "6.242-245",
+      "title": "Nausicaa's wish"
+    },
+    {
+      "id": "068d4782-a96a-5455-a93d-c859f3bf9597",
+      "ref": "6.244-245",
+      "title": "If only such a man might be called my husband"
+    },
+    {
+      "id": "d03ea567-4660-5a9d-8bfd-396314cdfd1c",
+      "ref": "6.244-245",
+      "title": "The wish"
+    },
+    {
+      "id": "7f8c14fa-f6a9-5193-a6e0-10eca2b5ead0",
+      "ref": "6.246-250",
+      "title": "Food and drink for the stranger"
+    },
+    {
+      "id": "69ffb464-8033-597e-ac94-b60f5a789fc2",
+      "ref": "6.249-250",
+      "title": "He ate greedily"
+    },
+    {
+      "id": "23d1e36a-f174-58b6-b522-06cd66a091a2",
+      "ref": "6.252-261",
+      "title": "Behind the mules and the wagon"
+    },
+    {
+      "id": "6fb3180b-25bd-5986-bcd1-4267f92e9708",
+      "ref": "6.262-265",
+      "title": "Each man his own berth"
+    },
+    {
+      "id": "bd276ca3-48be-5203-b16a-8a19393ca2d7",
+      "ref": "6.262-269",
+      "title": "The city of the Phaeacians"
+    },
+    {
+      "id": "8ecc0e52-4592-5b17-b1ea-7ce71b2963cd",
+      "ref": "6.262-272",
+      "title": "The city instead of the instruction"
+    },
+    {
+      "id": "03e19db8-f413-5a99-84a4-5b681a3036bc",
+      "ref": "6.262-272",
+      "title": "The city of ships"
+    },
+    {
+      "id": "ea6cd962-02a3-5a5e-bd14-52a813c1ac78",
+      "ref": "6.262-272",
+      "title": "The ships of the Phaeacians"
+    },
+    {
+      "id": "a4c50cdf-9609-5d5c-8128-79f2eb94c3a0",
+      "ref": "6.266-267",
+      "title": "The shrine and the place of assembly"
+    },
+    {
+      "id": "8a7b99e0-613f-531a-b1ce-89b6b6ba8818",
+      "ref": "6.270-272",
+      "title": "Ships, not bows"
+    },
+    {
+      "id": "26581f67-f570-51d5-8756-2c981f130fa0",
+      "ref": "6.273-275",
+      "title": "It is their unkind talk that I shun"
+    },
+    {
+      "id": "6b0040af-7b81-5c07-83d6-dfdbdbec06d7",
+      "ref": "6.273-275",
+      "title": "The talk she shuns"
+    },
+    {
+      "id": "2e3d7aab-7be2-5c7a-9fd2-daeacd92561a",
+      "ref": "6.273-285",
+      "title": "What the people would say"
+    },
+    {
+      "id": "f48bbad3-c836-541b-94d5-b6b0e8d540e5",
+      "ref": "6.275-285",
+      "title": "Who is this following Nausicaa?"
+    },
+    {
+      "id": "8a7d3247-859b-52fb-b66c-460106685a7d",
+      "ref": "6.276-284",
+      "title": "The gossip she imagines"
+    },
+    {
+      "id": "46039e68-eb42-5cad-930b-d72ce334d79e",
+      "ref": "6.280-281",
+      "title": "A much-prayed-for god"
+    },
+    {
+      "id": "8975a0aa-5879-50e2-9296-b8695df2cee5",
+      "ref": "6.285-288",
+      "title": "I too am indignant"
+    },
+    {
+      "id": "6910c570-f2dc-5764-8c65-383cbe2f0c89",
+      "ref": "6.286-288",
+      "title": "A public marriage"
+    },
+    {
+      "id": "92d1bb63-b892-5a3d-a99c-0b2a769bc133",
+      "ref": "6.289-290",
+      "title": "An escort and a homecoming"
+    },
+    {
+      "id": "1e500a02-6d6f-52e1-b2e5-687293e1de63",
+      "ref": "6.291-294",
+      "title": "The grove of Athena"
+    },
+    {
+      "id": "3f3ad517-8ba7-57b1-b908-f5eb9b829f31",
+      "ref": "6.291-296",
+      "title": "A shout from the city"
+    },
+    {
+      "id": "099699e4-d2c9-5423-a955-4d975420d3f5",
+      "ref": "6.291-296",
+      "title": "The grove and the domain"
+    },
+    {
+      "id": "8e82066e-5d62-5dac-99f4-5080be48129e",
+      "ref": "6.299-303",
+      "title": "Easily known"
+    },
+    {
+      "id": "10106825-800c-5844-821e-dae72ea200b7",
+      "ref": "6.300-303",
+      "title": "Easily known"
+    },
+    {
+      "id": "5f814f8d-209d-5f54-bd62-c749286974cd",
+      "ref": "6.300-303",
+      "title": "Even a child could lead you"
+    },
+    {
+      "id": "a93eac8d-f957-5b85-9721-ed4fd0bf6178",
+      "ref": "6.303-307",
+      "title": "My mother at the hearth"
+    },
+    {
+      "id": "afb925be-f4f9-512e-8d15-55eb2de1fb14",
+      "ref": "6.303-309",
+      "title": "The hall of Alcinous"
+    },
+    {
+      "id": "cb31c1fa-4b64-5a70-a716-81f8694dd8cd",
+      "ref": "6.303-309",
+      "title": "The queen at the hearth"
+    },
+    {
+      "id": "07f4bfcb-c95d-5c10-b245-ad7518331a4c",
+      "ref": "6.303-310",
+      "title": "At the hearth in the light of the fire"
+    },
+    {
+      "id": "89987225-66b6-588c-bd7f-345690308983",
+      "ref": "6.303-311",
+      "title": "The queen at the hearth"
+    },
+    {
+      "id": "24ea5d25-be77-56ef-ab79-fd91cd10368c",
+      "ref": "6.308-310",
+      "title": "He drinks his wine like an immortal"
+    },
+    {
+      "id": "b0b53206-9310-5fbc-bc6a-54b215362582",
+      "ref": "6.310-315",
+      "title": "Clasp my mother's knees"
+    },
+    {
+      "id": "4c806587-0533-5876-b19f-5e102c3b1ec6",
+      "ref": "6.310-315",
+      "title": "Hope of the native land"
+    },
+    {
+      "id": "a1aee3ca-42b0-511f-b3d8-d6c86760b101",
+      "ref": "6.310-315",
+      "title": "Pass him by, and clasp our mother's knees"
+    },
+    {
+      "id": "0f16b06a-c70f-5a08-a962-e172dfea51d5",
+      "ref": "6.310-315",
+      "title": "So that you may see the day of homecoming"
+    },
+    {
+      "id": "54766c66-4489-5ae7-aef9-befbabb5d589",
+      "ref": "6.316-320",
+      "title": "The drive to the grove"
+    },
+    {
+      "id": "56760f76-fe04-594a-8faa-cf94f5332ea7",
+      "ref": "6.316-320",
+      "title": "The mules step out"
+    },
+    {
+      "id": "4bb30f6a-7e1c-5f64-a79f-8ce7e118fe1c",
+      "ref": "6.323-327",
+      "title": "The prayer to Atrytone"
+    },
+    {
+      "id": "4fd9b0e8-6093-500c-96a2-9e6abc007145",
+      "ref": "6.323-331",
+      "title": "The prayer in the grove"
+    },
+    {
+      "id": "883a904c-e2e4-5361-9468-8f8a2b92675a",
+      "ref": "6.324-327",
+      "title": "Odysseus prays to Athena"
+    },
+    {
+      "id": "40175aea-db4c-5ca3-9ef0-017b024bedb9",
+      "ref": "6.324-327",
+      "title": "Odysseus' prayer in the grove"
+    },
+    {
+      "id": "65f8fe2a-370e-51af-a10a-13d1426bfcf5",
+      "ref": "6.324-328",
+      "title": "Dear and pitied"
+    },
+    {
+      "id": "e8e7aaa6-fe73-5a13-8a22-0b5f4fbceab2",
+      "ref": "6.324-328",
+      "title": "Hear me, child of Zeus"
+    },
+    {
+      "id": "d27f9c10-a0f8-56f2-9e67-3545ffd4351d",
+      "ref": "6.324-331",
+      "title": "Athena hears but does not appear"
+    },
+    {
+      "id": "e47a9a30-e22c-5c9c-bc01-522455b24adb",
+      "ref": "6.325-327",
+      "title": "Odysseus reproaches Athena"
+    },
+    {
+      "id": "97c45f14-3597-52d1-89ee-7d79485ac09e",
+      "ref": "6.328-331",
+      "title": "Athena hears but does not appear"
+    },
+    {
+      "id": "befe53f9-fc2f-5b42-a0a6-7eee67ebc3a0",
+      "ref": "6.328-331",
+      "title": "Athena holds back"
+    },
+    {
+      "id": "d7f75c1e-b945-5120-94bf-1b259d2a6757",
+      "ref": "6.328-331",
+      "title": "Her father's brother"
+    },
+    {
+      "id": "f48e238b-7445-5be5-89d8-e22e55dbeaf4",
+      "ref": "6.329-331",
+      "title": "Athena stands in awe of Poseidon"
+    },
+    {
+      "id": "d5c1603e-ee62-58c1-9f66-d3c70d2829c7",
+      "ref": "6.329-331",
+      "title": "She did not yet appear to him"
+    }
+  ]
+}

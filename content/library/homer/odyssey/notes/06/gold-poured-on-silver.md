@@ -1,0 +1,16 @@
+---
+summary: The first use of the simile. After Odysseus bathes in the river and dresses in the clothes Nausicaa gave him, Athena makes him taller and sturdier, lets his hair fall in curls, and pours grace on him like a gilder; he sits apart on the shore, gleaming, and the girl gazes at him.
+refs: [6.229-237]
+---
+
+{{quote:45dbc0d6-7cdb-5501-a61f-4c115beb80bf}}
+
+**The sequence.** The simile stands at the end of a bath. Odysseus has asked the handmaids to stand apart, since he is ashamed to be naked among girls (6.218–222). He washes the brine from his back and shoulders and the scurf of the sea from his head, anoints himself, and puts on the clothes that “the unwed maiden” gave him (6.224–228; see [[bathing]] and [[olive-oil]]). Then the goddess finishes what the water began. She makes him “taller to look upon and sturdier” (6.229–230), lets curling hair fall from his head (6.231; see [[like-the-hyacinth-flower]]), and the simile describes the last touch, the grace on his head and shoulders (6.232–235). The head and shoulders are the parts he has just washed (6.225–226). The craftsman adds his gold after the silver is clean.
+
+**The goddess and her craftsman.** The narrator says that the gilder was taught by Hephaestus “and Pallas Athena” (6.233), and the goddess who does the work in the tenor is Athena. A scholion makes the point: since Athena did this, the poet drew the image from her own craftsmen (schol. H.Q. on 6.235, Dindorf p. 313). Athena has worked by other means in this book: she came into the chamber like a breath of wind, in the shape of a girl (6.20–23; see [[like-a-breath-of-wind]] and [[dream-scene]]), and put daring into Nausicaa (6.139–140). Here she works as an artisan on the man himself (see [[athena]]).
+
+**The change.** The simile answers the first sight of Odysseus in the book. Then he was “terrible he appeared to them, marred by the brine” (6.137), and the narrator compared him to a hungry lion (6.130–136; see [[the-lion-and-the-girls]]). Now he sits “gleaming with beauty and graces” (κάλλεϊ καὶ χάρισι στίλβων, 6.237), and χάρις, the gift of 6.235, returns in the plural. The ancient reading of the simile is that the gold adds to a thing that is already fine: Odysseus was handsome before, but the sea had hidden it (schol. H.Q. on 6.235; see [[charis]]).
+
+**The effect on Nausicaa.** “And the girl gazed at him” (θηεῖτο δὲ κούρη, 6.237). She tells her handmaids what she sees: “before, he truly seemed to me to be unsightly, / but now he is like the gods who hold the wide sky”, and she wishes that such a man might be called her husband (6.242–245; see [[nausicaa]] and [[marriage]]). In his first speech Odysseus wondered whether she was a goddess (6.149–152; see [[god-or-mortal]]); after Athena's work she says that he is like the gods.
+
+**The later uses.** Athena pours grace on his head and shoulders again at the start of Book 8, “so that he might become dear to all the Phaeacians” (8.18–23). The words recall his prayer at the end of Book 6, to come to the Phaeacians “as one dear to them and pitied” (6.327; see [[dear-and-pitied]]). The whole passage 6.230–235 returns in Book 23, when he sits before Penelope after his bath (23.157–162).
